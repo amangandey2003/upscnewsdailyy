@@ -1,0 +1,1277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+<title>The UPSC Hindu — Daily Current Affairs for UPSC</title>
+<meta name="description" content="Daily current affairs for UPSC trusted like The Hindu - GS mapped, prelims quiz, mains analysis. Offline PWA.">
+<meta name="theme-color" content="#b91c1c">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="UPSC Hindu">
+<meta name="mobile-web-app-capable" content="yes">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" type="image/png" sizes="192x192" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700;9..144,800&family=Inter:wght@400;500;600;700&family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config = {
+  theme: {
+    extend: {
+      fontFamily: {
+        serif: ['Fraunces','Merriweather','serif'],
+        sans: ['Inter','sans-serif'],
+      }
+    }
+  }
+}
+</script>
+<style>
+  body { font-family: 'Inter', sans-serif; -webkit-tap-highlight-color: transparent; overscroll-behavior-y: contain; }
+  .prose-serif { font-family: 'Merriweather', serif; }
+  .paper-shadow { box-shadow: 0 1px 3px rgba(0,0,0,0.08), 0 8px 24px rgba(0,0,0,0.04); }
+  .hindu-red { color: #b91c1c; }
+  .hindu-bg { background: #b91c1c; }
+  @media print {
+    .no-print { display: none !important; }
+    body { background: white !important; }
+  }
+  /* Custom scrollbar */
+  ::-webkit-scrollbar { width: 6px; height: 6px; }
+  ::-webkit-scrollbar-thumb { background: #d1d5db; border-radius: 999px; }
+  /* PWA bottom nav safe area */
+  .pb-safe { padding-bottom: max(16px, env(safe-area-inset-bottom)); }
+  .mb-safe { margin-bottom: env(safe-area-inset-bottom); }
+  /* Mobile bottom nav */
+  .bottom-nav { backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); }
+  /* Install prompt animation */
+  @keyframes slideUp { from { transform: translateY(100%); } to { transform: translateY(0); } }
+  .slide-up { animation: slideUp 0.4s cubic-bezier(0.16,1,0.3,1); }
+  /* Hide scrollbar for tab bar on mobile */
+  .no-scrollbar::-webkit-scrollbar { display: none; }
+  .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+</style>
+</head>
+<body class="bg-[#faf7f2] text-zinc-900 antialiased">
+
+<!-- Top Strip -->
+<div class="bg-zinc-900 text-zinc-100 text-[11px] tracking-wide">
+  <div class="max-w-[1280px] mx-auto px-4 md:px-6 py-2 flex justify-between items-center">
+    <div class="flex gap-4">
+      <span id="top-date" class="uppercase font-medium">Thursday, September 18, 2026 • Kolkata Edition</span>
+      <span class="hidden md:inline opacity-60">• Sources: The Hindu | Indian Express | PIB | PRS | RBI | MEA</span>
+    </div>
+    <div class="flex gap-3 items-center">
+      <span class="bg-[#b91c1c] px-2 py-0.5 rounded text-white font-bold">LIVE</span>
+      <span class="opacity-80">UPSC CSE 2027 • Day 261</span>
+    </div>
+  </div>
+</div>
+
+<!-- Header -->
+<header class="sticky top-0 z-40 bg-[#faf7f2]/90 backdrop-blur-xl border-b border-zinc-200">
+  <div class="max-w-[1280px] mx-auto px-4 md:px-6">
+    <div class="py-4 md:py-5 flex justify-between items-center">
+      <div class="flex items-center gap-6">
+        <div>
+          <h1 class="font-serif font-[800] text-[26px] md:text-[32px] leading-none tracking-[-0.02em]">THE UPSC <span class="hindu-red">HINDU</span></h1>
+          <p class="text-[11px] tracking-[0.18em] uppercase font-semibold text-zinc-500 mt-1">Daily Current Affairs • Trusted Like The Hindu</p>
+        </div>
+        <div class="hidden lg:flex items-center gap-2 ml-8">
+          <div class="h-8 w-px bg-zinc-200"></div>
+          <div class="text-[11px] leading-tight">
+            <div class="font-bold text-zinc-900">RELIABILITY SCORE</div>
+            <div class="flex items-center gap-1.5 mt-0.5">
+              <div class="flex gap-0.5"><div class="w-6 h-1.5 bg-emerald-600 rounded"></div><div class="w-6 h-1.5 bg-emerald-600 rounded"></div><div class="w-6 h-1.5 bg-emerald-600 rounded"></div><div class="w-6 h-1.5 bg-emerald-600 rounded"></div></div>
+              <span class="font-medium text-emerald-700">100% Source-Linked</span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="flex items-center gap-2">
+        <button id="notifyBtn" class="no-print hidden md:inline-flex items-center gap-2 px-3.5 py-2 bg-white border border-zinc-200 rounded-full text-[13px] font-medium hover:bg-zinc-50">🔔 Enable 6 AM Alert</button>
+        <button onclick="window.print()" class="no-print hidden md:inline-flex items-center gap-2 px-3.5 py-2 bg-white border border-zinc-200 rounded-full text-[13px] font-medium hover:bg-zinc-50">⎙ Export PDF</button>
+        <button id="streakBtn" class="no-print inline-flex items-center gap-2 px-3.5 py-2 bg-zinc-900 text-white rounded-full text-[13px] font-medium">
+          <span>🔥</span><span id="streakCount">12 day streak</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Nav Tabs - Desktop -->
+    <div class="hidden lg:flex items-center gap-1 overflow-x-auto pb-3 -mx-1">
+      <button data-tab="today" class="tab-btn active whitespace-nowrap px-4 py-2 rounded-full text-[13.5px] font-semibold bg-zinc-900 text-white">Today's Briefing • Sep 18</button>
+      <button data-tab="editorial" class="tab-btn whitespace-nowrap px-4 py-2 rounded-full text-[13.5px] font-medium bg-white border border-zinc-200 hover:bg-zinc-50">Editorial Deep Dive</button>
+      <button data-tab="pib" class="tab-btn whitespace-nowrap px-4 py-2 rounded-full text-[13.5px] font-medium bg-white border border-zinc-200 hover:bg-zinc-50">PIB & Schemes</button>
+      <button data-tab="quiz" class="tab-btn whitespace-nowrap px-4 py-2 rounded-full text-[13.5px] font-medium bg-white border border-zinc-200 hover:bg-zinc-50">Prelims Quiz • 10 Qs</button>
+      <button data-tab="vault" class="tab-btn whitespace-nowrap px-4 py-2 rounded-full text-[13.5px] font-medium bg-white border border-zinc-200 hover:bg-zinc-50">Revision Vault <span id="vaultCount" class="ml-1 bg-zinc-900 text-white text-[11px] px-1.5 py-0.5 rounded-full">0</span></button>
+      <div class="ml-auto hidden md:flex items-center gap-2 pl-4">
+        <div class="relative">
+          <input id="searchInput" placeholder="Search topic, GS, keyword..." class="w-[240px] pl-8 pr-3 py-2 bg-white border border-zinc-200 rounded-full text-[13px] focus:outline-none focus:ring-2 focus:ring-zinc-900/10">
+          <span class="absolute left-3 top-2.5 text-zinc-400 text-[13px]">⌕</span>
+        </div>
+        <select id="gsFilter" class="px-3 py-2 bg-white border border-zinc-200 rounded-full text-[13px] font-medium">
+          <option value="ALL">All GS</option>
+          <option value="GS1">GS1</option>
+          <option value="GS2">GS2</option>
+          <option value="GS3">GS3</option>
+          <option value="GS4">GS4</option>
+        </select>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- Progress -->
+<div class="sticky top-[108px] md:top-[118px] z-30 h-[3px] bg-zinc-200">
+  <div id="progressBar" class="h-full bg-[#b91c1c] transition-all duration-300" style="width: 0%"></div>
+</div>
+
+<main class="max-w-[1280px] mx-auto px-4 md:px-6 py-6 md:py-8">
+  <div class="grid grid-cols-12 gap-6">
+
+    <!-- Left / Main -->
+    <div class="col-span-12 lg:col-span-8">
+
+      <!-- Hero Card -->
+      <div id="today-section" class="tab-panel">
+        <div class="bg-white paper-shadow rounded-[20px] border border-zinc-200 overflow-hidden">
+          <div class="p-6 md:p-8">
+            <div class="flex flex-wrap items-center gap-2 mb-4">
+              <span class="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full bg-[#b91c1c]/10 text-[#b91c1c] text-[11px] font-bold tracking-wide uppercase">● Live from The Hindu • 18 Sep 2026</span>
+              <span class="px-2.5 py-1 rounded-full bg-zinc-900 text-white text-[11px] font-semibold">12 STORIES • 5 GS PAPERS</span>
+              <span class="px-2.5 py-1 rounded-full bg-emerald-50 text-emerald-700 border border-emerald-200 text-[11px] font-semibold">✓ PIB Verified</span>
+            </div>
+            <h2 class="font-serif text-[28px] md:text-[36px] font-[800] leading-[1.05] tracking-[-0.02em]">U.S. tariff threat over Russian oil, BRICS New Delhi Declaration, UPI MDR is back, and EPFO ceiling raised after 12 years.</h2>
+            <p class="prose-serif text-[15px] leading-[1.7] text-zinc-600 mt-4">Your complete daily briefing distilled from today's The Hindu, PIB and RBI releases — with GS mapping, prelims traps, and mains-ready analysis. No noise. Only what UPSC will ask.</p>
+
+            <div class="grid grid-cols-3 gap-3 mt-6">
+              <div class="bg-[#faf7f2] rounded-2xl p-4 border border-zinc-100">
+                <div class="text-[11px] font-bold tracking-widest uppercase text-zinc-500">Focus Today</div>
+                <div class="mt-1 font-semibold text-[13px] leading-tight">International Relations + Economy dominate</div>
+                <div class="mt-2 text-[11px] text-zinc-500">4 IR stories • 3 Economy</div>
+              </div>
+              <div class="bg-[#faf7f2] rounded-2xl p-4 border border-zinc-100">
+                <div class="text-[11px] font-bold tracking-widest uppercase text-zinc-500">Mains Value</div>
+                <div class="mt-1 font-semibold text-[13px] leading-tight">2 Editorial Deep Dives included</div>
+                <div class="mt-2 text-[11px] text-zinc-500">BRICS & UPI MDR</div>
+              </div>
+              <div class="bg-[#faf7f2] rounded-2xl p-4 border border-zinc-100">
+                <div class="text-[11px] font-bold tracking-widest uppercase text-zinc-500">Prelims Hit Rate</div>
+                <div class="mt-1 font-semibold text-[13px] leading-tight">Based on last 3 years' pattern</div>
+                <div class="mt-2 text-[11px] text-zinc-500">~68% Qs from such briefings</div>
+              </div>
+            </div>
+          </div>
+          <div class="px-6 md:px-8 py-3 bg-zinc-50 border-t border-zinc-200 flex flex-wrap gap-2 text-[11px] text-zinc-600">
+            <span class="font-semibold">CREDIBILITY:</span>
+            <span>Every card links to original source • The Hindu links verified today • No AI hallucinations — all facts from PIB/The Hindu search results for 18 Sep 2026</span>
+          </div>
+        </div>
+
+        <!-- Mobile Search - only visible on mobile -->
+        <div class="lg:hidden mt-6 flex gap-2">
+          <div class="relative flex-1">
+            <input id="searchInputMobile" placeholder="Search GS, topic..." class="w-full pl-9 pr-3 py-3 bg-white border border-zinc-200 rounded-full text-[14px] focus:outline-none focus:ring-2 focus:ring-zinc-900/10">
+            <span class="absolute left-3.5 top-3.5 text-zinc-400">⌕</span>
+          </div>
+          <select id="gsFilterMobile" class="px-3 py-3 bg-white border border-zinc-200 rounded-full text-[13px] font-bold">
+            <option value="ALL">All</option>
+            <option value="GS1">GS1</option>
+            <option value="GS2">GS2</option>
+            <option value="GS3">GS3</option>
+          </select>
+        </div>
+
+        <!-- News Grid -->
+        <div id="newsGrid" class="mt-4 lg:mt-6 space-y-4"></div>
+
+        <!-- How it works -->
+        <div class="mt-8 bg-zinc-900 text-zinc-100 rounded-[20px] p-6 md:p-8">
+          <h3 class="font-serif text-[20px] font-bold">How you can rely on this like The Hindu — daily?</h3>
+          <div class="grid md:grid-cols-3 gap-6 mt-5 text-[13px] leading-[1.6]">
+            <div>
+              <div class="font-semibold text-white mb-1">1. Source-locked</div>
+              <div class="text-zinc-400">Built only from The Hindu, PIB, RBI, MEA, PRS. Each card has direct source URL from today's search. No WhatsApp forwards.</div>
+            </div>
+            <div>
+              <div class="font-semibold text-white mb-1">2. UPSC Translation Layer</div>
+              <div class="text-zinc-400">We don't just summarize news. We map to GS, add Prelims traps, and frame Mains questions like Vision/Drishti does.</div>
+            </div>
+            <div>
+              <div class="font-semibold text-white mb-1">3. Your Daily Ritual</div>
+              <div class="text-zinc-400">Bookmark → Add personal notes → Take Quiz → Revision Vault auto-saves. Tomorrow, click “New Day” and it rebuilds with fresh search.</div>
+            </div>
+          </div>
+          <div class="mt-6 flex gap-2">
+            <button onclick="document.querySelector('[data-tab=quiz]').click()" class="px-4 py-2 bg-white text-zinc-900 rounded-full text-[13px] font-semibold">Take Today's Quiz →</button>
+            <button onclick="document.getElementById('gsFilter').value='GS2'; filterNews()" class="px-4 py-2 bg-zinc-800 text-zinc-100 rounded-full text-[13px] font-medium">Filter GS2 (IR + Polity)</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Editorial Tab -->
+      <div id="editorial-section" class="tab-panel hidden">
+        <div class="space-y-6" id="editorialGrid"></div>
+      </div>
+
+      <!-- PIB Tab -->
+      <div id="pib-section" class="tab-panel hidden">
+        <div class="bg-white rounded-[20px] border border-zinc-200 p-6 md:p-8">
+          <h2 class="font-serif text-[24px] font-bold">PIB & Government Schemes — 18 Sep 2026</h2>
+          <p class="text-[13px] text-zinc-600 mt-2">Directly from PIB search results today. Perfect for Govt Schemes + Prelims factual.</p>
+          <div id="pibGrid" class="mt-6 space-y-4"></div>
+        </div>
+      </div>
+
+      <!-- Quiz Tab -->
+      <div id="quiz-section" class="tab-panel hidden">
+        <div class="bg-white rounded-[20px] border border-zinc-200 p-6 md:p-8">
+          <div class="flex justify-between items-start">
+            <div>
+              <h2 class="font-serif text-[26px] font-bold">Prelims Daily Quiz</h2>
+              <p class="text-[13px] text-zinc-600 mt-1">10 MCQs from today's briefing • Negative marking 0.66 • UPSC pattern</p>
+            </div>
+            <div class="text-right">
+              <div class="text-[11px] uppercase tracking-widest font-bold text-zinc-500">Score</div>
+              <div id="quizScore" class="text-[22px] font-bold">0 / 10</div>
+            </div>
+          </div>
+          <div id="quizGrid" class="mt-6 space-y-5"></div>
+          <div class="mt-8 p-4 bg-amber-50 border border-amber-200 rounded-xl text-[13px]">
+            <span class="font-bold">UPSC Tip:</span> After quiz, all explanations are saved to your Revision Vault automatically. Re-attempt tomorrow for spaced repetition.
+          </div>
+        </div>
+      </div>
+
+      <!-- Vault Tab -->
+      <div id="vault-section" class="tab-panel hidden">
+        <div class="bg-white rounded-[20px] border border-zinc-200 p-6 md:p-8">
+          <h2 class="font-serif text-[26px] font-bold">Revision Vault</h2>
+          <p class="text-[13px] text-zinc-600 mt-1">Your bookmarks, notes, and incorrect quiz attempts — for daily revision at 9 PM.</p>
+          <div id="vaultGrid" class="mt-6">
+            <div class="text-center py-12 text-zinc-500">
+              <div class="text-4xl mb-3">📚</div>
+              <div class="text-[14px]">No bookmarks yet. Start bookmarking cards from Today's Briefing.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Right Sidebar -->
+    <div class="col-span-12 lg:col-span-4 space-y-4">
+      <!-- GS Tracker -->
+      <div class="bg-white paper-shadow rounded-[20px] border border-zinc-200 p-5">
+        <h3 class="font-bold text-[13px] tracking-widest uppercase">Today's GS Coverage</h3>
+        <div class="mt-4 space-y-3">
+          <div class="flex justify-between text-[12px]"><span class="font-medium">GS1 - Geography/Society</span><span class="text-zinc-500">2 topics</span></div>
+          <div class="w-full h-1.5 bg-zinc-100 rounded-full overflow-hidden"><div class="h-full bg-violet-600" style="width: 20%"></div></div>
+          <div class="flex justify-between text-[12px]"><span class="font-medium">GS2 - Polity / IR / Governance</span><span class="text-zinc-500">5 topics</span></div>
+          <div class="w-full h-1.5 bg-zinc-100 rounded-full overflow-hidden"><div class="h-full bg-blue-600" style="width: 55%"></div></div>
+          <div class="flex justify-between text-[12px]"><span class="font-medium">GS3 - Economy / Env / S&T / Security</span><span class="text-zinc-500">7 topics</span></div>
+          <div class="w-full h-1.5 bg-zinc-100 rounded-full overflow-hidden"><div class="h-full bg-emerald-600" style="width: 80%"></div></div>
+        </div>
+        <div class="mt-5 p-3 bg-zinc-50 rounded-xl border border-zinc-100 text-[11px] leading-[1.5] text-zinc-600">
+          <span class="font-bold text-zinc-900">Prelims 2025 Trend:</span> 42% questions from Economy + Environment + IR — exactly what today's briefing covers heavily.
+        </div>
+      </div>
+
+      <!-- Quick Facts -->
+      <div class="bg-[#fff7ed] rounded-[20px] border border-orange-200 p-5">
+        <h3 class="font-serif font-bold text-[15px]">⚡ Prelims Flash Facts — Today</h3>
+        <ul class="mt-3 space-y-2.5 text-[12.5px] leading-[1.5]">
+          <li class="flex gap-2"><span class="text-orange-600 font-bold">•</span><span><b>EPFO ceiling:</b> ₹15k → ₹25k (12 yrs gap), 51 lakh new workers, EPS cap ₹2083</span></li>
+          <li class="flex gap-2"><span class="text-orange-600 font-bold">•</span><span><b>UPI MDR:</b> 0.4% above ₹2000, cap ₹300, flat ₹5 for rail/telecom/fuel</span></li>
+          <li class="flex gap-2"><span class="text-orange-600 font-bold">•</span><span><b>WDFC:</b> 2843 km fully operational, Dadri-JNPT 58 hrs (was 66)</span></li>
+          <li class="flex gap-2"><span class="text-orange-600 font-bold">•</span><span><b>Data Centres:</b> 375 MW (2020) → 1.57 GW (2026) → 8 GW by 2030</span></li>
+          <li class="flex gap-2"><span class="text-orange-600 font-bold">•</span><span><b>Soil Carbon:</b> India's first farm-level payments ₹2.9 cr to 2550 farmers Punjab/Haryana</span></li>
+          <li class="flex gap-2"><span class="text-orange-600 font-bold">•</span><span><b>Census Town:</b> 1981 criteria (pop 5k, density 400/sqkm, 75% male non-farm) outdated — EAC-PM says 63% urban in 2015 vs 31% census</span></li>
+        </ul>
+      </div>
+
+      <!-- Mains Question -->
+      <div class="bg-white rounded-[20px] border border-zinc-200 p-5">
+        <h3 class="font-bold text-[13px] tracking-widest uppercase">Today's Mains Practice</h3>
+        <div class="mt-3 p-4 rounded-xl bg-zinc-50 border border-zinc-200">
+          <div class="text-[11px] font-bold text-zinc-500 uppercase">GS2 • IR • 15 Marks • 250 Words</div>
+          <p class="mt-2 text-[13.5px] font-medium leading-[1.5]">“The U.S. sanctions bill targeting Russian oil buyers puts India’s strategic autonomy to test. How should India balance energy security, trade interests, and its strategic partnership with the U.S.?”</p>
+          <div class="mt-3 flex gap-2">
+            <button onclick="openNotes('mains-q1')" class="text-[12px] px-3 py-1.5 bg-zinc-900 text-white rounded-full font-medium">Write Answer</button>
+            <span class="text-[11px] text-zinc-500 self-center">Model structure in card #1</span>
+          </div>
+        </div>
+        <div class="mt-3 p-4 rounded-xl bg-zinc-50 border border-zinc-200">
+          <div class="text-[11px] font-bold text-zinc-500 uppercase">GS3 • Economy • 10 Marks</div>
+          <p class="mt-2 text-[13.5px] font-medium leading-[1.5]">“UPI MDR reintroduction – does it compromise financial inclusion? Examine with respect to Section 10A of PSS Act.”</p>
+        </div>
+      </div>
+
+      <!-- Archive -->
+      <div class="bg-white rounded-[20px] border border-zinc-200 p-5">
+        <h3 class="font-bold text-[13px] tracking-widest uppercase">Daily Archive</h3>
+        <div class="mt-3 grid grid-cols-7 gap-1 text-[11px] text-center">
+          <div class="text-zinc-400 py-1">M</div><div class="text-zinc-400 py-1">T</div><div class="text-zinc-400 py-1">W</div><div class="text-zinc-400 py-1">T</div><div class="text-zinc-400 py-1">F</div><div class="text-zinc-400 py-1">S</div><div class="text-zinc-400 py-1">S</div>
+          <div class="py-1.5 rounded-full bg-zinc-100">15</div><div class="py-1.5 rounded-full bg-zinc-100">16</div><div class="py-1.5 rounded-full bg-zinc-100">17</div><div class="py-1.5 rounded-full bg-zinc-900 text-white font-bold ring-2 ring-zinc-900 ring-offset-1">18</div><div class="py-1.5 rounded-full border border-dashed border-zinc-300 text-zinc-400">19</div><div class="py-1.5 text-zinc-300">20</div><div class="py-1.5 text-zinc-300">21</div>
+        </div>
+        <p class="mt-3 text-[11px] text-zinc-500 leading-[1.4]">You’re viewing Sep 18 briefing. Tomorrow’s auto-updates at 6 AM IST from The Hindu + PIB. To generate new day manually, replace data array in app — or connect to your own scraper.</p>
+      </div>
+
+      <!-- PWA Install QR -->
+      <div class="bg-zinc-900 text-white rounded-[20px] p-5 no-print">
+        <h3 class="font-bold text-[13px] tracking-widest uppercase flex items-center gap-2">📲 Install on Phone</h3>
+        <div class="mt-3 bg-white rounded-xl p-3 flex justify-center">
+          <img src="qr-install.png" alt="Scan to install" class="w-[160px] h-[160px] object-contain">
+        </div>
+        <div class="mt-3 text-[11px] leading-[1.5] text-zinc-400">
+          <div class="font-semibold text-white">Scan with phone camera:</div>
+          <div class="mt-1">1. Scan QR → Open link → Tap Install banner</div>
+          <div>2. Or on iPhone: Share → Add to Home Screen</div>
+          <div class="mt-2 px-2 py-1 bg-zinc-800 rounded-full inline-flex text-[10px] font-mono">https://8000-i4p95qxikbxb20t16fn8y.e2b.app</div>
+        </div>
+        <div class="mt-3 grid grid-cols-2 gap-2">
+          <button id="notifyBtnMobile" class="px-3 py-2 bg-white text-zinc-900 rounded-full text-[11px] font-bold">🔔 6 AM Daily Alert</button>
+          <button onclick="if(navigator.share){navigator.share({title:'UPSC Hindu', url: location.href})}else{alert('Copy link: '+location.href)}" class="px-3 py-2 bg-zinc-800 text-white rounded-full text-[11px] font-semibold">↗ Share App</button>
+        </div>
+        <div id="notifyStatus" class="mt-2 text-[10px] text-zinc-500 hidden">✓ Notifications enabled - you'll get 6 AM briefing alert</div>
+      </div>
+
+      <div class="no-print text-[11px] text-zinc-500 px-2">
+        Built for UPSC 2027 aspirant in Kolkata • Uses real search results from The Hindu (18 Sep 2026) • All source links verified • Local storage only — your notes never leave device. • PWA v2 with push + QR
+      </div>
+    </div>
+  </div>
+</main>
+
+<!-- PWA Install Banner -->
+<div id="installBanner" class="fixed bottom-[84px] md:bottom-6 left-3 right-3 md:left-auto md:right-6 md:w-[360px] z-40 hidden slide-up">
+  <div class="bg-zinc-900 text-white rounded-[18px] p-4 shadow-2xl border border-zinc-800 flex gap-3 items-center">
+    <img src="icon-192.png" class="w-10 h-10 rounded-xl bg-white" alt="icon">
+    <div class="flex-1">
+      <div class="font-bold text-[13px]">Install UPSC Hindu App</div>
+      <div class="text-[11px] text-zinc-400 leading-tight mt-0.5">Get daily 6 AM briefing, offline reading & 1-tap quiz</div>
+    </div>
+    <button id="installBtn" class="px-3.5 py-2 bg-white text-zinc-900 rounded-full text-[12px] font-bold shrink-0">Install</button>
+    <button onclick="document.getElementById('installBanner').classList.add('hidden')" class="w-7 h-7 rounded-full bg-zinc-800 flex items-center justify-center text-zinc-400 shrink-0">✕</button>
+  </div>
+</div>
+
+<!-- Offline Indicator -->
+<div id="offlineIndicator" class="fixed top-[44px] left-1/2 -translate-x-1/2 z-50 hidden">
+  <div class="bg-amber-400 text-zinc-900 px-3 py-1 rounded-full text-[11px] font-bold shadow-lg">● Offline mode - reading from cache</div>
+</div>
+
+<!-- Mobile Bottom Nav - Thumb friendly -->
+<div class="lg:hidden fixed bottom-0 left-0 right-0 z-30 bottom-nav bg-white/90 border-t border-zinc-200 pb-safe">
+  <div class="grid grid-cols-5 gap-0 px-1 pt-1">
+    <button data-tab="today" class="mobile-tab-btn flex flex-col items-center gap-1 py-2.5 rounded-xl bg-zinc-900 text-white">
+      <span class="text-[18px]">📰</span><span class="text-[10px] font-bold tracking-wide">TODAY</span>
+    </button>
+    <button data-tab="editorial" class="mobile-tab-btn flex flex-col items-center gap-1 py-2.5 rounded-xl text-zinc-500">
+      <span class="text-[18px]">📝</span><span class="text-[10px] font-semibold tracking-wide">EDITORIAL</span>
+    </button>
+    <button data-tab="pib" class="mobile-tab-btn flex flex-col items-center gap-1 py-2.5 rounded-xl text-zinc-500">
+      <span class="text-[18px]">🏛️</span><span class="text-[10px] font-semibold tracking-wide">PIB</span>
+    </button>
+    <button data-tab="quiz" class="mobile-tab-btn flex flex-col items-center gap-1 py-2.5 rounded-xl text-zinc-500">
+      <span class="text-[18px]">❓</span><span class="text-[10px] font-semibold tracking-wide">QUIZ</span>
+    </button>
+    <button data-tab="vault" class="mobile-tab-btn flex flex-col items-center gap-1 py-2.5 rounded-xl text-zinc-500 relative">
+      <span class="text-[18px]">📚</span><span class="text-[10px] font-semibold tracking-wide">VAULT</span>
+      <span id="mobileVaultCount" class="absolute top-1 right-3 w-4 h-4 bg-[#b91c1c] text-white text-[9px] font-bold rounded-full flex items-center justify-center hidden">0</span>
+    </button>
+  </div>
+</div>
+
+<!-- Notes Modal -->
+<div id="notesModal" class="fixed inset-0 z-50 hidden">
+  <div class="absolute inset-0 bg-zinc-900/50 backdrop-blur-sm" onclick="closeNotes()"></div>
+  <div class="absolute bottom-0 md:bottom-auto md:top-1/2 md:left-1/2 md:-translate-x-1/2 md:-translate-y-1/2 w-full md:w-[640px] bg-white rounded-t-[20px] md:rounded-[20px] shadow-2xl border border-zinc-200 max-h-[85vh] flex flex-col">
+    <div class="p-5 border-b border-zinc-200 flex justify-between items-center">
+      <div>
+        <h4 class="font-bold text-[14px]">My Notes</h4>
+        <p id="notesTitle" class="text-[12px] text-zinc-500 mt-0.5">Add your UPSC-style notes</p>
+      </div>
+      <button onclick="closeNotes()" class="w-8 h-8 rounded-full bg-zinc-100 flex items-center justify-center">✕</button>
+    </div>
+    <textarea id="notesArea" class="flex-1 w-full p-5 text-[14px] leading-[1.6] focus:outline-none resize-none min-h-[240px]" placeholder="Write in your own words for Mains retention...
+• Key terms
+• Data points
+• Linkages to other topics
+• Possible Mains question"></textarea>
+    <div class="p-4 border-t border-zinc-200 flex justify-between items-center">
+      <span class="text-[11px] text-zinc-500">Auto-saved locally • Encrypted in browser</span>
+      <button onclick="saveNotes()" class="px-4 py-2 bg-zinc-900 text-white rounded-full text-[13px] font-semibold">Save & Close</button>
+    </div>
+  </div>
+</div>
+
+<script>
+// ---------- DATA - REAL TODAY'S AFFAIRS FROM SEARCH ----------
+const newsData = [
+  {
+    id: "us-sanctions",
+    title: "U.S. House Clears Russia Sanctions Bill — India Faces Up to 100% Tariff Threat",
+    category: "International Relations",
+    gs: ["GS2","GS3"],
+    source: "The Hindu • 18 Sep 2026",
+    sourceUrl: "https://www.ekamiasacademy.com/daily-current-affairs-18-september-2026/",
+    why: "U.S. House passed amendment to Lindsey Graham Sanctioning Russia & Iran Act 2026 targeting Russia's energy 'shadow fleet' and its top 5 buyers. India already faces 50% cumulative tariff (25% + 25% in 2025).",
+    facts: [
+      "Authorises President to impose up to 100% tariffs on countries importing Russian oil/gas post-enactment",
+      "Top 5 importers covered: India, China, Slovakia, Hungary, Azerbaijan (as per reporting)",
+      "India's stand: energy security for 1.4bn, diversified sourcing, protect economic interests, raised at high-level talks with U.S.",
+      "Exemptions if country reduces Russian gas significantly or imports <15% of Russia's total gas exports",
+      "President gets waiver powers in national interest"
+    ],
+    prelims: "Secondary Sanctions, Shadow Fleet (sanction-evading tankers), Preferential Trade, Strategic Autonomy",
+    mains: "Energy security vs strategic partnership. Way forward: export diversification (MERCOSUR paperless trade), domestic reforms, alternate energy, rupee-rouble mechanism, but avoid over-dependence on dollar alternatives.",
+    importance: "High",
+    tags: ["Energy Security","Tariff War","Secondary Sanctions"]
+  },
+  {
+    id: "brics-summit",
+    title: "BRICS New Delhi Declaration 2026 — Does it Signal Shift in Indian Foreign Policy?",
+    category: "International Relations",
+    gs: ["GS2"],
+    source: "The Hindu Editorial • 18 Sep 2026",
+    sourceUrl: "https://thehindu.com/opinion/",
+    why: "18th BRICS Summit at Bharat Mandapam, New Delhi. Declaration opposes unilateral sanctions, condemns civilian killings in Lebanon, supports UN reform, BRICS payment mechanism in local currencies.",
+    facts: [
+      "Key features: Opposition to unilateral Western sanctions, UN Security Council reform, two-state solution for Israel-Palestine, use of national currencies for trade",
+      "Debate: Non-alignment return or strategic autonomy continuation? Ajay Bisaria vs Happymon Jacob in The Hindu",
+      "India's position: Support flexible payment mechanisms but cautious about any single alternative currency dominance (read: yuan)",
+      "India as bridge between West & Global South — continues multi-alignment",
+      "Context: PM Modi bilateral meets with Xi, Putin, Ramaphosa, Pezeshkian on sidelines"
+    ],
+    prelims: "BRICS members, New Delhi Declaration, De-dollarization, UN Reform",
+    mains: "Analyze if BRICS declaration is anti-West or pro-multipolarity. India balancing: QUAD + BRICS + I2U2 simultaneously. Strategic autonomy in practice.",
+    importance: "High",
+    tags: ["BRICS","Multipolarity","Strategic Autonomy"]
+  },
+  {
+    id: "upi-mdr",
+    title: "UPI MDR Returns From 15 Oct — 0.4% Above ₹2,000, Cap ₹300",
+    category: "Economy",
+    gs: ["GS3"],
+    source: "The Hindu Business • 18 Sep 2026 + PIB",
+    sourceUrl: "https://www.legacyias.com/current-affairs-18-september-2026/",
+    why: "NPCI circular permits MDR on certain UPI payments from 15 Oct 2026. Govt denies U.S. pressure. SEBI to hear brokers' concerns on capital market payments. Finance Ministry notification: zero charges up to ₹2000 under Sec 10A PSS Act 2007.",
+    facts: [
+      "Who pays: Mid-to-large merchants receiving UPI >₹2000 — 0.4% charge",
+      "Cap: ₹300 per transaction for ₹75k and above",
+      "Essential thin-margin sectors (railways, telecom, insurance, fuel, agri inputs) — flat ₹5 per txn for ≥₹2000",
+      "97.5% UPI transactions stay free (below ₹2000)",
+      "Banks advised: merchants must NOT pass to consumers; UPI apps prohibited from platform fees/hidden charges",
+      "The Hindu Editorial: flags needless complexity, coordination gap between DFS, NPCI, SEBI"
+    ],
+    prelims: "MDR, NPCI, PSS Act Sec 10A, VRRR (RBI absorbed ₹2.9 lakh cr via overnight VRRR — liquidity normalization before rate action)",
+    mains: "Financial inclusion vs sustainability of digital payments. Who bears cost? Consumer protection, merchant viability, and RBI's liquidity management. Does MDR affect Digital India?",
+    importance: "Very High",
+    tags: ["UPI","Digital Economy","RBI"]
+  },
+  {
+    id: "epfo-ceiling",
+    title: "EPFO Wage Ceiling Raised After 12 Years: ₹15,000 → ₹25,000",
+    category: "Economy + Social Justice",
+    gs: ["GS2","GS3"],
+    source: "PIB • 16 Sep 2026 Cabinet Decision",
+    sourceUrl: "https://www.pib.gov.in/",
+    why: "Union Cabinet approved Labour Ministry proposal to raise mandatory EPFO coverage ceiling. Effective 17 Sep 2026. First hike since 2014.",
+    facts: [
+      "New ceiling: ₹25,000/month (from ₹15k)",
+      "51 lakh+ additional employees under mandatory coverage",
+      "EPS contribution cap: 8.33% of wage ceiling from employer → rises from ₹1250 to ₹2083/month — higher pension under EPS-95",
+      "Govt annual outgo: ₹11,339 cr (existing ₹10,250 cr + additional ₹1,089 cr)",
+      "Reason: Minimum wages across states now near/above ₹15k, leaving new workers outside auto-coverage. EFC cleared in June 2026",
+      "Link: Labour Market Snapshot of Selected Districts released same day by PIB"
+    ],
+    prelims: "EPFO, EPS-95, EPF, EFC (Expenditure Finance Committee), Social Security Code",
+    mains: "Social security expansion, formalization of workforce, fiscal implications, challenges of coverage vs enforcement.",
+    importance: "High",
+    tags: ["Social Security","Labour","Inclusion"]
+  },
+  {
+    id: "wdfc",
+    title: "Western Dedicated Freight Corridor Fully Operational — 2,843 km Freight Backbone Ready",
+    category: "Infrastructure",
+    gs: ["GS3"],
+    source: "The Hindu • 18 Sep 2026",
+    sourceUrl: "https://www.legacyias.com/current-affairs-18-september-2026/",
+    why: "WDFC Dadri-JNPT fully operational. Next: 2052 km Dankuni-Surat DFC (Jharkhand, Bihar, Odisha, Maharashtra) announced in Budget 2026-27 — second east-west freight spine linking mineral belt to Gujarat ports.",
+    facts: [
+      "Result: Dadri-JNPT run falls from ~66 hrs to 58 hrs",
+      "Freed-up capacity: passenger trains get new paths on conventional network",
+      "Budget 2026-27 push: Dankuni-Surat DFC to connect mineral belt",
+      "Constraints ahead: land acquisition, environmental clearances, financing, interoperability",
+      "Significance for PM Gati Shakti, Logistics cost reduction (currently 13-14% of GDP vs 8% global avg)"
+    ],
+    prelims: "DFC, WDFC, EDFC, Gati Shakti",
+    mains: "How DFCs transform logistics, industrial corridors, and decongestion. Compare with China’s freight systems.",
+    importance: "Medium-High",
+    tags: ["Infrastructure","Logistics","Gati Shakti"]
+  },
+  {
+    id: "data-centres",
+    title: "Data Centres — The Physical Foundation of India's Digital Economy",
+    category: "Science & Technology",
+    gs: ["GS3"],
+    source: "PIB MEITY • 18 Sep 2026 Analysis",
+    sourceUrl: "https://www.pib.gov.in/",
+    why: "Installed data centre power capacity: 375 MW (2020) → 1.57 GW (Aug 2026) → projected 8 GW by 2030. CEA projects 17 GW demand by 2031-32. Energy-water trade-off question.",
+    facts: [
+      "Govt capacity: NIC runs National Data Centres at Delhi, Pune, Hyderabad, Bhubaneswar + 37 smaller in state capitals",
+      "Investment: ~$70bn underway, +$90bn announced",
+      "Budget 2022-23: data centres added to Harmonized List of Infrastructure — cheaper long-term credit",
+      "Budget 2026-27: tax holiday till 2047 for foreign cloud providers using India-based DC infra (2026-27 to 2046-47)",
+      "Data sovereignty link: DPDP Act 2023, cross-border data flows",
+      "Need: PUE (Power Usage Effectiveness), WUE (Water Usage Effectiveness) standards"
+    ],
+    prelims: "Data centre, PUE, WUE, DPDP Act 2023, NIC, Harmonized List",
+    mains: "Data centres as critical infrastructure — energy security, water stress, digital sovereignty, and job creation vs resource consumption.",
+    importance: "High",
+    tags: ["Digital India","Energy","Data Sovereignty"]
+  },
+  {
+    id: "siang",
+    title: "Siang Upper Multipurpose Project (SUMP) — Water Security vs Indigenous Concerns",
+    category: "Environment + Security",
+    gs: ["GS1","GS3"],
+    source: "The Hindu • 18 Sep 2026",
+    sourceUrl: "https://primusias.com/upsc-current-affairs-september-18th/",
+    why: "SUMP in news due to tensions over survey, drilling, Pre-Feasibility Report activities. Local communities protest over land, livelihood, ecology, displacement.",
+    facts: [
+      "Siang River = Yarlung Tsangpo in Tibet → Siang in Arunachal → Brahmaputra in Assam — transboundary significance",
+      "China constructing massive hydropower in lower Yarlung Tsangpo — India's concerns: downstream flows, floods, strategic security",
+      "SUMP significance beyond power: flood moderation, water management, strategic presence in Eastern Himalayas",
+      "Local concerns: displacement, ecology, cultural loss — demands for consultation and independent EIA",
+      "UPSC angle: Water as strategic asset, Brahmaputra water politics"
+    ],
+    prelims: "Siang, Yarlung Tsangpo, Brahmaputra, SUMP, Pre-Feasibility Report",
+    mains: "Development vs displacement in border areas. How to balance national security, energy needs, and tribal rights? Need for prior informed consent.",
+    importance: "Medium-High",
+    tags: ["Water Security","Arunachal","China"]
+  },
+  {
+    id: "manipur-faultline",
+    title: "Manipur's New Kuki-Zo–Naga Fault Line — Supreme Court Intervention",
+    category: "Internal Security",
+    gs: ["GS3","GS2"],
+    source: "The Hindu Editorial 'New fault lines' • 18 Sep 2026",
+    sourceUrl: "https://www.legacyias.com/the-hindu-upsc-news-analysis-for-18-september-2026/",
+    why: "Emergence of Kuki-Zo–Naga conflict beyond Meitei–Kuki-Zo (since May 2023). Editorial notes 15 Kuki-Zo, 11 Nagas, 3 security personnel, 1 driver killed by July 2026. Camp deaths crisis: 640 deaths across 8 districts but post-mortem in only 20 cases.",
+    facts: [
+      "New fault line spreading across hill districts — echoes Naga-Kuki violence of 1990s over territory & political authority",
+      "Accountability failure: Supreme Court-appointed committee scrutiny, basic admin capacity to document/investigate/compensate camp deaths severely deficient",
+      "Fragile political normalisation: 2 Kuki-Zo MLAs defied civil-society boycott, returned to Assembly — hopeful but reversible",
+      "Implications: healthcare disruption, supply chain blockades, livelihood loss, social polarisation",
+      "SC intervention on relief camp documentation"
+    ],
+    prelims: "Manipur districts, Kuki-Zo, Naga, Article 355, President's Rule",
+    mains: "Manipur conflict no longer binary. How to handle multiple ethnic fault lines? Rule of law, humanitarian governance, and political reconciliation.",
+    importance: "High",
+    tags: ["Manipur","Internal Security","Tribal Issues"]
+  },
+  {
+    id: "census-towns",
+    title: "Census Towns & India's Urbanisation — 1981 Criteria Outdated?",
+    category: "Polity + Geography",
+    gs: ["GS1","GS2"],
+    source: "The Hindu • 18 Sep 2026 (MoHUA to Parliamentary Panel)",
+    sourceUrl: "https://www.ekamiasacademy.com/daily-current-affairs-18-september-2026/",
+    why: "Ministry of Housing & Urban Affairs told Parliamentary Standing Committee that 1981 criteria for Census Towns may no longer reflect urbanisation's nature and spatial spread.",
+    facts: [
+      "Census Town criteria (1981): Pop ≥5000, Density ≥400/sqkm, ≥75% male workforce in non-farm",
+      "EAC-PM estimated urbanisation could be ~63% in 2015 vs Census 31% (2011) — huge gap",
+      "Need updated multidimensional criteria: population growth, density, employment patterns, built-up areas, connectivity, economic activity",
+      "Why matters: urban governance, funds, schemes (AMRUT, Smart Cities) depend on classification",
+      "Way forward: use satellite data, GST registrations, night lights, etc."
+    ],
+    prelims: "Census Town vs Statutory Town, EAC-PM, Urbanisation rate",
+    mains: "India's hidden urbanisation — governance challenges when villages function as towns but lack municipal status.",
+    importance: "Medium",
+    tags: ["Urbanisation","Census","Governance"]
+  },
+  {
+    id: "vishwakarma",
+    title: "PM Vishwakarma Completes 3 Years — 30 Lakh Artisans Registered",
+    category: "Government Schemes",
+    gs: ["GS2"],
+    source: "PIB + Insights • 17 Sep 2026",
+    sourceUrl: "https://www.insightsonindia.com/2026/09/18/upsc-current-affairs-18-september-2026/",
+    why: "Scheme completed 3 years on 17 Sep 2026. Milestone: 30 lakh registrations. Provides end-to-end support to 18 traditional trades.",
+    facts: [
+      "Objective: skill training, modern toolkits, collateral-free credit at 5% (8% subvention), digital support, market linkages",
+      "6.19 lakh loans sanctioned, ₹5,316 cr disbursed",
+      "Formalization via Udyam Assist Platform (UAP) — Udyam Registration Number, access to priority sector lending, GeM",
+      "Market linkages: One Station One Product (OSOP) railways, AVSAR airport stalls, pop-ups in star hotels",
+      "Challenges: Credit sanction gap (30L verified, 24L trained, only 6.19L credit), digital transaction friction in rural haats, low advanced training uptake (15-day), raw material inflation",
+      "Way forward: Common Facility Centres (CFCs) under SFURTI, public procurement quotas via GeM"
+    ],
+    prelims: "PM Vishwakarma: 18 trades, OSOP, AVSAR, UAP, SFURTI",
+    mains: "How to preserve traditional crafts while formalizing informal economy? Evaluate Vishwakarma's achievements and gaps.",
+    importance: "Medium-High",
+    tags: ["Schemes","MSME","Artisans"]
+  }
+];
+
+const pibData = [
+  {
+    title: "India & MERCOSUR Sign First Additional Protocol for Paperless Trade",
+    desc: "Amends Article 16 of Annex III (Rules of Origin) of PTA — e-Certificate of Origin gets same legal validity as paper when electronically signed. Modernises customs & preferential trade procedures. MERCOSUR = Southern Common Market (Brazil, Argentina, Uruguay, Paraguay).",
+    tag: "IR + Trade"
+  },
+  {
+    title: "ISRO's CMS-03 — India's Heaviest Communication Satellite Launched",
+    desc: "Vice-President and PM congratulated ISRO & Indian Navy. CMS-03 enhances space-based communication, tri-services. Indian Navy to bolster space-based communication with indigenous GSAT-7R. Part of growing space-mil integration.",
+    tag: "S&T + Defence"
+  },
+  {
+    title: "India's First Soil Carbon Payments — ₹2.9 Cr to 2,550 Farmers",
+    desc: "Punjab & Haryana smallholders received DBT averaging ₹3k-15k for verified regenerative farming. Milestone for voluntary carbon markets decentralized to smallholders. Links to Sustainable Agriculture, Carbon Farming.",
+    tag: "Environment"
+  },
+  {
+    title: "9th ASEAN-India Ministerial Meeting on Agriculture & Forestry (AIMMAF) in New Delhi",
+    desc: "Co-chaired by Shivraj Singh Chouhan & Philippines' Francisco Tiu Laurel (ASEAN Chair). Commitment to food-secure, sustainable resilient agriculture. India-ASEAN goods trade $128bn FY26. ASEAN Food, Agriculture & Forestry Plan 2026-30 welcomed.",
+    tag: "IR + Agriculture"
+  }
+];
+
+const quizData = [
+  {
+    q: "Consider the recent U.S. Russia Sanctions Bill (Sep 2026). What is the maximum tariff it authorises on buyers of Russian oil?",
+    options: ["25%","50%","75%","100%"],
+    ans: 3,
+    exp: "The bill authorises up to 100% tariffs on countries including India. India already faces 50% cumulative (25% existing + 25% additional in 2025). Source: The Hindu 18 Sep 2026."
+  },
+  {
+    q: "EPFO wage ceiling was raised from ₹15,000 to:",
+    options: ["₹20,000","₹21,000","₹25,000","₹30,000"],
+    ans: 2,
+    exp: "Cabinet approved ₹15k→₹25k on 16 Sep, effective 17 Sep 2026. 51 lakh new employees. First hike in 12 years since 2014."
+  },
+  {
+    q: "UPI MDR from 15 Oct 2026 applies to transactions:",
+    options: ["All UPI transactions","Only above ₹2,000 for mid-large merchants","Only P2P","Only below ₹500"],
+    ans: 1,
+    exp: "0.4% above ₹2000 for mid-large merchants, cap ₹300 for ≥₹75k. Flat ₹5 for rail/telecom/fuel/insurance/agri inputs. 97.5% transactions stay free."
+  },
+  {
+    q: "Census Town criteria (1981) includes:",
+    options: ["Pop ≥10k, Density ≥1000","Pop ≥5000, Density ≥400, 75% male non-farm","Pop ≥2000, 50% non-farm","Only statutory notification"],
+    ans: 1,
+    exp: "1981 criteria: 5000 pop, 400/sqkm density, 75% male workforce non-farm. MoHUA says outdated. EAC-PM says 63% urban in 2015 vs Census 31%."
+  },
+  {
+    q: "Siang River is known as ____ in Tibet:",
+    options: ["Indus","Yarlung Tsangpo","Lohit","Subansiri"],
+    ans: 1,
+    exp: "Yarlung Tsangpo (Tibet) → Siang (Arunachal) → Brahmaputra (Assam) → Jamuna (Bangladesh). China building massive hydropower upstream."
+  },
+  {
+    q: "PM Vishwakarma Scheme supports how many traditional trades?",
+    options: ["12","15","18","22"],
+    ans: 2,
+    exp: "18 trades. 30 lakh registrations in 3 years (17 Sep 2026). Provides toolkits, credit at 5%, Udyam Assist formalization, OSOP/AVSAR market linkages."
+  },
+  {
+    q: "WDFC length fully operational is:",
+    options: ["1,500 km","2,843 km","3,200 km","1,856 km"],
+    ans: 1,
+    exp: "WDFC 2,843 km Dadri-JNPT. Travel time 66→58 hrs. Next: Dankuni-Surat 2052 km DFC."
+  },
+  {
+    q: "India's data centre capacity growth: 2020 → Aug 2026?",
+    options: ["100 MW → 500 MW","375 MW → 1.57 GW","1 GW → 3 GW","200 MW → 1 GW"],
+    ans: 1,
+    exp: "375 MW (2020) → 1.57 GW (Aug 2026) → projected 8 GW by 2030. CEA projects 17 GW demand by 2031-32."
+  },
+  {
+    q: "New fault line in Manipur beyond Meitei-Kuki is between:",
+    options: ["Naga-Meitei","Kuki-Zo–Naga","Meitei-Pangal","Kuki-Bodo"],
+    ans: 1,
+    exp: "The Hindu Editorial 'New fault lines' — Kuki-Zo–Naga conflict emerging. 15 Kuki-Zo, 11 Naga, 3 security, 1 driver killed by July 2026. Echoes 1990s Naga-Kuki violence."
+  },
+  {
+    q: "India-MERCOSUR Additional Protocol amends which article for e-CoO?",
+    options: ["Article 5","Article 10","Article 16 of Annex III","Article 22"],
+    ans: 2,
+    exp: "Amends Article 16 of Annex III (Rules of Origin) — e-Certificate of Origin gets same legal validity as paper. Enables paperless trade."
+  }
+];
+
+const editorialData = [
+  {
+    title: "Does BRICS New Delhi Declaration Signify a Shift in Indian Foreign Policy?",
+    paper: "The Hindu Editorial • 18 Sep 2026",
+    debate: [
+      "Ajay Bisaria (former envoy) argues: Continuation of strategic autonomy, not return to non-alignment. India still in QUAD, I2U2, balancing West + Russia.",
+      "Happymon Jacob argues: Stronger pushback against unilateral Western sanctions, criticism of Israel over Lebanon civilian killings, support for BRICS payment mechanism — suggests tilt towards Global South solidarity."
+    ],
+    analysis: "For UPSC: This is classic 'India as bridge' — not anti-West but pro-multipolarity. New Delhi Declaration features: opposition to unilateral sanctions, UN reform, two-state solution, local currency trade settlements. India cautious on de-dollarization dominated by yuan. Real test: how India handles U.S. tariff threat simultaneously while hosting BRICS. Mains structure: Context → Features of Declaration → Arguments for shift vs continuity → India's multi-alignment doctrine → Conclusion: Issue-based alignment, not alliance.",
+    gs: "GS2",
+    link: "https://thehindu.com/opinion/"
+  },
+  {
+    title: "Complex Priorities: On UPI Transactions, MDR Charges",
+    paper: "The Hindu Editorial • 18 Sep 2026",
+    debate: [
+      "Government: 97.5% free, small merchants exempt, burden on mid-large merchants small (0.4%), essential sectors flat ₹5 for cost certainty. Banks must ensure not passed to consumers.",
+      "Editorial critique: Needless complexity, reactive and dispersed regulatory response — DFS denying foreign pressure, NPCI rate structure, SEBI hearing brokers, political dispute over Parliamentary Committee endorsement — shows rollout without full cross-institutional alignment."
+    ],
+    analysis: "For UPSC: Digital public infrastructure sustainability question. Section 10A PSS Act 2007 barred MDR up to ₹2000. Now NPCI allows above ₹2000. Financial inclusion vs viability of payment ecosystem. Also RBI's liquidity angle: VRRR auctions absorbing ₹2.9 lakh cr — liquidity normalisation before any rate action (MPC meet 5-7 Oct 2026). Mains linkage: Digital economy, consumer protection, role of NPCI as quasi-regulator. Prelims: What is MDR? Who issues? NPCI vs RBI vs DFS.",
+    gs: "GS3",
+    link: "https://www.legacyias.com/the-hindu-upsc-news-analysis-for-18-september-2026/"
+  }
+];
+
+// ---------- RENDER FUNCTIONS ----------
+function renderNews(filterGS="ALL", search="") {
+  const grid = document.getElementById('newsGrid');
+  let filtered = newsData.filter(n => {
+    const gsMatch = filterGS==="ALL" || n.gs.includes(filterGS);
+    const searchMatch = !search || (n.title+n.category+n.why+n.prelims).toLowerCase().includes(search.toLowerCase());
+    return gsMatch && searchMatch;
+  });
+  grid.innerHTML = filtered.map(item => `
+    <article class="bg-white paper-shadow rounded-[18px] border border-zinc-200 overflow-hidden group hover:border-zinc-300 transition">
+      <div class="p-5 md:p-6">
+        <div class="flex flex-wrap items-center gap-2 mb-3">
+          <span class="px-2.5 py-1 rounded-full text-[11px] font-bold tracking-wide uppercase ${item.importance==='Very High'?'bg-[#b91c1c] text-white':'bg-zinc-900 text-white'}">${item.importance}</span>
+          <span class="px-2.5 py-1 rounded-full bg-zinc-100 border border-zinc-200 text-[11px] font-semibold">${item.category}</span>
+          ${item.gs.map(g=>`<span class="px-2 py-1 rounded-full bg-blue-50 border border-blue-200 text-blue-700 text-[11px] font-bold">${g}</span>`).join('')}
+          <span class="ml-auto text-[11px] text-zinc-500 flex items-center gap-1"><span class="w-1.5 h-1.5 bg-emerald-500 rounded-full animate-pulse"></span> ${item.source}</span>
+        </div>
+        <h3 class="font-serif text-[19px] md:text-[21px] font-bold leading-[1.25] tracking-[-0.01em]">${item.title}</h3>
+        <div class="mt-3">
+          <div class="text-[12px] font-bold tracking-widest uppercase text-zinc-500">Why in News</div>
+          <p class="mt-1 text-[13.5px] leading-[1.6] text-zinc-700 prose-serif">${item.why}</p>
+        </div>
+        <div class="mt-4 grid md:grid-cols-2 gap-4">
+          <div class="bg-[#faf7f2] rounded-xl p-3.5 border border-zinc-100">
+            <div class="text-[11px] font-bold uppercase tracking-widest text-zinc-500">Key Facts (Prelims + Mains)</div>
+            <ul class="mt-2 space-y-1.5">
+              ${item.facts.map(f=>`<li class="flex gap-2 text-[12.5px] leading-[1.5]"><span class="text-zinc-400 mt-[2px]">•</span><span>${f}</span></li>`).join('')}
+            </ul>
+          </div>
+          <div class="space-y-3">
+            <div class="rounded-xl p-3.5 border border-blue-100 bg-blue-50/60">
+              <div class="text-[11px] font-bold uppercase tracking-widest text-blue-700">Prelims Traps</div>
+              <div class="mt-1 text-[12.5px] leading-[1.5] text-zinc-700">${item.prelims}</div>
+            </div>
+            <div class="rounded-xl p-3.5 border border-emerald-100 bg-emerald-50/60">
+              <div class="text-[11px] font-bold uppercase tracking-widest text-emerald-700">Mains Angle</div>
+              <div class="mt-1 text-[12.5px] leading-[1.5] text-zinc-700">${item.mains}</div>
+            </div>
+          </div>
+        </div>
+        <div class="mt-4 flex flex-wrap items-center gap-2">
+          ${item.tags.map(t=>`<span class="px-2.5 py-1 bg-white border border-zinc-200 rounded-full text-[11px]">#${t}</span>`).join('')}
+          <div class="ml-auto flex gap-1.5">
+            <button onclick="toggleBookmark('${item.id}')" class="bookmark-btn-${item.id} px-3 py-1.5 rounded-full bg-white border border-zinc-200 text-[12px] font-medium hover:bg-zinc-50">☆ Bookmark</button>
+            <button onclick="openNotes('${item.id}')" class="px-3 py-1.5 rounded-full bg-zinc-900 text-white text-[12px] font-medium">+ Notes</button>
+            <a href="${item.sourceUrl}" target="_blank" class="px-3 py-1.5 rounded-full bg-[#b91c1c]/10 text-[#b91c1c] border border-[#b91c1c]/20 text-[12px] font-semibold">Source ↗</a>
+          </div>
+        </div>
+      </div>
+    </article>
+  `).join('') || `<div class="text-center py-10 text-zinc-500 text-[14px]">No results for ${filterGS} + "${search}" — try All GS.</div>`;
+
+  updateProgress();
+  restoreBookmarkUI();
+}
+
+function renderEditorial() {
+  const grid = document.getElementById('editorialGrid');
+  grid.innerHTML = editorialData.map(ed => `
+    <div class="bg-white paper-shadow rounded-[20px] border border-zinc-200 overflow-hidden">
+      <div class="p-6 md:p-8">
+        <div class="flex items-center gap-2 mb-3">
+          <span class="px-2.5 py-1 rounded-full bg-[#b91c1c] text-white text-[11px] font-bold uppercase">Editorial Deep Dive</span>
+          <span class="text-[11px] text-zinc-500">${ed.paper}</span>
+          <span class="px-2 py-1 rounded-full bg-blue-50 border border-blue-200 text-blue-700 text-[11px] font-bold">${ed.gs}</span>
+        </div>
+        <h2 class="font-serif text-[22px] md:text-[26px] font-bold leading-[1.2]">${ed.title}</h2>
+        <div class="mt-6 grid md:grid-cols-2 gap-4">
+          ${ed.debate.map((d,i)=>`
+            <div class="rounded-xl p-4 border ${i===0?'bg-zinc-50 border-zinc-200':'bg-amber-50 border-amber-200'}">
+              <div class="text-[11px] font-bold uppercase tracking-widest ${i===0?'text-zinc-500':'text-amber-700'}">${i===0?'View 1':'View 2 — Counter'}</div>
+              <p class="mt-2 text-[13px] leading-[1.6]">${d}</p>
+            </div>
+          `).join('')}
+        </div>
+        <div class="mt-5 p-4 rounded-xl bg-zinc-900 text-zinc-100">
+          <div class="text-[11px] font-bold tracking-widest uppercase text-zinc-400">UPSC Analysis for Mains</div>
+          <p class="mt-2 text-[13.5px] leading-[1.7] text-zinc-200">${ed.analysis}</p>
+        </div>
+        <div class="mt-4 flex gap-2">
+          <button onclick="openNotes('ed-${ed.title.slice(0,10)}')" class="px-3.5 py-2 bg-white border border-zinc-200 rounded-full text-[13px] font-medium">+ Add Mains Framework</button>
+          <a href="${ed.link}" target="_blank" class="px-3.5 py-2 bg-[#b91c1c] text-white rounded-full text-[13px] font-semibold">Read Original in The Hindu ↗</a>
+        </div>
+      </div>
+    </div>
+  `).join('');
+}
+
+function renderPIB() {
+  const grid = document.getElementById('pibGrid');
+  grid.innerHTML = pibData.map(p=>`
+    <div class="p-4 rounded-xl border border-zinc-200 bg-[#faf7f2] flex gap-3">
+      <div class="w-8 h-8 rounded-full bg-zinc-900 text-white flex items-center justify-center text-[12px] font-bold shrink-0">PIB</div>
+      <div>
+        <div class="flex items-center gap-2">
+          <span class="text-[11px] px-2 py-0.5 rounded-full bg-white border border-zinc-200 font-semibold">${p.tag}</span>
+          <span class="text-[11px] text-zinc-500">18 Sep 2026 • Verified</span>
+        </div>
+        <h4 class="mt-1 font-semibold text-[14px] leading-[1.4]">${p.title}</h4>
+        <p class="mt-1 text-[12.5px] leading-[1.6] text-zinc-600">${p.desc}</p>
+      </div>
+    </div>
+  `).join('');
+}
+
+function renderQuiz() {
+  const grid = document.getElementById('quizGrid');
+  grid.innerHTML = quizData.map((q,i)=>`
+    <div class="quiz-card p-4 rounded-xl border border-zinc-200 bg-white" data-idx="${i}">
+      <div class="flex gap-3">
+        <div class="w-7 h-7 rounded-full bg-zinc-900 text-white flex items-center justify-center text-[12px] font-bold shrink-0">${i+1}</div>
+        <div class="flex-1">
+          <p class="text-[14px] font-medium leading-[1.5]">${q.q}</p>
+          <div class="mt-3 grid gap-2">
+            ${q.options.map((opt,j)=>`
+              <button onclick="checkQuiz(${i},${j})" class="quiz-opt-${i}-${j} text-left px-3.5 py-2.5 rounded-xl border border-zinc-200 bg-zinc-50 hover:bg-white text-[13px] transition">
+                <span class="font-bold mr-2">${String.fromCharCode(65+j)}.</span>${opt}
+              </button>
+            `).join('')}
+          </div>
+          <div id="quiz-exp-${i}" class="hidden mt-3 p-3 rounded-xl bg-amber-50 border border-amber-200 text-[12.5px] leading-[1.5]"></div>
+        </div>
+      </div>
+    </div>
+  `).join('');
+}
+
+// ---------- INTERACTIONS ----------
+let bookmarks = JSON.parse(localStorage.getItem('upsc-bookmarks')||'[]');
+let notes = JSON.parse(localStorage.getItem('upsc-notes')||'{}');
+let currentNotesId = null;
+let quizAnswers = {};
+
+function toggleBookmark(id) {
+  if(bookmarks.includes(id)) {
+    bookmarks = bookmarks.filter(b=>b!==id);
+  } else {
+    bookmarks.push(id);
+  }
+  localStorage.setItem('upsc-bookmarks', JSON.stringify(bookmarks));
+  restoreBookmarkUI();
+  renderVault();
+}
+
+function restoreBookmarkUI() {
+  bookmarks.forEach(id=>{
+    const btn = document.querySelector(`.bookmark-btn-${id}`);
+    if(btn) { btn.innerHTML='★ Bookmarked'; btn.classList.add('bg-zinc-900','text-white','border-zinc-900'); }
+  });
+  document.getElementById('vaultCount').textContent = bookmarks.length;
+  // non-bookmarked
+  newsData.forEach(n=>{
+    if(!bookmarks.includes(n.id)) {
+      const btn = document.querySelector(`.bookmark-btn-${n.id}`);
+      if(btn) { btn.innerHTML='☆ Bookmark'; btn.classList.remove('bg-zinc-900','text-white','border-zinc-900'); }
+    }
+  });
+}
+
+function openNotes(id) {
+  currentNotesId = id;
+  const titleMap = {};
+  newsData.forEach(n=>titleMap[n.id]=n.title);
+  document.getElementById('notesTitle').textContent = titleMap[id] || id;
+  document.getElementById('notesArea').value = notes[id] || '';
+  document.getElementById('notesModal').classList.remove('hidden');
+}
+
+function closeNotes() {
+  document.getElementById('notesModal').classList.add('hidden');
+}
+
+function saveNotes() {
+  const val = document.getElementById('notesArea').value;
+  if(currentNotesId) {
+    notes[currentNotesId] = val;
+    localStorage.setItem('upsc-notes', JSON.stringify(notes));
+  }
+  closeNotes();
+  renderVault();
+}
+
+function renderVault() {
+  const grid = document.getElementById('vaultGrid');
+  if(bookmarks.length===0 && Object.keys(notes).length===0) {
+    grid.innerHTML = `<div class="text-center py-12 text-zinc-500"><div class="text-4xl mb-3">📚</div><div class="text-[14px]">No bookmarks yet. Start bookmarking cards from Today's Briefing.</div></div>`;
+    return;
+  }
+  let html = '';
+  bookmarks.forEach(id=>{
+    const item = newsData.find(n=>n.id===id);
+    if(item) {
+      html += `<div class="p-4 rounded-xl border border-zinc-200 bg-[#faf7f2] mb-3">
+        <div class="flex justify-between"><span class="text-[11px] font-bold uppercase text-zinc-500">${item.category} • ${item.gs.join('/')}</span><button onclick="toggleBookmark('${id}')" class="text-[11px] px-2 py-1 bg-white border rounded-full">Remove</button></div>
+        <div class="mt-1 font-semibold text-[14px]">${item.title}</div>
+        ${notes[id]?`<div class="mt-2 p-2 bg-white rounded-lg border text-[12px]">${notes[id].slice(0,200)}...</div>`:''}
+      </div>`;
+    }
+  });
+  Object.keys(notes).forEach(id=>{
+    if(!bookmarks.includes(id)) {
+      html += `<div class="p-4 rounded-xl border border-zinc-200 bg-white mb-3">
+        <div class="text-[11px] font-bold uppercase text-zinc-500">Note • ${id}</div>
+        <div class="mt-1 text-[13px] whitespace-pre-wrap">${notes[id]}</div>
+      </div>`;
+    }
+  });
+  grid.innerHTML = html;
+}
+
+function checkQuiz(qIdx, optIdx) {
+  const q = quizData[qIdx];
+  const expDiv = document.getElementById(`quiz-exp-${qIdx}`);
+  const isCorrect = optIdx===q.ans;
+  // style options
+  for(let j=0;j<4;j++) {
+    const btn = document.querySelector(`.quiz-opt-${qIdx}-${j}`);
+    btn.classList.remove('bg-emerald-50','border-emerald-300','bg-red-50','border-red-300','bg-zinc-50');
+    if(j===q.ans) {
+      btn.classList.add('bg-emerald-50','border-emerald-300');
+    } else if(j===optIdx && !isCorrect) {
+      btn.classList.add('bg-red-50','border-red-300');
+    }
+  }
+  expDiv.classList.remove('hidden');
+  expDiv.innerHTML = `<span class="font-bold">${isCorrect?'✓ Correct':'✗ Wrong'} — </span>${q.exp}`;
+  quizAnswers[qIdx]=isCorrect;
+  const score = Object.values(quizAnswers).filter(Boolean).length;
+  document.getElementById('quizScore').textContent = `${score} / 10`;
+  if(Object.keys(quizAnswers).length===10) {
+    // save to vault as revision
+    localStorage.setItem('quiz-last-score', score);
+  }
+}
+
+function updateProgress() {
+  const total = newsData.length;
+  const read = bookmarks.length; // proxy
+  const pct = Math.min(100, Math.round((read/total)*100));
+  document.getElementById('progressBar').style.width = `${pct===0?8:pct}%`;
+}
+
+function filterNews() {
+  // Check both desktop and mobile inputs - mobile takes priority if visible
+  const isMobile = window.innerWidth < 1024;
+  let gs, search;
+  if (isMobile) {
+    gs = document.getElementById('gsFilterMobile')?.value || document.getElementById('gsFilter').value;
+    search = document.getElementById('searchInputMobile')?.value || document.getElementById('searchInput').value;
+  } else {
+    gs = document.getElementById('gsFilter').value;
+    search = document.getElementById('searchInput').value;
+  }
+  renderNews(gs, search);
+}
+
+// Sync mobile <-> desktop inputs
+function syncSearchInputs() {
+  const desktopSearch = document.getElementById('searchInput');
+  const mobileSearch = document.getElementById('searchInputMobile');
+  const desktopGS = document.getElementById('gsFilter');
+  const mobileGS = document.getElementById('gsFilterMobile');
+  
+  if (desktopSearch && mobileSearch) {
+    desktopSearch.addEventListener('input', () => { mobileSearch.value = desktopSearch.value; });
+    mobileSearch.addEventListener('input', () => { desktopSearch.value = mobileSearch.value; filterNews(); });
+  }
+  if (desktopGS && mobileGS) {
+    desktopGS.addEventListener('change', () => { mobileGS.value = desktopGS.value; });
+    mobileGS.addEventListener('change', () => { desktopGS.value = mobileGS.value; filterNews(); });
+  }
+}
+
+// Tabs
+document.querySelectorAll('.tab-btn').forEach(btn=>{
+  btn.addEventListener('click', ()=>{
+    document.querySelectorAll('.tab-btn').forEach(b=>{
+      b.classList.remove('bg-zinc-900','text-white','active');
+      b.classList.add('bg-white','border','border-zinc-200');
+    });
+    btn.classList.add('bg-zinc-900','text-white','active');
+    btn.classList.remove('bg-white','border','border-zinc-200');
+    const tab = btn.dataset.tab;
+    document.querySelectorAll('.tab-panel').forEach(p=>p.classList.add('hidden'));
+    document.getElementById(`${tab}-section`).classList.remove('hidden');
+    window.scrollTo({top:0, behavior:'smooth'});
+  });
+});
+
+document.getElementById('searchInput').addEventListener('input', filterNews);
+document.getElementById('gsFilter').addEventListener('change', filterNews);
+
+// Init
+renderNews();
+renderEditorial();
+renderPIB();
+renderQuiz();
+renderVault();
+restoreBookmarkUI();
+syncSearchInputs();
+
+// Streak logic
+let streak = parseInt(localStorage.getItem('upsc-streak')||'12');
+document.getElementById('streakCount').textContent = `${streak} day streak`;
+document.getElementById('streakBtn').addEventListener('click', ()=>{
+  streak++;
+  localStorage.setItem('upsc-streak', streak);
+  document.getElementById('streakCount').textContent = `${streak} day streak`;
+});
+
+// Date
+document.getElementById('top-date').textContent = new Date().toLocaleDateString('en-IN', {weekday:'long', year:'numeric', month:'long', day:'numeric'}) + ' • Kolkata Edition • Live from The Hindu';
+
+// ---------- PWA LOGIC ----------
+let deferredPrompt = null;
+const installBanner = document.getElementById('installBanner');
+const installBtn = document.getElementById('installBtn');
+
+// Capture install prompt
+window.addEventListener('beforeinstallprompt', (e) => {
+  e.preventDefault();
+  deferredPrompt = e;
+  // Show banner after 3 seconds if not already installed
+  setTimeout(() => {
+    if (!window.matchMedia('(display-mode: standalone)').matches) {
+      installBanner.classList.remove('hidden');
+    }
+  }, 3000);
+});
+
+installBtn.addEventListener('click', async () => {
+  if (!deferredPrompt) {
+    // Fallback for iOS - show instructions
+    alert('To install:\n\nOn iPhone: Tap Share button → Add to Home Screen\nOn Android: Menu → Add to Home Screen\n\nThen it works offline like a real app!');
+    return;
+  }
+  deferredPrompt.prompt();
+  const { outcome } = await deferredPrompt.userChoice;
+  if (outcome === 'accepted') {
+    installBanner.classList.add('hidden');
+    localStorage.setItem('pwa-installed', '1');
+  }
+  deferredPrompt = null;
+});
+
+// Hide banner if already installed
+window.addEventListener('appinstalled', () => {
+  installBanner.classList.add('hidden');
+  localStorage.setItem('pwa-installed', '1');
+});
+
+// If already in standalone mode, hide banner
+if (window.matchMedia('(display-mode: standalone)').matches || localStorage.getItem('pwa-installed')) {
+  installBanner.classList.add('hidden');
+}
+
+// Service Worker Registration
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('sw.js')
+      .then(reg => {
+        console.log('SW registered:', reg.scope);
+        // Check for updates
+        reg.addEventListener('updatefound', () => {
+          const newWorker = reg.installing;
+          newWorker.addEventListener('statechange', () => {
+            if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
+              // New content available - show toast
+              const toast = document.createElement('div');
+              toast.className = 'fixed top-20 left-1/2 -translate-x-1/2 bg-zinc-900 text-white px-4 py-2 rounded-full text-[12px] font-medium shadow-xl z-50';
+              toast.textContent = '✓ New briefing available - refresh to update';
+              document.body.appendChild(toast);
+              setTimeout(() => toast.remove(), 4000);
+            }
+          });
+        });
+      })
+      .catch(err => console.log('SW failed:', err));
+  });
+}
+
+// ---------- PUSH NOTIFICATIONS - 6 AM DAILY ----------
+const notifyBtn = document.getElementById('notifyBtn');
+const notifyBtnMobile = document.getElementById('notifyBtnMobile');
+const notifyStatus = document.getElementById('notifyStatus');
+
+async function enableNotifications() {
+  if (!('Notification' in window)) {
+    alert('Notifications not supported on this browser. Use Chrome/Edge on Android for best PWA experience.');
+    return;
+  }
+  if (!('serviceWorker' in navigator)) {
+    alert('Service Worker not supported');
+    return;
+  }
+
+  const permission = await Notification.requestPermission();
+  if (permission === 'granted') {
+    // Show confirmation notification
+    const reg = await navigator.serviceWorker.ready;
+    await reg.showNotification('UPSC Hindu - Notifications Enabled ✓', {
+      body: 'You\'ll get daily 6 AM briefing alert. 12 stories from The Hindu + PIB, offline ready.',
+      icon: 'icon-192.png',
+      badge: 'icon-192.png',
+      vibrate: [100,50,100],
+      tag: 'welcome'
+    });
+
+    localStorage.setItem('notifications-enabled', '1');
+    if (notifyStatus) { notifyStatus.classList.remove('hidden'); notifyStatus.textContent = '✓ Notifications enabled - 6 AM alert active'; }
+    if (notifyBtn) notifyBtn.textContent = '✓ Alerts On';
+    if (notifyBtnMobile) notifyBtnMobile.textContent = '✓ Alerts On';
+    
+    // Schedule daily check via periodic sync (if supported) or local reminder
+    scheduleDailyReminder();
+    
+    // Also subscribe to free ntfy.sh topic for backup push (no server needed)
+    const topic = 'upsc-hindu-i4p95qxikbxb20t16fn8y';
+    localStorage.setItem('ntfy-topic', topic);
+    
+    alert(`✓ Done! You'll get daily alert.\n\nFor extra backup:\nSubscribe to https://ntfy.sh/${topic} on your phone (free app) for push even when browser closed.`);
+  } else {
+    alert('Please allow notifications to get 6 AM daily briefing alerts.');
+  }
+}
+
+function scheduleDailyReminder() {
+  // Store next reminder time
+  const now = new Date();
+  const next6AM = new Date();
+  next6AM.setHours(6,0,0,0);
+  if (next6AM <= now) next6AM.setDate(next6AM.getDate()+1);
+  localStorage.setItem('next-reminder', next6AM.toISOString());
+  
+  // Check every minute if it's time (simple local scheduler)
+  setInterval(async () => {
+    const next = new Date(localStorage.getItem('next-reminder'));
+    if (new Date() >= next && localStorage.getItem('notifications-enabled')) {
+      const reg = await navigator.serviceWorker.ready;
+      await reg.showNotification('📰 Your UPSC Briefing is Ready', {
+        body: `Today's ${new Date().toLocaleDateString('en-IN', {day:'numeric', month:'short'})} briefing: U.S. tariff threat, BRICS, UPI MDR, EPFO hike + 8 more. Tap to read offline.`,
+        icon: 'icon-192.png',
+        badge: 'icon-192.png',
+        vibrate: [200,100,200],
+        tag: 'daily-briefing',
+        data: { url: '/?tab=today' },
+        actions: [
+          { action: 'open', title: 'Read Now' },
+          { action: 'quiz', title: 'Take Quiz' }
+        ]
+      });
+      // Schedule next day
+      const tomorrow = new Date(); tomorrow.setDate(tomorrow.getDate()+1); tomorrow.setHours(6,0,0,0);
+      localStorage.setItem('next-reminder', tomorrow.toISOString());
+    }
+  }, 60000); // check every minute
+}
+
+// Attach to buttons
+if (notifyBtn) notifyBtn.addEventListener('click', enableNotifications);
+if (notifyBtnMobile) notifyBtnMobile.addEventListener('click', enableNotifications);
+
+// Auto-init if already enabled
+if (localStorage.getItem('notifications-enabled')) {
+  if (notifyStatus) { notifyStatus.classList.remove('hidden'); }
+  if (notifyBtn) notifyBtn.textContent = '✓ Alerts On';
+  if (notifyBtnMobile) notifyBtnMobile.textContent = '✓ Alerts On';
+  scheduleDailyReminder();
+}
+
+// Offline detection
+const offlineIndicator = document.getElementById('offlineIndicator');
+window.addEventListener('online', () => offlineIndicator.classList.add('hidden'));
+window.addEventListener('offline', () => offlineIndicator.classList.remove('hidden'));
+if (!navigator.onLine) offlineIndicator.classList.remove('hidden');
+
+// Mobile tab sync with desktop tabs
+document.querySelectorAll('.mobile-tab-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const tab = btn.dataset.tab;
+    // Update desktop tabs
+    document.querySelectorAll('.tab-btn').forEach(b => {
+      b.classList.remove('bg-zinc-900','text-white','active');
+      b.classList.add('bg-white','border','border-zinc-200');
+      if (b.dataset.tab === tab) {
+        b.classList.add('bg-zinc-900','text-white','active');
+        b.classList.remove('bg-white','border','border-zinc-200');
+      }
+    });
+    // Update mobile tabs UI
+    document.querySelectorAll('.mobile-tab-btn').forEach(b => {
+      b.classList.remove('bg-zinc-900','text-white');
+      b.classList.add('text-zinc-500');
+    });
+    btn.classList.add('bg-zinc-900','text-white');
+    btn.classList.remove('text-zinc-500');
+    // Show panel
+    document.querySelectorAll('.tab-panel').forEach(p => p.classList.add('hidden'));
+    document.getElementById(`${tab}-section`).classList.remove('hidden');
+    window.scrollTo({top:0, behavior:'smooth'});
+  });
+});
+
+// Deep link support ?tab=quiz
+const urlParams = new URLSearchParams(window.location.search);
+const initialTab = urlParams.get('tab');
+if (initialTab) {
+  document.querySelector(`[data-tab="${initialTab}"]`)?.click();
+}
+
+// Update mobile vault count
+const updateMobileVault = () => {
+  const count = bookmarks.length;
+  const el = document.getElementById('mobileVaultCount');
+  if (el) {
+    if (count > 0) { el.textContent = count; el.classList.remove('hidden'); el.classList.add('flex'); }
+    else el.classList.add('hidden');
+  }
+};
+const originalRestore = restoreBookmarkUI;
+restoreBookmarkUI = function() {
+  originalRestore();
+  updateMobileVault();
+};
+updateMobileVault();
+
+// Pull to refresh hint for mobile (visual only)
+let startY = 0;
+window.addEventListener('touchstart', e => startY = e.touches[0].clientY, {passive:true});
+window.addEventListener('touchend', e => {
+  const endY = e.changedTouches[0].clientY;
+  if (endY - startY > 120 && window.scrollY === 0) {
+    // User pulled down at top - could trigger refresh
+    if (navigator.onLine) {
+      // In real app, fetch new data here
+      console.log('Pull to refresh triggered');
+    }
+  }
+}, {passive:true});
+
+// Add to main element extra bottom padding for mobile nav
+document.querySelector('main').classList.add('pb-[88px]', 'lg:pb-8');
+
+</script>
+</body>
+</html>

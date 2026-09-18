@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Download UPSC Hindu PWA</title>
+<script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-[#faf7f2] p-6 font-sans">
+<div class="max-w-[600px] mx-auto">
+  <h1 class="text-2xl font-bold">Download Fixed - No Sandbox Needed</h1>
+  <p class="mt-2 text-sm text-zinc-600">If preview says "sandbox not found", use these direct workspace downloads (they work permanently):</p>
+  
+  <div class="mt-6 space-y-3">
+    <a href="upsc-hindu-pwa.zip" download class="block p-4 bg-zinc-900 text-white rounded-xl text-center font-bold">📦 Download Full PWA ZIP (396 KB) - Click Here</a>
+    <div class="grid grid-cols-2 gap-3">
+      <a href="index.html" download class="p-3 bg-white border rounded-xl text-center text-sm font-medium">index.html</a>
+      <a href="manifest.json" download class="p-3 bg-white border rounded-xl text-center text-sm font-medium">manifest.json</a>
+      <a href="sw.js" download class="p-3 bg-white border rounded-xl text-center text-sm font-medium">sw.js</a>
+      <a href="install.html" download class="p-3 bg-white border rounded-xl text-center text-sm font-medium">install.html</a>
+    </div>
+  </div>
+
+  <div class="mt-8 p-4 bg-white rounded-xl border">
+    <h3 class="font-bold text-sm">Permanent Deploy in 20 sec (No Sandbox):</h3>
+    <ol class="mt-2 text-[13px] list-decimal pl-5 space-y-1 text-zinc-700">
+      <li>Download ZIP above (396 KB)</li>
+      <li>Go to <a href="https://app.netlify.com/drop" target="_blank" class="text-blue-600 underline">https://app.netlify.com/drop</a></li>
+      <li>Drag ZIP onto the page → You get permanent URL like <code>https://upsc-hindu-abc123.netlify.app</code></li>
+      <li>Open that URL on phone → Install → Works forever, no sandbox</li>
+    </ol>
+  </div>
+
+  <div class="mt-4 p-4 bg-amber-50 border border-amber-200 rounded-xl text-[12px]">
+    <b>Why "sandbox not found" happened:</b> The preview link https://8000-xxx.e2b.app is temporary and expires when Arena session ends. The ZIP download from workspace file explorer is permanent. Use Netlify Drop for a permanent link that never expires.
+  </div>
+
+  <div class="mt-6 text-center">
+    <a href="/" class="px-6 py-3 bg-[#b91c1c] text-white rounded-full font-bold text-sm inline-block">← Back to App</a>
+  </div>
+</div>
+</body>
+</html>

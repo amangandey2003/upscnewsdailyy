@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Install UPSC Hindu PWA</title>
+<meta name="theme-color" content="#b91c1c">
+<link rel="manifest" href="manifest.json">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Inter:wght@500;700&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-[#faf7f2] min-h-screen flex items-center justify-center p-4">
+  <div class="max-w-[420px] w-full bg-white rounded-[24px] border border-zinc-200 shadow-xl p-6 md:p-8 text-center">
+    <div class="w-14 h-14 bg-[#b91c1c] rounded-2xl flex items-center justify-center mx-auto text-white font-serif font-bold text-[28px]">H</div>
+    <h1 class="mt-4 font-serif font-bold text-[24px] leading-tight">Install THE UPSC HINDU</h1>
+    <p class="mt-1 text-[13px] text-zinc-500">Daily Current Affairs • Trusted like The Hindu • Offline PWA</p>
+    
+    <div class="mt-6 bg-[#faf7f2] rounded-2xl p-4 border border-zinc-100">
+      <img src="qr-install.png" alt="QR" class="w-[200px] h-[200px] mx-auto object-contain bg-white rounded-xl p-2">
+      <div class="mt-3 font-mono text-[11px] bg-zinc-900 text-white px-3 py-1.5 rounded-full inline-block">https://8000-i4p95qxikbxb20t16fn8y.e2b.app</div>
+      <div class="mt-2 text-[11px] text-zinc-500">Scan with phone camera</div>
+    </div>
+
+    <div class="mt-6 text-left space-y-3">
+      <div class="flex gap-3 p-3 rounded-xl bg-zinc-50 border border-zinc-100">
+        <div class="w-7 h-7 rounded-full bg-zinc-900 text-white flex items-center justify-center text-[12px] font-bold shrink-0">1</div>
+        <div>
+          <div class="font-bold text-[13px]">Android (Chrome)</div>
+          <div class="text-[12px] text-zinc-600 leading-[1.4] mt-0.5">Open link → Tap banner "Install" → App appears on home screen. Works offline.</div>
+        </div>
+      </div>
+      <div class="flex gap-3 p-3 rounded-xl bg-zinc-50 border border-zinc-100">
+        <div class="w-7 h-7 rounded-full bg-zinc-900 text-white flex items-center justify-center text-[12px] font-bold shrink-0">2</div>
+        <div>
+          <div class="font-bold text-[13px]">iPhone (Safari)</div>
+          <div class="text-[12px] text-zinc-600 leading-[1.4] mt-0.5">Open link → Tap Share <span class="inline-block w-4 h-4 bg-zinc-200 rounded text-[10px] text-center">⎙</span> → Add to Home Screen → Open like real app.</div>
+        </div>
+      </div>
+      <div class="flex gap-3 p-3 rounded-xl bg-emerald-50 border border-emerald-200">
+        <div class="w-7 h-7 rounded-full bg-emerald-600 text-white flex items-center justify-center text-[12px] font-bold shrink-0">✓</div>
+        <div>
+          <div class="font-bold text-[13px] text-emerald-800">After Install</div>
+          <div class="text-[12px] text-emerald-700 leading-[1.4] mt-0.5">Enable 6 AM Daily Alert in app → Get push notification every morning. No spam, only briefing ready alert.</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="mt-6 grid grid-cols-2 gap-2">
+      <a href="/" class="py-3 bg-zinc-900 text-white rounded-full font-bold text-[13px] text-center">Open App →</a>
+      <button onclick="if(navigator.share){navigator.share({title:'UPSC Hindu PWA', text:'Daily current affairs trusted like The Hindu - installable PWA', url: location.origin})}else{prompt('Copy link:', location.origin)}" class="py-3 bg-white border border-zinc-200 rounded-full font-semibold text-[13px]">Share App</button>
+    </div>
+
+    <div class="mt-4 text-[10px] text-zinc-400">
+      PWA v2 • Offline ready • Push notifications • Daily auto-update via GitHub Actions • Built for UPSC 2027
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,46 @@
+{
+  "name": "THE UPSC HINDU - Daily Current Affairs",
+  "short_name": "UPSC Hindu",
+  "description": "Daily current affairs for UPSC trusted like The Hindu - GS mapped, prelims quiz, mains analysis",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf7f2",
+  "theme_color": "#b91c1c",
+  "orientation": "portrait-primary",
+  "categories": ["education", "news"],
+  "lang": "en-IN",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Today's Briefing",
+      "url": "/?tab=today",
+      "description": "Open today's current affairs",
+      "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Prelims Quiz",
+      "url": "/?tab=quiz",
+      "description": "Take today's prelims quiz",
+      "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Revision Vault",
+      "url": "/?tab=vault",
+      "description": "Revise bookmarks and notes",
+      "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}
