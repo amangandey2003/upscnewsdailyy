@@ -1,0 +1,20 @@
+{
+  "date": "18 September 2026",
+  "date_short": "Sep 18",
+  "updated_at": "2026-09-18T22:54:49.572972+05:30",
+  "hindu_stories_count": 14,
+  "top_titles": [
+    "Tamil Nadu set to get back 40 vacant super speciality seats",
+    "How Chennai\u2019s GCC expansion could reshape its real estate market",
+    "Modern \u2018secularism\u2019 is a Western concept, does not fit India: Mohan Bhagwat",
+    "With southern States in the same boat, Karnataka turns to Assam for power",
+    "JPC members question Centre on foreign funds, asset takeover provisions in FCRA amendments",
+    "Jammu and Kashmir L-G flags off the Harmukh-Gangbal pilgrimage",
+    "Former School Education Minister Anbil Mahesh questioned by CCB Police",
+    "CSL lays keel for Navy\u2019s next-gen missile vessels",
+    "Former DGP Tomin Thachankary approaches Kerala HC in appeal against disproportionate assets case conviction",
+    "\u2018Nava Sankalpa Bakery\u2019 and \u2018Bakery on Wheels\u2019 launched at Bengaluru central prison"
+  ],
+  "status": "auto-update workflow ran",
+  "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
+}
