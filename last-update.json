@@ -1,19 +1,19 @@
 {
-  "date": "19 September 2026",
-  "date_short": "Sep 19",
-  "updated_at": "2026-09-19T10:21:13.747744+05:30",
+  "date": "20 September 2026",
+  "date_short": "Sep 20",
+  "updated_at": "2026-09-20T10:39:31.107804+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Nitish gave up CM's post on his own, BJP didn't ask him to do so: Samrat",
-    "Three persons arrested for murder of father-daughter in gram panchayat office in Belagavi district",
-    "CMRL-Exalogic pay-off case: Keralam Advocate General recommends FIR registration against Pinarayi, daughter Veena, Riyas",
-    "Mamata moves Supreme Court against ECI\u2019s freeze on Trinamool Congress symbol",
-    "After viral gridlock, traffic police and residents take up temporary road repair at Whitefield in Bengaluru",
-    "Power outage complaints pour in from across Karnataka",
-    "Keralam\u2019s Operation Toofan to trace drug money through UPI, crypto wallets",
-    "PM Modi, UAE Preident discuss West Asia, strategic partnership during phone call",
-    "Four of a family returning from Ganesh immersion killed in road accident on NH-44 near Shamshabad",
-    "Odisha government plans 870-Acre Silicon Valley hub in Cuttack\u2019s Naraj for semiconductor, IT projects"
+    "The Hindu Foundation Day: revisiting the journey",
+    "Violent protests rock Manipur's Kangpokpi over detention of 6 villagers",
+    "What is the India-Pakistan conflict at sea about? | Explained",
+    "High Court directs Uttar Pradesh Police to ensure safety of same-sex couple in live-in relationship",
+    "Bengal police arrest Rejinagar bypoll candidate days after Nandigram candidate Milan Pradhan\u2019s arrest",
+    "ASI murder: Accused killed in police encounter in Amritsar",
+    "How will the U.S.\u2019s Sanctioning Act affect India? | Explained",
+    "Corteva Agriscience creates awareness on pest control among farmers in Nellore",
+    "BSNL deputy general manager urges engineering students to embrace AI, robotics and quantum technology",
+    "Nellore DLSA Chairman assures free legal counsel for poor prisoners"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
