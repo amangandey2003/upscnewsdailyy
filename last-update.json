@@ -1,19 +1,19 @@
 {
-  "date": "20 September 2026",
-  "date_short": "Sep 20",
-  "updated_at": "2026-09-20T10:39:31.107804+05:30",
+  "date": "21 September 2026",
+  "date_short": "Sep 21",
+  "updated_at": "2026-09-21T10:44:51.844680+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "The Hindu Foundation Day: revisiting the journey",
-    "Violent protests rock Manipur's Kangpokpi over detention of 6 villagers",
-    "What is the India-Pakistan conflict at sea about? | Explained",
-    "High Court directs Uttar Pradesh Police to ensure safety of same-sex couple in live-in relationship",
-    "Bengal police arrest Rejinagar bypoll candidate days after Nandigram candidate Milan Pradhan\u2019s arrest",
-    "ASI murder: Accused killed in police encounter in Amritsar",
-    "How will the U.S.\u2019s Sanctioning Act affect India? | Explained",
-    "Corteva Agriscience creates awareness on pest control among farmers in Nellore",
-    "BSNL deputy general manager urges engineering students to embrace AI, robotics and quantum technology",
-    "Nellore DLSA Chairman assures free legal counsel for poor prisoners"
+    "C.V. Raman Nagar residents urge MLA to oppose elevated corridors project in Bengaluru",
+    "\u2018Kya hua tera vada\u2019: Congress takes dig at PM Modi on rising prices of food items",
+    "Bengaluru is most expensive for metro travel as compared to Chennai, Delhi, Kolkata, Mumbai",
+    "Caste bias a 'blot' on Hindu society: RSS leader Hosabale; calls for behavioural change",
+    "Asaduddin Owaisi signals AIMIM\u2019s Openness to Anti-BJP Alliance in Uttar Pradesh ahead of 2027 assembly elections",
+    "Panathur railway underpass submerged after rain, commuters struggle through hip-deep water in Bengaluru",
+    "USCIRF seeks sanctions against RSS, no high-level meetings with its leaders",
+    "Lucknow\u2019s S.R. Group of Institutions signs Five-Year MoU with SODES to strengthen digital education, skill development",
+    "DUSU polls: Dipke alleges money power, says campaigners travel in luxury cars",
+    "Instagram blocks \u2018Stop Vizag Data Centers\u2019 account for users in India"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
