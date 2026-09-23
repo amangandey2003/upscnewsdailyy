@@ -1,19 +1,19 @@
 {
-  "date": "22 September 2026",
-  "date_short": "Sep 22",
-  "updated_at": "2026-09-22T10:43:47.757293+05:30",
+  "date": "23 September 2026",
+  "date_short": "Sep 23",
+  "updated_at": "2026-09-23T10:28:18.717245+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "IMD forecasts heavy rain in north coastal Andhra; Vizianagaram, Srikakulam on alert",
-    "Pimpri-Chinchwad police identifies 30 Bangladeshi nationals illegally staying since May 2025; 26 deported",
-    "Karnataka to track cancer patients after fake drug bust",
-    "Tamil Nadu government hospitals running short of critical medicines for pre-term babies",
-    "KSRTC bus catches fire at Pattambi in Keralam",
-    "Researchers at RGCB in Keralam develop nanopore sensors for early detection of Parkinson\u2019s disease",
-    "Two infants killed in fire accident at Telangana\u2019s RIMS Adilabad hospital SNCU ward, 25 children rescued",
-    "Minor girl gang-raped at Astha Kunj Park near Kalkaji Mandir in Delhi by men posing as policemen; friend assaulted",
-    "Andhra Pradesh extends A4 liquor shop renewal deadline by two days to September 23",
-    "Supreme Court orders fresh probe into 2012 rape-murder near Dharmasthala in Karnataka"
+    "Why lessons from Hyderabad\u2019s KBR faux pas must inform our future",
+    "Asian Games 2026 LIVE | Mirabai Chanu eyes gold as women\u2019s 48kg weightlifting final begins",
+    "Amaravati Regional Summit in Vijayawada on October 16 ahead of CII Partnership Summit in Visakhapatnam",
+    "Nellore man gets 10 years\u2019 jail for raping 98-year-old woman as a teenager in 2017",
+    "Coalition publishes Kannada translation of seventh ESA draft to bridge information gap for local communities",
+    "Tribal man killed in wild elephant attack in Keralam\u2019s Idukki",
+    "Asian Games 2026 India\u2019s medallists: Full list of winners",
+    "Man kills wife and priests in ritual dispute, dies in police encounter",
+    "Sonam Wangchuk slams delay in making public judicial panel report on September 2025 police action",
+    "Karnataka High Court refuses to quash money laundering proceedings against real estate firm Ozone Urbana Infra Developers"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
