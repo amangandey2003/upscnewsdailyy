@@ -1,19 +1,19 @@
 {
-  "date": "23 September 2026",
-  "date_short": "Sep 23",
-  "updated_at": "2026-09-23T10:28:18.717245+05:30",
+  "date": "24 September 2026",
+  "date_short": "Sep 24",
+  "updated_at": "2026-09-24T10:39:02.886338+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Why lessons from Hyderabad\u2019s KBR faux pas must inform our future",
-    "Asian Games 2026 LIVE | Mirabai Chanu eyes gold as women\u2019s 48kg weightlifting final begins",
-    "Amaravati Regional Summit in Vijayawada on October 16 ahead of CII Partnership Summit in Visakhapatnam",
-    "Nellore man gets 10 years\u2019 jail for raping 98-year-old woman as a teenager in 2017",
-    "Coalition publishes Kannada translation of seventh ESA draft to bridge information gap for local communities",
-    "Tribal man killed in wild elephant attack in Keralam\u2019s Idukki",
-    "Asian Games 2026 India\u2019s medallists: Full list of winners",
-    "Man kills wife and priests in ritual dispute, dies in police encounter",
-    "Sonam Wangchuk slams delay in making public judicial panel report on September 2025 police action",
-    "Karnataka High Court refuses to quash money laundering proceedings against real estate firm Ozone Urbana Infra Developers"
+    "Former Chief Election Commissioner questions legality of SIR, demands reversal of decisions",
+    "HEADS to bridge India\u2019s mental healthcare gap with AI",
+    "Telangana doctors\u2019 body seeks State-wide safety audit of government hospitals",
+    "Akasa Air to fly Bhogapuram-New Delhi daily from October 25",
+    "Asian Games 2026 LIVE: Roshibina Devi bags second Asian Games silver in Wushu",
+    "From vintage Vespas to Royal Enfields, meet Thiruvananthapuram\u2019s riding communities",
+    "Air India Express flight carrying two Andhra Ministers to Bhogapuram diverted to Nagpur in bad weather",
+    "Mamata calls for Chief Election Commissioner\u2019s arrest,\u00a0seeks fresh West Bengal polls",
+    "Ensure proper disposal of hazardous waste: Dinesh Reddy",
+    "How mobile games have become a means of protest against power crisis in Keralam"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
