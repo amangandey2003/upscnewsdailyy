@@ -1,19 +1,19 @@
 {
-  "date": "24 September 2026",
-  "date_short": "Sep 24",
-  "updated_at": "2026-09-24T10:39:02.886338+05:30",
+  "date": "25 September 2026",
+  "date_short": "Sep 25",
+  "updated_at": "2026-09-25T10:40:50.123589+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Former Chief Election Commissioner questions legality of SIR, demands reversal of decisions",
-    "HEADS to bridge India\u2019s mental healthcare gap with AI",
-    "Telangana doctors\u2019 body seeks State-wide safety audit of government hospitals",
-    "Akasa Air to fly Bhogapuram-New Delhi daily from October 25",
-    "Asian Games 2026 LIVE: Roshibina Devi bags second Asian Games silver in Wushu",
-    "From vintage Vespas to Royal Enfields, meet Thiruvananthapuram\u2019s riding communities",
-    "Air India Express flight carrying two Andhra Ministers to Bhogapuram diverted to Nagpur in bad weather",
-    "Mamata calls for Chief Election Commissioner\u2019s arrest,\u00a0seeks fresh West Bengal polls",
-    "Ensure proper disposal of hazardous waste: Dinesh Reddy",
-    "How mobile games have become a means of protest against power crisis in Keralam"
+    "Actor Mushtaq Khan dies at 75",
+    "Video shows professor grabbing student\u2019s collar during college event; NSUI seeks apology",
+    "Drought relief: Karnataka announces one-time aid of \u20b92,500 to about 50 lakh farmers, moratorium of 12 months for loan repayment",
+    "Adani promises \u20b91 lakh crore investment in West Bengal by 2035, looks to diversify in power generation and transmission",
+    "What is analogue paneer, and why is FSSAI cracking down on it? | Explained",
+    "Garbage collection revamp in Bengaluru faces hurdle as only six of 21 successful bidders accept work orders",
+    "Drought damages 62,985 hectares of onion crop in Karnataka; prices remain high",
+    "5-kg Ganesh laddu fetches \u20b91.01 crore at Hyderabad\u2019s Keerthi Richmond Villas, funds to support charity",
+    "NEET-PG 2026 results declared: Qualifying cut-off, scorecard, and more",
+    "Asian Games 2026 India\u2019s medallists: Full list of winners"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
