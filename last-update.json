@@ -1,19 +1,19 @@
 {
-  "date": "25 September 2026",
-  "date_short": "Sep 25",
-  "updated_at": "2026-09-25T10:40:50.123589+05:30",
+  "date": "26 September 2026",
+  "date_short": "Sep 26",
+  "updated_at": "2026-09-26T10:46:36.849375+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Actor Mushtaq Khan dies at 75",
-    "Video shows professor grabbing student\u2019s collar during college event; NSUI seeks apology",
-    "Drought relief: Karnataka announces one-time aid of \u20b92,500 to about 50 lakh farmers, moratorium of 12 months for loan repayment",
-    "Adani promises \u20b91 lakh crore investment in West Bengal by 2035, looks to diversify in power generation and transmission",
-    "What is analogue paneer, and why is FSSAI cracking down on it? | Explained",
-    "Garbage collection revamp in Bengaluru faces hurdle as only six of 21 successful bidders accept work orders",
-    "Drought damages 62,985 hectares of onion crop in Karnataka; prices remain high",
-    "5-kg Ganesh laddu fetches \u20b91.01 crore at Hyderabad\u2019s Keerthi Richmond Villas, funds to support charity",
-    "NEET-PG 2026 results declared: Qualifying cut-off, scorecard, and more",
-    "Asian Games 2026 India\u2019s medallists: Full list of winners"
+    "Too big to be cozy: the cracks within BJP\u2019s expansion plans are showing",
+    "In Modi\u2019s Gen-Z outreach, parents are the key target",
+    "Propriety in public discourse: On Udhayanidhi Stalin\u2019s double entendre remarks",
+    "Bankipur bypoll: Heart of the heartland will speak on August 3",
+    "Duty to tell BJP my views; doesn't mean leaving party: Amarinder Singh",
+    "Perfect storm of Monsoon Session comes to an end",
+    " Why distance from \u2018crime scene\u2019 matters in criminal law",
+    "BJD sees potential opportunity to regain political ground",
+    "Kharge remembers ex-PM Manmohan Singh for landmark economic reforms on his birth anniversary",
+    "\u2018Panthic\u2019 politics: SAD-BJP renewed alliance could reignite Akali Dal\u2019s core base ahead of 2027 Punjab polls"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
