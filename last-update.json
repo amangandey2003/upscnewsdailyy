@@ -1,19 +1,19 @@
 {
-  "date": "27 September 2026",
-  "date_short": "Sep 27",
-  "updated_at": "2026-09-27T11:02:03.197566+05:30",
+  "date": "28 September 2026",
+  "date_short": "Sep 28",
+  "updated_at": "2026-09-28T11:11:16.759763+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Private university students hold protest, block highway over unverified rape report",
-    "Tamil Nadu government exempts Public (Law and Order) Department from RTI Act",
-    "Greenfield shipyard in Thoothukudi: a southern port to development",
-    "Karur stampede left an indelible scar, says Vijay on first anniversary",
-    "Why are students protesting at IIT-Bombay? | Explained",
-    "News in Frames: After the drought,a refreshing respite",
-    "Gyanesh Kumar suggested I contest on BJP ticket in 2019, says ex-Chief Secretary Jiji Thomson",
-    "From idol immersions to funeral rites, Maharashtra faces the drought pinch",
-    "YouTuber behind Kolkata restaurant beef row, influencers, RJ and actors funded by BJP during Bengal polls",
-    "Damage due to rainfall to be assessed; assistance to affected families within 24 hours: Uttar Pradesh CM Yogi Adityanath"
+    "LPU protest: Traffic on NH-44 restored, situation under control, say police",
+    "Lovely Professional University on the boil: What has led to the students\u2019 protest in Punjab?",
+    "After protests within Congress, Keralam govt puts on hold reinstatement of DySP accused of sexual assault in custody",
+    "Mass deletions, internal dissent allegations challenge Supreme Court-backed SIR",
+    "Long wait for justice as pendencies in rape cases mount",
+    "Keralam Waqf Board reconstitution: Govt to examine all aspects before decision, says Minister",
+    "Spurious drugs racket kingpin arrested in Bengaluru",
+    "Scientists at IAV, Keralam develop dengue early warning system to forecast trends",
+    " An uncertain wait for filmmakers selected in IDSFFK after Union I&B Ministry \u2018ban\u2019",
+    "Omar Abdullah\u2019s resolution on Statehood set for debate in J&K assembly; 6 NC MLAs move amendments to include Article 370, 35A"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
