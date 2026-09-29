@@ -1,19 +1,19 @@
 {
-  "date": "28 September 2026",
-  "date_short": "Sep 28",
-  "updated_at": "2026-09-28T11:11:16.759763+05:30",
+  "date": "29 September 2026",
+  "date_short": "Sep 29",
+  "updated_at": "2026-09-29T11:28:23.331521+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "LPU protest: Traffic on NH-44 restored, situation under control, say police",
-    "Lovely Professional University on the boil: What has led to the students\u2019 protest in Punjab?",
-    "After protests within Congress, Keralam govt puts on hold reinstatement of DySP accused of sexual assault in custody",
-    "Mass deletions, internal dissent allegations challenge Supreme Court-backed SIR",
-    "Long wait for justice as pendencies in rape cases mount",
-    "Keralam Waqf Board reconstitution: Govt to examine all aspects before decision, says Minister",
-    "Spurious drugs racket kingpin arrested in Bengaluru",
-    "Scientists at IAV, Keralam develop dengue early warning system to forecast trends",
-    " An uncertain wait for filmmakers selected in IDSFFK after Union I&B Ministry \u2018ban\u2019",
-    "Omar Abdullah\u2019s resolution on Statehood set for debate in J&K assembly; 6 NC MLAs move amendments to include Article 370, 35A"
+    "V.D. Satheesan govt faces first major electoral test as counting on in 38 local body wards across 12 districts in Keralam",
+    "Rima Das on \u2018Village Rockstars 2\u2019 and the state of independent cinema",
+    "Lack of understanding about cross-border terror concerns impacts bilateral ties: Jaishankar on India-U.S. relations",
+    "CEC row LIVE: Former Home Secretary urges Opposition to boycott elections until Gyanesh Kumar resigns",
+    "Karnataka SIR: Over 4,000 Form-7 seek deletion of names, largely Muslim voters, across Congress, BJP seats",
+    "PMO reviews Ambedkarite writings in university curricula after anonymous post calls them \u2018poison\u2019",
+    "Tamil Nadu CM Vijay declares open renovated Gandhi Memorial Museum in Madurai",
+    "Cancer, kidney, AIDS drugs sold at up to 70 times procurement cost: Karnataka Health Minister",
+    "Jharkhand BJP strongly condemn the\u00a0damage to Syama Prasad Mookerjee\u2019s statue in Ranchi",
+    "Over 40 modules of Shahzad Bhatti network busted, 350 held across 15 States: Amit Shah"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
