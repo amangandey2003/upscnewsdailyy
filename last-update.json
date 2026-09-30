@@ -1,19 +1,19 @@
 {
-  "date": "29 September 2026",
-  "date_short": "Sep 29",
-  "updated_at": "2026-09-29T11:28:23.331521+05:30",
+  "date": "30 September 2026",
+  "date_short": "Sep 30",
+  "updated_at": "2026-09-30T11:18:18.965029+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "V.D. Satheesan govt faces first major electoral test as counting on in 38 local body wards across 12 districts in Keralam",
-    "Rima Das on \u2018Village Rockstars 2\u2019 and the state of independent cinema",
-    "Lack of understanding about cross-border terror concerns impacts bilateral ties: Jaishankar on India-U.S. relations",
-    "CEC row LIVE: Former Home Secretary urges Opposition to boycott elections until Gyanesh Kumar resigns",
-    "Karnataka SIR: Over 4,000 Form-7 seek deletion of names, largely Muslim voters, across Congress, BJP seats",
-    "PMO reviews Ambedkarite writings in university curricula after anonymous post calls them \u2018poison\u2019",
-    "Tamil Nadu CM Vijay declares open renovated Gandhi Memorial Museum in Madurai",
-    "Cancer, kidney, AIDS drugs sold at up to 70 times procurement cost: Karnataka Health Minister",
-    "Jharkhand BJP strongly condemn the\u00a0damage to Syama Prasad Mookerjee\u2019s statue in Ranchi",
-    "Over 40 modules of Shahzad Bhatti network busted, 350 held across 15 States: Amit Shah"
+    "India criticises Pakistan\u2019s \u2018falsehoods\u2019 and \u2018deceit\u2019 at UN; warns terrorism will have consequences",
+    "At CWC meet, Rahul says Modi told him: \u2018When we go, you will come'",
+    "Kerala HC directs transparency in selection of Sabarimala, Malikappuram Melsanthis",
+    "Poet Kannadasan: a creative mind that enriched Tamil cinema with exquisite, philosophical songs",
+    "\u2018He should better visit Bihar\u2019: Minister takes a dig at Chirag Paswan over his remarks against State govt.",
+    "A Lok Sabha bypoll in Tamil Nadu that triggered the first Motion of Confidence in Indian legislature",
+    "Beyond Fort St. George: Tamil Nadu government\u2019s quest for an Assembly-Secretariat site is more than a century old",
+    "The 1981 byelection that triggered twists and turns in Tamil Nadu politics",
+    "\u2018Dorothy\u2019, a long-awaited embrace for the queer community",
+    "Lessons from the history of rebellions in AIADMK and DMK in Tamil Nadu"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
