@@ -1,19 +1,19 @@
 {
-  "date": "30 September 2026",
-  "date_short": "Sep 30",
-  "updated_at": "2026-09-30T11:18:18.965029+05:30",
+  "date": "01 October 2026",
+  "date_short": "Oct 01",
+  "updated_at": "2026-10-01T11:48:47.520927+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "India criticises Pakistan\u2019s \u2018falsehoods\u2019 and \u2018deceit\u2019 at UN; warns terrorism will have consequences",
-    "At CWC meet, Rahul says Modi told him: \u2018When we go, you will come'",
-    "Kerala HC directs transparency in selection of Sabarimala, Malikappuram Melsanthis",
-    "Poet Kannadasan: a creative mind that enriched Tamil cinema with exquisite, philosophical songs",
-    "\u2018He should better visit Bihar\u2019: Minister takes a dig at Chirag Paswan over his remarks against State govt.",
-    "A Lok Sabha bypoll in Tamil Nadu that triggered the first Motion of Confidence in Indian legislature",
-    "Beyond Fort St. George: Tamil Nadu government\u2019s quest for an Assembly-Secretariat site is more than a century old",
-    "The 1981 byelection that triggered twists and turns in Tamil Nadu politics",
-    "\u2018Dorothy\u2019, a long-awaited embrace for the queer community",
-    "Lessons from the history of rebellions in AIADMK and DMK in Tamil Nadu"
+    "Amravati hospital fire: CCTV footage reveals fire alarm rang three times",
+    "Madras High Court refuses to reject election petition filed against Esakki Subaya\u2019s Ambasamudram win",
+    "CM Vijay positions TVK as organic successor to AIADMK, justifies Dharapuram candidate\u2019s party switchover",
+    "SIR: Filled Form-7 targeting Muslim voters surface in Belagavi; BLOs allege they were pressured to sign ",
+    "Thrissur fireworks accident site contaminated with toxic metals, raises health concerns",
+    "President Murmu, PM Modi praise Indian pilot Smit Machchhar for saving Israel-bound flight from crash",
+    "Two detained after Shiv Sena (UBT) leader Pradeep Purnekar shot dead in Thane",
+    "Why are Maharashtra\u2019s forensic labs hiring 220 recruits in the cyber/TASI department? | Explained",
+    "Soon after SIR, Odisha\u2019s Chief Electoral Officer applies for voluntary retirement",
+    "Avoid \u2018dangerous path\u2019 of travelling to Russia to join army: MEA"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
