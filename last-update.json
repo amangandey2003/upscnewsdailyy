@@ -1,19 +1,19 @@
 {
-  "date": "01 October 2026",
-  "date_short": "Oct 01",
-  "updated_at": "2026-10-01T11:48:47.520927+05:30",
+  "date": "02 October 2026",
+  "date_short": "Oct 02",
+  "updated_at": "2026-10-02T11:28:35.017857+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Amravati hospital fire: CCTV footage reveals fire alarm rang three times",
-    "Madras High Court refuses to reject election petition filed against Esakki Subaya\u2019s Ambasamudram win",
-    "CM Vijay positions TVK as organic successor to AIADMK, justifies Dharapuram candidate\u2019s party switchover",
-    "SIR: Filled Form-7 targeting Muslim voters surface in Belagavi; BLOs allege they were pressured to sign ",
-    "Thrissur fireworks accident site contaminated with toxic metals, raises health concerns",
-    "President Murmu, PM Modi praise Indian pilot Smit Machchhar for saving Israel-bound flight from crash",
-    "Two detained after Shiv Sena (UBT) leader Pradeep Purnekar shot dead in Thane",
-    "Why are Maharashtra\u2019s forensic labs hiring 220 recruits in the cyber/TASI department? | Explained",
-    "Soon after SIR, Odisha\u2019s Chief Electoral Officer applies for voluntary retirement",
-    "Avoid \u2018dangerous path\u2019 of travelling to Russia to join army: MEA"
+    "Rajiv Gandhi assassination case convict A.G. Perarivalan moves Madras HC seeking passport issuance",
+    "Marginalised Yanadi and Chenchu communities in Andhra Pradesh struggle for land",
+    "G.P. Talwar at 100: scientist, institution builder, lifelong researcher",
+    "Keralam govt faces unity test as UDF convener Adoor Prakash reiterates \u2018lack of alliance consultations\u2019 on key postings",
+    " Hyderabad\u2019s Ganesh puja: Big on devotion, bigger on moolah",
+    "What is the Vettri Payanam Thittam launched by Tamil Nadu CM Vijay? Explained",
+    "Trinamool stripped of its name and symbol, vote for BJP, says CM Suvendu in Rejinagar",
+    "SIR: ECI asks BLOs to revisit deleted list, ensure those eligible but left out are re-enrolled within a month",
+    "Nandigram and Rejinagar bypoll: Ballot without the battle",
+    "Nitin Gadkari calls Ethanol blending a step towards diversification of agricultural sector"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
