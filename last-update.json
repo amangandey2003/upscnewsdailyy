@@ -1,19 +1,19 @@
 {
-  "date": "02 October 2026",
-  "date_short": "Oct 02",
-  "updated_at": "2026-10-02T11:28:35.017857+05:30",
+  "date": "03 October 2026",
+  "date_short": "Oct 03",
+  "updated_at": "2026-10-03T11:03:34.694455+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Rajiv Gandhi assassination case convict A.G. Perarivalan moves Madras HC seeking passport issuance",
-    "Marginalised Yanadi and Chenchu communities in Andhra Pradesh struggle for land",
-    "G.P. Talwar at 100: scientist, institution builder, lifelong researcher",
-    "Keralam govt faces unity test as UDF convener Adoor Prakash reiterates \u2018lack of alliance consultations\u2019 on key postings",
-    " Hyderabad\u2019s Ganesh puja: Big on devotion, bigger on moolah",
-    "What is the Vettri Payanam Thittam launched by Tamil Nadu CM Vijay? Explained",
-    "Trinamool stripped of its name and symbol, vote for BJP, says CM Suvendu in Rejinagar",
-    "SIR: ECI asks BLOs to revisit deleted list, ensure those eligible but left out are re-enrolled within a month",
-    "Nandigram and Rejinagar bypoll: Ballot without the battle",
-    "Nitin Gadkari calls Ethanol blending a step towards diversification of agricultural sector"
+    "TVK Ministers slam DMK chief Stalin over alleged body-shaming of Dharapuram bypoll candidate",
+    "Hardened narco-trafficking kingpin Navpreet Singh deported from Turkiye: Amit Shah",
+    "Rashtra, dharma depend on each other, says Mohan Bhagwat at Vihar Seva conference",
+    "Two migrant workers killed as borewell rig overturns onto house in Keralam",
+    "Mohan Charan Majhi government epitome of mismanagement: Naveen Patnaik",
+    "Amid P&T apartment controversy, Kochi Corporation drops TDLC bid",
+    "Allahabad HC to hear suo motu PIL on noise pollution after student\u2019s death",
+    "Pakistani cosmetics seized in Hyderabad traced to Mumbai\u2019s Crawford Market",
+    "Protest against CEC Gyanesh Kumar LIVE: Demonstration to resume in Delhi",
+    "Five Indian nationals rescued after projectile hits tanker in Strait of Hormuz"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
