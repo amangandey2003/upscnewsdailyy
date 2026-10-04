@@ -1,19 +1,19 @@
 {
-  "date": "03 October 2026",
-  "date_short": "Oct 03",
-  "updated_at": "2026-10-03T11:03:34.694455+05:30",
+  "date": "04 October 2026",
+  "date_short": "Oct 04",
+  "updated_at": "2026-10-04T11:39:28.470997+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "TVK Ministers slam DMK chief Stalin over alleged body-shaming of Dharapuram bypoll candidate",
-    "Hardened narco-trafficking kingpin Navpreet Singh deported from Turkiye: Amit Shah",
-    "Rashtra, dharma depend on each other, says Mohan Bhagwat at Vihar Seva conference",
-    "Two migrant workers killed as borewell rig overturns onto house in Keralam",
-    "Mohan Charan Majhi government epitome of mismanagement: Naveen Patnaik",
-    "Amid P&T apartment controversy, Kochi Corporation drops TDLC bid",
-    "Allahabad HC to hear suo motu PIL on noise pollution after student\u2019s death",
-    "Pakistani cosmetics seized in Hyderabad traced to Mumbai\u2019s Crawford Market",
-    "Protest against CEC Gyanesh Kumar LIVE: Demonstration to resume in Delhi",
-    "Five Indian nationals rescued after projectile hits tanker in Strait of Hormuz"
+    "Indian and Pakistani diplomats summoned over BSF killing two \u2018infiltrators\u2019",
+    "Rajasthan government should prepare contingency plan to deal with \u2018drought-like\u2019 situation: Ashok Gehlot",
+    "Desert villagers in Rajasthan turn to traditional ingenuity to beat intense heat, water scarcity",
+    "How accurate is Bengaluru\u2019s AI traffic enforcement? | Explained",
+    "Monsoon expected to withdraw from parts of Rajasthan over next 3-4 days",
+    "Remembering Singeetham Srinivasa Rao",
+    "Legendary movie director, writer Singeetham Srinivasa Rao passes away",
+    "Mandatory attachment, confiscation essential to combat vice of corruption, says Madras High Court",
+    "Punjabi influencer, makeup artist shot dead in Amritsar",
+    "Declare \u2018Vettri Payanam\u2019 scheme unconstitutional, urges private bus operator before Madras High Court"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
