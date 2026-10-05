@@ -1,19 +1,19 @@
 {
-  "date": "04 October 2026",
-  "date_short": "Oct 04",
-  "updated_at": "2026-10-04T11:39:28.470997+05:30",
+  "date": "05 October 2026",
+  "date_short": "Oct 05",
+  "updated_at": "2026-10-05T11:31:17.605507+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Indian and Pakistani diplomats summoned over BSF killing two \u2018infiltrators\u2019",
-    "Rajasthan government should prepare contingency plan to deal with \u2018drought-like\u2019 situation: Ashok Gehlot",
-    "Desert villagers in Rajasthan turn to traditional ingenuity to beat intense heat, water scarcity",
-    "How accurate is Bengaluru\u2019s AI traffic enforcement? | Explained",
-    "Monsoon expected to withdraw from parts of Rajasthan over next 3-4 days",
-    "Remembering Singeetham Srinivasa Rao",
-    "Legendary movie director, writer Singeetham Srinivasa Rao passes away",
-    "Mandatory attachment, confiscation essential to combat vice of corruption, says Madras High Court",
-    "Punjabi influencer, makeup artist shot dead in Amritsar",
-    "Declare \u2018Vettri Payanam\u2019 scheme unconstitutional, urges private bus operator before Madras High Court"
+    "Abandon Pattinapakkam Assembly-cum-Secretariat complex project, insists PIL plea before Madras High Court",
+    "Two arrested for allegedly drugging, gang-raping woman in Kochi",
+    "Gyanesh Kumar undermined Election Commission\u2019s independence: Sachin Pilot",
+    "Use of Hindi on highways signboard cannot be treated as imposition: Cong MP",
+    "Protest against CEC Gyanesh Kumar LIVE: Journalist alleging molestation by ACP detained with 17 others; claims police assaulted detainees: CJP",
+    "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
+    "Clip of Naidu calming crowd at Sitharaman\u2019s speech in Andhra\u2019s Madanapalle sets off Congress-NDA row",
+    "BJP steps up demand for Thiruvananthapuram Corporation CPI(M) councillor\u2019s resignation over bribery allegations",
+    "Thiruvananthapuram Corporation: R. Sreelekha\u2019s resignation bid puts BJP in a spot",
+    "Process disenfranchising millions, turning them to second class citizens is arbitrary, says Justice Bhuyan"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
