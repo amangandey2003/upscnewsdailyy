@@ -1,19 +1,19 @@
 {
-  "date": "05 October 2026",
-  "date_short": "Oct 05",
-  "updated_at": "2026-10-05T11:31:17.605507+05:30",
+  "date": "06 October 2026",
+  "date_short": "Oct 06",
+  "updated_at": "2026-10-06T12:09:52.689843+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Abandon Pattinapakkam Assembly-cum-Secretariat complex project, insists PIL plea before Madras High Court",
-    "Two arrested for allegedly drugging, gang-raping woman in Kochi",
-    "Gyanesh Kumar undermined Election Commission\u2019s independence: Sachin Pilot",
-    "Use of Hindi on highways signboard cannot be treated as imposition: Cong MP",
-    "Protest against CEC Gyanesh Kumar LIVE: Journalist alleging molestation by ACP detained with 17 others; claims police assaulted detainees: CJP",
-    "CEC's ability to 'execute G2's illegal orders' makes him a liability for country: Congress",
-    "Clip of Naidu calming crowd at Sitharaman\u2019s speech in Andhra\u2019s Madanapalle sets off Congress-NDA row",
-    "BJP steps up demand for Thiruvananthapuram Corporation CPI(M) councillor\u2019s resignation over bribery allegations",
-    "Thiruvananthapuram Corporation: R. Sreelekha\u2019s resignation bid puts BJP in a spot",
-    "Process disenfranchising millions, turning them to second class citizens is arbitrary, says Justice Bhuyan"
+    "ASI undertakes Dwarapala restoration at Thousand Pillar Temple in Telangana\u2019s Hanumakonda",
+    "Fadnavis recommends panel to probe MPSC chairpersons over paper leaks",
+    "Karnataka to revise cash incentive for Asian Games medallists",
+    "Bengal bypoll: AJUP chief Humayun Kabir arrested in Rejinagar after verbal altercation with police",
+    "GHMC town planning official caught taking \u20b94 lakh bribe, \u20b92.5 lakh unaccounted cash seized",
+    "Odisha to create additional storage for rice to accommodate paddy glut",
+    "Review | Paul Zacharia\u2019s \u201850 Stories\u2019 is a rich blend of the ordinary and the bizarre",
+    "CEC row LIVE updates: INDIA bloc MPs march to ECI in Delhi, demanding Gyanesh Kumar's resignation",
+    "\u20b97 lakh stolen from ATM in Shamshabad\u2019s Satamrai",
+    "Overnight rain brings relief to Annamayya, but the district\u2019s monsoon deficit stands at 51%"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
