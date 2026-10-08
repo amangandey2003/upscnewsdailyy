@@ -1,19 +1,19 @@
 {
-  "date": "07 October 2026",
-  "date_short": "Oct 07",
-  "updated_at": "2026-10-07T11:46:45.775450+05:30",
+  "date": "08 October 2026",
+  "date_short": "Oct 08",
+  "updated_at": "2026-10-08T11:56:30.276671+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "People need relief during festive season, but they are burdened: Harish Rao on Telangana electricity charges hike",
-    "CEC row LIVE: CJP\u2019s Saurav Das to submit \u2018intimation letter\u2019 to Delhi Police ahead of October 10 Jantar Mantar protest; security tightened",
-    "Keralam to join hands with NTPC to set up 2,000-MW battery energy storage system at Kayamkulam",
-    "Bhubaneswar-based CSM Technologies deploys royalty management system for Kenyan mineral sector",
-    "West Bengal poll office says eligible deleted voters can apply through Form 6 to restore name in rolls",
-    "Jagan receives book on his political journey",
-    "Twenty-five years of leadership, an India transformed",
-    "Maharashtra hub of 'urban Maoist' activities: Government on Special Public Security Act",
-    "Unlawful detention of Rahul Gandhi reflective of hubris of a failing govt.: Telangana CM",
-    "Chief Minister Vijay has claimed ownership over 50 cents of poromboke land in Kodaikanal, alleges election petitioner before Madras HC"
+    "Nana Patekar passes away: Leaders, film fraternity mourn actor's death | LIVE updates",
+    "Rahul Gandhi has 'anarchist' mindset: Nitin Nabin",
+    "Self-styled tantric Shrawan Mahto arrested after video of him swinging small children as part of \u2018ritual\u2019 goes viral",
+    "CEC row LIVE: CJP, Dhruv Rathee to participate in Bengaluru's \u2018People\u2019s Tribunal\u2019 against SIR; Rahul Gandhi says 'won't stop' till Gyanesh Kumar resigns",
+    "NTRUHS invites Andhra Governor to its Ruby Jubilee celebrations on October 26",
+    "The people this year\u2019s Nobel Prizes left out",
+    "Woman social media influencer in Keralam booked for allegedly sexually harassing minor boy",
+    "FIR against MLA for creating false death certificates of voters in Vijayapura",
+    "DGP asks police to use drones and step up intelligence in Godavari villages ahead of local body polls",
+    "Local body polls: YSRCP urges SEC to call all-party meeting before notification"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
