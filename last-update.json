@@ -1,19 +1,19 @@
 {
-  "date": "08 October 2026",
-  "date_short": "Oct 08",
-  "updated_at": "2026-10-08T11:56:30.276671+05:30",
+  "date": "09 October 2026",
+  "date_short": "Oct 09",
+  "updated_at": "2026-10-09T11:58:06.776718+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Nana Patekar passes away: Leaders, film fraternity mourn actor's death | LIVE updates",
-    "Rahul Gandhi has 'anarchist' mindset: Nitin Nabin",
-    "Self-styled tantric Shrawan Mahto arrested after video of him swinging small children as part of \u2018ritual\u2019 goes viral",
-    "CEC row LIVE: CJP, Dhruv Rathee to participate in Bengaluru's \u2018People\u2019s Tribunal\u2019 against SIR; Rahul Gandhi says 'won't stop' till Gyanesh Kumar resigns",
-    "NTRUHS invites Andhra Governor to its Ruby Jubilee celebrations on October 26",
-    "The people this year\u2019s Nobel Prizes left out",
-    "Woman social media influencer in Keralam booked for allegedly sexually harassing minor boy",
-    "FIR against MLA for creating false death certificates of voters in Vijayapura",
-    "DGP asks police to use drones and step up intelligence in Godavari villages ahead of local body polls",
-    "Local body polls: YSRCP urges SEC to call all-party meeting before notification"
+    "Bypoll results LIVE: BJP widens lead in West Bengal; TVK leads in Tamil Nadu",
+    "Journalist alleging harassment by Delhi Police ACP had to endure 25-point questionnaire by Crime Branch",
+    "\u2018Operation Trishul\u2019: candle rally taken out against drug abuse",
+    "How a Keralam teacher\u2019s \u2018portable chemistry lab\u2019 is sparking students\u2019 interest in experiments",
+    "Tested by mud and water, in Bundelkhand",
+    "Misconceptions about HIV still fuel discrimination, says APSACS chief at Red Run in Vijayawada",
+    "Four CRPF personnel injured in blast during explosives disposal in Sukma",
+    "Counting begins for Bengal bypolls, BJP's first electoral test after coming to power",
+    "Naidu hails Modi\u2019s 25 years of public service as inspiring, transformative ",
+    "CMRL payoff case: Kerala HC orders registration of FIR against Pinarayi Vijayan, kin based on ED report"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
