@@ -1,19 +1,19 @@
 {
-  "date": "10 October 2026",
-  "date_short": "Oct 10",
-  "updated_at": "2026-10-10T11:40:47.562954+05:30",
+  "date": "11 October 2026",
+  "date_short": "Oct 11",
+  "updated_at": "2026-10-11T11:38:13.340107+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Delhi protest: CJP\u2019s Abhijeet Dipke, Saurav Das, Ashutosh Ranka, Ratna Singh detained",
-    "In Pune, the long wait for a government job",
-    "Five-tier security for Prime Minister\u2019s Chennai visit",
-    "Three Bangladeshi nationals held with forged identity documents in Kozhikode",
-    "Eight BJP, two SP candidates elected unopposed in Rajya Sabha from U.P.",
-    "Anti-CEC protest on October 10: Police, security forces throw wide net across New Delhi",
-    "NIMHANS study finds loneliness linked to psychological distress, excessive series watching among parents of emigrated children",
-    "Woman shot dead in Manipur's Kamjong, prohibitory orders imposed",
-    "'Black Emergency' imposed in the country: AAP",
-    "Anti-CEC protest: Contempt plea filed in Supreme Court on continued transit shutdown in Delhi"
+    "Shigella cases ring alarm bells in Thrissur as 10 infections surface in nine days",
+    "Anti-CEC protest LIVE updates: 'Exceptional and urgent,' Justice Bagchi says as Supreme Court hears pleas challenging mass detentions, transit shutdown in Delhi",
+    "Berlin to BITS Pilani: How Nobel-winning Optogenetics connects to parasite research in Hyderabad",
+    "PM Modi in Chennai LIVE | Inauguration of Chennai Metro Phase II stretch ",
+    "SIR protest: Former Bengaluru top cop and BJP leader Bhaskar Rao seeks verification of Dhruv Rathee\u2019s citizenship, visa conditions",
+    "All 22 Indian crew rescued and safe after incident off UAE coast, Consulate says",
+    "Parliamentary panel indicts NTA; hope \u2018arrogant\u2019 Modi government takes it seriously: Congress",
+    "SITAM Director says Ratan Tata Innovation Hub initiatives encourage students to develop new ideas",
+    "Tushar Gandhi among 12 named in FIR over Mumbai protest; 600 detained and released",
+    "Assault rifles, pistols, 11 grenades, IEDs recovered in Kashmir\u2019s Sopore: Police"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
