@@ -1,19 +1,19 @@
 {
-  "date": "11 October 2026",
-  "date_short": "Oct 11",
-  "updated_at": "2026-10-11T11:38:13.340107+05:30",
+  "date": "12 October 2026",
+  "date_short": "Oct 12",
+  "updated_at": "2026-10-12T11:46:52.480756+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Shigella cases ring alarm bells in Thrissur as 10 infections surface in nine days",
-    "Anti-CEC protest LIVE updates: 'Exceptional and urgent,' Justice Bagchi says as Supreme Court hears pleas challenging mass detentions, transit shutdown in Delhi",
-    "Berlin to BITS Pilani: How Nobel-winning Optogenetics connects to parasite research in Hyderabad",
-    "PM Modi in Chennai LIVE | Inauguration of Chennai Metro Phase II stretch ",
-    "SIR protest: Former Bengaluru top cop and BJP leader Bhaskar Rao seeks verification of Dhruv Rathee\u2019s citizenship, visa conditions",
-    "All 22 Indian crew rescued and safe after incident off UAE coast, Consulate says",
-    "Parliamentary panel indicts NTA; hope \u2018arrogant\u2019 Modi government takes it seriously: Congress",
-    "SITAM Director says Ratan Tata Innovation Hub initiatives encourage students to develop new ideas",
-    "Tushar Gandhi among 12 named in FIR over Mumbai protest; 600 detained and released",
-    "Assault rifles, pistols, 11 grenades, IEDs recovered in Kashmir\u2019s Sopore: Police"
+    "\u2018Upload whatever they give\u2019: AEROs allege pressure to clear SIR notices without hearings",
+    "Anti-CEC row LIVE: Opposition leaders set to march to Supreme Court; security beefed up outside Parliament Street police station",
+    "16 people drowned to death in Bihar on the first day of Dussehra festival",
+    "Visakhapatnam\u2019s air was worse than \u2018satisfactory\u2019 on 259 of 382 days; data show winter brings the worst",
+    "Security beefed up outside Parliament Street police station ahead of CJP leaders visit for fresh Jantar Mantar protest date",
+    "Appointments in Election Commission of India | Explained",
+    "INS Mangrol, anti-submarine warfare shallow water craft, inducted into Navy",
+    "The caste thread travels overseas",
+    "Man dies after alleged assault over seat inside Delhi Metro; ex-IAS officer, son arrested",
+    "Invasive species may be the wrong enemy in a changing subcontinent"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
