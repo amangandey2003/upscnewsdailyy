@@ -1,19 +1,19 @@
 {
-  "date": "13 October 2026",
-  "date_short": "Oct 13",
-  "updated_at": "2026-10-13T12:27:26.881700+05:30",
+  "date": "14 October 2026",
+  "date_short": "Oct 14",
+  "updated_at": "2026-10-14T10:40:16.056329+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "After The Hindu report, Collector orders GMR to repair roads damaged in Bhogapuram airport construction",
-    "Karnataka Home Minister says police directed not to disrupt peaceful demonstration",
-    "Jantar Mantar: From astronomical observatory to landmark protest site",
-    "MDR on UPI: Keralam hotels association says will stop accepting UPI payments above \u20b92,000 from October 15",
-    "Anti-CEC protests LIVE: CJP leaders Saurav Das and Ashutosh Ranka detained; Delhi High Court to hear pleas on protest SOPs ",
-    "IAS officer booked for assault on police at bar and restaurant in Bengaluru",
-    "India grows \u2018with the world, not at anyone's cost\u2019, cites strong economic fundamentals, says PM Modi",
-    "Tamil Nadu CM Vijay to meet Naidu today: Krishna water for Chennai on agenda",
-    "Interim zone of influence around Pallikaranai marshland can be restricted to 36 survey numbers, State Wetlands Authority tells Madras High Court",
-    "Supreme Court stays defamation case proceedings against Rahul Gandhi over 2019 remarks against PM"
+    "Rupee rises 44 paise to 94.92 against U.S. dollar in early trade",
+    "Delhi Police registers four FIRs against \u2018rumour-mongers\u2019, Pakistan social media handles under scanner",
+    "SIR: Special camps on October 15, 16 to help enrol omitted voters in Telangana",
+    "Two Assistant Professors, two PG students suspended for medical negligence at Kakinada GGH",
+    "J&K Waqf Board takes U-turn on uniform Friday sermons",
+    "Towards an age-ready Keralam: translating rights into care",
+    "Keralam Senior Citizens Bill referred to Assembly Subject Committee",
+    "Linking Madras, Cuddalore, and Calcutta",
+    "Anti-CEC protest LIVE | CJP\u2019s Saurav Das and Ashutosh Ranka sent to 5 days judicial custody in trespassing case",
+    "Brain damage to toddler: Health Department refers medical negligence case against hospital to Karnataka Medical Council"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
