@@ -1,19 +1,19 @@
 {
-  "date": "14 October 2026",
-  "date_short": "Oct 14",
-  "updated_at": "2026-10-14T10:40:16.056329+05:30",
+  "date": "15 October 2026",
+  "date_short": "Oct 15",
+  "updated_at": "2026-10-15T10:28:30.453917+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Rupee rises 44 paise to 94.92 against U.S. dollar in early trade",
-    "Delhi Police registers four FIRs against \u2018rumour-mongers\u2019, Pakistan social media handles under scanner",
-    "SIR: Special camps on October 15, 16 to help enrol omitted voters in Telangana",
-    "Two Assistant Professors, two PG students suspended for medical negligence at Kakinada GGH",
-    "J&K Waqf Board takes U-turn on uniform Friday sermons",
-    "Towards an age-ready Keralam: translating rights into care",
-    "Keralam Senior Citizens Bill referred to Assembly Subject Committee",
-    "Linking Madras, Cuddalore, and Calcutta",
-    "Anti-CEC protest LIVE | CJP\u2019s Saurav Das and Ashutosh Ranka sent to 5 days judicial custody in trespassing case",
-    "Brain damage to toddler: Health Department refers medical negligence case against hospital to Karnataka Medical Council"
+    "Belagavi-based Aequs announces long-term supply agreements with Safran for aerospace applications",
+    "Karnataka asks Czech companies to invest beyond Bengaluru",
+    "Ankita Bhandari murder: Parents released after detention, issue ultimatum to government",
+    "Anti-CEC protest LIVE | Supreme Court likely to hear Rahul Gandhi, INDIA bloc leaders\u2019 plea against SIR today",
+    "Man murders wife, 4-year-old son, then attempts to kill self in Keralam\u2019s Thrissur",
+    "India\u2019s largest red light area in Kolkata\u2019s Sonagachi inaugurates Durga Puja",
+    "India asks when UN body will report on PoK human rights concerns",
+    "Air India Frankfurt-Delhi flight diverted to Jaipur after hijack alert, resumes journey after checks",
+    "CBI arrests executive director of defence firm for graft",
+    "Mary Millben, Abhijeet Dipke exchange barbs over CJP funding"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
