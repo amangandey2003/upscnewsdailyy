@@ -1,19 +1,19 @@
 {
-  "date": "17 October 2026",
-  "date_short": "Oct 17",
-  "updated_at": "2026-10-17T10:18:03.152844+05:30",
+  "date": "18 October 2026",
+  "date_short": "Oct 18",
+  "updated_at": "2026-10-18T10:24:10.246073+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Caste based conferences set to return as U.P. poll approaches",
-    "Ministry of Home Affairs directs States to prevent CJP supporters from mobilising towards Delhi",
-    "Chittoor Collector calls for collective efforts to eradicate child marriages",
-    "Dasara 2026: City police constitutes social media monitoring teams to check spread of false information",
-    "Silver jubilee edition of TATHVA begins at NIT-C",
-    "Sugarcane farmers threaten highway blockade from October 13",
-    "BJP alleges HC order violation over Kozhikode Corporation\u2019s resolution against CEC",
-    "Finance dept. decision against guarantees for KIIFB borrowings in three fiscals overruled during LDF tenure, says expert panel",
-    "Curbs on protests mark India\u2019s second freedom movement: Dipankar Bhattacharya",
-    "Auto driver jumps into Hussainsagar, rescues six-year-old thrown into lake by mother"
+    "Chorbagan pandal stampede: Mismanagement, confusing announcements led to mishap, say Kolkata Police",
+    "'Unwarranted and uninformed': India rejects U.S. lawmaker's comments on revision of electoral rolls",
+    "Food safety violations found at sweet units; \u20b97,000 penalty imposed during second day inspections",
+    "Supreme Court issues notice on plea to transfer Twisha Sharma death case to Delhi",
+    "Krishna Byre Gowda sets October 31 deadline for replacement of streetlights",
+    "The grief of ghungroos",
+    "Political intentions behind ED case against Pinarayi Vijayan: M.V. Govindan",
+    "NHM employees\u2019 strike in Telangana continues as 17,541 staff demand regularisation, equal pay",
+    "Jaishankar to meet Rubio, UAE Foreign Minister, in back-to-back separate visits in Mumbai next week",
+    "Contractors should be held responsible for \u2018decrepit\u2019 P&T apartments: Kerala High Court"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
