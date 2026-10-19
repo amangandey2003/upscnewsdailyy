@@ -1,19 +1,19 @@
 {
-  "date": "18 October 2026",
-  "date_short": "Oct 18",
-  "updated_at": "2026-10-18T10:24:10.246073+05:30",
+  "date": "19 October 2026",
+  "date_short": "Oct 19",
+  "updated_at": "2026-10-19T10:32:33.584562+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Chorbagan pandal stampede: Mismanagement, confusing announcements led to mishap, say Kolkata Police",
-    "'Unwarranted and uninformed': India rejects U.S. lawmaker's comments on revision of electoral rolls",
-    "Food safety violations found at sweet units; \u20b97,000 penalty imposed during second day inspections",
-    "Supreme Court issues notice on plea to transfer Twisha Sharma death case to Delhi",
-    "Krishna Byre Gowda sets October 31 deadline for replacement of streetlights",
-    "The grief of ghungroos",
-    "Political intentions behind ED case against Pinarayi Vijayan: M.V. Govindan",
-    "NHM employees\u2019 strike in Telangana continues as 17,541 staff demand regularisation, equal pay",
-    "Jaishankar to meet Rubio, UAE Foreign Minister, in back-to-back separate visits in Mumbai next week",
-    "Contractors should be held responsible for \u2018decrepit\u2019 P&T apartments: Kerala High Court"
+    "Karnataka Chief Minister D.K. Shivakumar seeks Prime Minister Narendra Modi\u2019s appointment to discuss sugarcane growers\u2019 issues and drought",
+    "One dead, several injured in clashes in Manipur's Thoubal district, prohibitory orders clamped",
+    "Tiger Shroff shoot-out: We will respond to shooters in their own language, says DCM Ekanth Shinde",
+    "Businessman attacked near Baramati airport; shifted to Pune for treatment",
+    "How Keralam can overcome its legacy infrastructure deficit",
+    "Analysing female labour of the North East States and Union territories",
+    " Priest accused of sexually harassing minor boys arrested",
+    "Key conduit in \u2018Gem Granites\u2019 Veeramani case arrested",
+    "Uttar Pradesh Khadi festival begins in Meerut",
+    "Bengaluru: Two minors detained for murdering 13-year-old boy"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
