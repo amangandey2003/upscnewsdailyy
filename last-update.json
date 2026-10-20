@@ -1,19 +1,19 @@
 {
-  "date": "19 October 2026",
-  "date_short": "Oct 19",
-  "updated_at": "2026-10-19T10:32:33.584562+05:30",
+  "date": "20 October 2026",
+  "date_short": "Oct 20",
+  "updated_at": "2026-10-20T10:35:44.483954+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Karnataka Chief Minister D.K. Shivakumar seeks Prime Minister Narendra Modi\u2019s appointment to discuss sugarcane growers\u2019 issues and drought",
-    "One dead, several injured in clashes in Manipur's Thoubal district, prohibitory orders clamped",
-    "Tiger Shroff shoot-out: We will respond to shooters in their own language, says DCM Ekanth Shinde",
-    "Businessman attacked near Baramati airport; shifted to Pune for treatment",
-    "How Keralam can overcome its legacy infrastructure deficit",
-    "Analysing female labour of the North East States and Union territories",
-    " Priest accused of sexually harassing minor boys arrested",
-    "Key conduit in \u2018Gem Granites\u2019 Veeramani case arrested",
-    "Uttar Pradesh Khadi festival begins in Meerut",
-    "Bengaluru: Two minors detained for murdering 13-year-old boy"
+    "Political mercury rises in Punjab ahead of Amit Shah\u2019s visit",
+    "How an SUV carrying 27kg of mephedrone exposed a clandestine drug factory",
+    "Allahabad High Court stays conviction of murder convict who wishes to contest 2027 U.P. polls",
+    "Jaishankar welcomes UAE\u2019s Foreign Minister Al Nahyan in Mumbai",
+    "Naveen Patnaik questions Odisha government\u2019s 'silence' on Andhra's poll notification for disputed Kotia villages",
+    "Kuki group announces shutdown of key Manipur highway after attacks on villages",
+    "Kolkata Metro services disrupted for around 1 hour due to technical glitch",
+    "CISF jawan nabs \u2018suspicious\u2019 man in escalator-stairs chase at Delhi Metro station",
+    "Watch: One killed, several injured in clashes in Manipur\u2019s Thoubal",
+    "Jaishankar meets Swift CEO in Delhi"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
