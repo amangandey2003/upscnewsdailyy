@@ -1,19 +1,19 @@
 {
-  "date": "20 October 2026",
-  "date_short": "Oct 20",
-  "updated_at": "2026-10-20T10:35:44.483954+05:30",
+  "date": "21 October 2026",
+  "date_short": "Oct 21",
+  "updated_at": "2026-10-21T10:36:59.650858+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Political mercury rises in Punjab ahead of Amit Shah\u2019s visit",
-    "How an SUV carrying 27kg of mephedrone exposed a clandestine drug factory",
-    "Allahabad High Court stays conviction of murder convict who wishes to contest 2027 U.P. polls",
-    "Jaishankar welcomes UAE\u2019s Foreign Minister Al Nahyan in Mumbai",
-    "Naveen Patnaik questions Odisha government\u2019s 'silence' on Andhra's poll notification for disputed Kotia villages",
-    "Kuki group announces shutdown of key Manipur highway after attacks on villages",
-    "Kolkata Metro services disrupted for around 1 hour due to technical glitch",
-    "CISF jawan nabs \u2018suspicious\u2019 man in escalator-stairs chase at Delhi Metro station",
-    "Watch: One killed, several injured in clashes in Manipur\u2019s Thoubal",
-    "Jaishankar meets Swift CEO in Delhi"
+    "Tamil Nadu rains LIVE: Schools declare holiday in Chennai, four other districts",
+    "Speed up utilisation of SC and ST Sub-Plan Funds: Bhatti",
+    "T.N. Health Minister directs officials to ensure hospital preparedness, uninterrupted health services during monsoon",
+    "Keralam seeks FSSAI clarity on high fat, sugar, salt food",
+    "Disability group urges Centre to classify communication aids as essential products",
+    "Motorcycle stunts, horse riding shows await spectators at Mysuru Torchlight Parade",
+    "U.S.-India perfectly aligned on core issues: Marco Rubio",
+    "30-foot-high cockroach effigy triggers AAP-BJP war of words",
+    "India, U.S. trade deal to be much different: Donald Trump",
+    "Can India turn retrofitment into the next mobility revolution?"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
