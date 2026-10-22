@@ -1,19 +1,19 @@
 {
-  "date": "21 October 2026",
-  "date_short": "Oct 21",
-  "updated_at": "2026-10-21T10:36:59.650858+05:30",
+  "date": "22 October 2026",
+  "date_short": "Oct 22",
+  "updated_at": "2026-10-22T10:40:04.911515+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Tamil Nadu rains LIVE: Schools declare holiday in Chennai, four other districts",
-    "Speed up utilisation of SC and ST Sub-Plan Funds: Bhatti",
-    "T.N. Health Minister directs officials to ensure hospital preparedness, uninterrupted health services during monsoon",
-    "Keralam seeks FSSAI clarity on high fat, sugar, salt food",
-    "Disability group urges Centre to classify communication aids as essential products",
-    "Motorcycle stunts, horse riding shows await spectators at Mysuru Torchlight Parade",
-    "U.S.-India perfectly aligned on core issues: Marco Rubio",
-    "30-foot-high cockroach effigy triggers AAP-BJP war of words",
-    "India, U.S. trade deal to be much different: Donald Trump",
-    "Can India turn retrofitment into the next mobility revolution?"
+    "Keralam on high alert as rain intensifies; IMD sounds orange alert for four districts on October 22",
+    "In Bihar, 1.03 crore pensioners\u2019 verification completed; Madhubani leads beneficiary verification",
+    "VB-G RAM G: Restrictions lifted; workers to get work in all 38 districts of Bihar",
+    "Anthropic PB admits to having an Indian subsidiary, contradicts earlier stand in court",
+    "Maharashtra State Transport staff issue notice for protest ahead of Diwali",
+    "FSSAI notices to Nestle India, Zydus Wellness over \u2018misleading claims\u2019 in products",
+    "Row over SMA drug distribution  in Keralam unwarranted, say experts",
+    "What does eMudhra\u2019s web security key leak mean for internet users? | Explained",
+    "Orange alert for Kakinada, Konaseema as thunderstorms forecast; low-pressure area likely over Bay of Bengal",
+    "Heavy rain triggers minor landslips; Bilaspur-Tirunelveli Superfast Express loco derails at Parassala in Keralam"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
