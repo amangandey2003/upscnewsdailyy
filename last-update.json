@@ -1,19 +1,19 @@
 {
-  "date": "22 October 2026",
-  "date_short": "Oct 22",
-  "updated_at": "2026-10-22T10:40:04.911515+05:30",
+  "date": "23 October 2026",
+  "date_short": "Oct 23",
+  "updated_at": "2026-10-23T10:39:50.869589+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Keralam on high alert as rain intensifies; IMD sounds orange alert for four districts on October 22",
-    "In Bihar, 1.03 crore pensioners\u2019 verification completed; Madhubani leads beneficiary verification",
-    "VB-G RAM G: Restrictions lifted; workers to get work in all 38 districts of Bihar",
-    "Anthropic PB admits to having an Indian subsidiary, contradicts earlier stand in court",
-    "Maharashtra State Transport staff issue notice for protest ahead of Diwali",
-    "FSSAI notices to Nestle India, Zydus Wellness over \u2018misleading claims\u2019 in products",
-    "Row over SMA drug distribution  in Keralam unwarranted, say experts",
-    "What does eMudhra\u2019s web security key leak mean for internet users? | Explained",
-    "Orange alert for Kakinada, Konaseema as thunderstorms forecast; low-pressure area likely over Bay of Bengal",
-    "Heavy rain triggers minor landslips; Bilaspur-Tirunelveli Superfast Express loco derails at Parassala in Keralam"
+    "Karnataka SIR: Teaching on the back burner",
+    "How did 37 people declare themselves dead in Karnataka\u2019s voter rolls?",
+    "Trying to establish 'facts' about incident 'apparently' involving Indians on yacht off Yemen coast: India",
+    "A greying population, a strained care system",
+    "Karnataka to set up committee to boost deceased donor organ transplants",
+    "SAT Hospital in Keralam rejects charges of \u2018clinical trial drugs\u2019 given to SMA-afflicted children",
+    "Good-quality diets associated with better cholesterol levels even among those with genetic load",
+    "Administrative chaos grips Rajampet Lok Sabha constituency after district reorganisation",
+    "Why are Andhra Pradesh\u2019s civic poll nominations under the Supreme Court\u2019s scrutiny? | Explained",
+    "Parvinder Singh Jhota: Who was the anti-drug activist, why was he killed"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
