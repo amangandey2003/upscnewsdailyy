@@ -1,19 +1,19 @@
 {
-  "date": "23 October 2026",
-  "date_short": "Oct 23",
-  "updated_at": "2026-10-23T10:39:50.869589+05:30",
+  "date": "24 October 2026",
+  "date_short": "Oct 24",
+  "updated_at": "2026-10-24T10:22:40.112266+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
+    "A.P. local body polls: Minister Durgesh accuses former CM Jagan of trying to derail elections fearing defeat",
+    "Cyclone brewing as low pressure area forms in east-central, Southeast Bay of Bengal | Live",
+    "El Nino-induced water and power crisis likely to persist until July: Telangana CM Revanth",
+    "Why is ITBP overhauling its training and combat strategy along the China border? Explained",
+    "Dayanidhi Maran flags concerns about proposed Prevention of Cruelty to Animals Rules, 2026; urges Centre for a review",
+    "How is Kerala planning to prevent child deaths linked to malnutrition and neglect? Explained",
+    "Kolkata stampede: Death in the time of Durga Puja",
+    "Karnataka\u2019s coffee country: Inside its most immersive plantation stays",
     "Karnataka SIR: Teaching on the back burner",
-    "How did 37 people declare themselves dead in Karnataka\u2019s voter rolls?",
-    "Trying to establish 'facts' about incident 'apparently' involving Indians on yacht off Yemen coast: India",
-    "A greying population, a strained care system",
-    "Karnataka to set up committee to boost deceased donor organ transplants",
-    "SAT Hospital in Keralam rejects charges of \u2018clinical trial drugs\u2019 given to SMA-afflicted children",
-    "Good-quality diets associated with better cholesterol levels even among those with genetic load",
-    "Administrative chaos grips Rajampet Lok Sabha constituency after district reorganisation",
-    "Why are Andhra Pradesh\u2019s civic poll nominations under the Supreme Court\u2019s scrutiny? | Explained",
-    "Parvinder Singh Jhota: Who was the anti-drug activist, why was he killed"
+    "Odisha moves Supreme Court against Andhra Pradesh over rural poll notice in Kotia area"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
