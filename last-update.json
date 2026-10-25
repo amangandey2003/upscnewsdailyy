@@ -1,19 +1,19 @@
 {
-  "date": "24 October 2026",
-  "date_short": "Oct 24",
-  "updated_at": "2026-10-24T10:22:40.112266+05:30",
+  "date": "25 October 2026",
+  "date_short": "Oct 25",
+  "updated_at": "2026-10-25T10:33:40.771256+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "A.P. local body polls: Minister Durgesh accuses former CM Jagan of trying to derail elections fearing defeat",
-    "Cyclone brewing as low pressure area forms in east-central, Southeast Bay of Bengal | Live",
-    "El Nino-induced water and power crisis likely to persist until July: Telangana CM Revanth",
-    "Why is ITBP overhauling its training and combat strategy along the China border? Explained",
-    "Dayanidhi Maran flags concerns about proposed Prevention of Cruelty to Animals Rules, 2026; urges Centre for a review",
-    "How is Kerala planning to prevent child deaths linked to malnutrition and neglect? Explained",
-    "Kolkata stampede: Death in the time of Durga Puja",
-    "Karnataka\u2019s coffee country: Inside its most immersive plantation stays",
-    "Karnataka SIR: Teaching on the back burner",
-    "Odisha moves Supreme Court against Andhra Pradesh over rural poll notice in Kotia area"
+    "Panel formed to probe spurious liquor death claims in Madhya Pradesh's Dewas; report in 15 days",
+    "Andhra braces for very severe cyclonic storm; Odisha activates disaster mitigation machinery | LIVE",
+    "News in frames: Kutch\u2019s dwindling camel population",
+    "Feral dogs \u2018a major threat\u2019 to vultures in Thar desert, study finds",
+    "Manipur to form committee representing all 36 communities for unity: Yumnam Khemchand",
+    "Andhra Pradesh braces for very severe cyclonic storm; landfall likely between Bapatla and Vizag on October 28",
+    "Road Ministry seeks forensic audit of its portals after vehicle data leak",
+    "INDIA bloc to hold \u2018public impeachment proceeding\u2019 of CEC Gyanesh Kumar, says K.C. Venugopal",
+    "IMD warns of heavy rainfall over several T.N. districts; red alert for five districts in Keralam | Updates",
+    "How is Kerala planning to prevent child deaths linked to malnutrition and neglect? | Explained"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
