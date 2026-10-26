@@ -1,19 +1,19 @@
 {
-  "date": "25 October 2026",
-  "date_short": "Oct 25",
-  "updated_at": "2026-10-25T10:33:40.771256+05:30",
+  "date": "26 October 2026",
+  "date_short": "Oct 26",
+  "updated_at": "2026-10-26T10:37:18.984609+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Panel formed to probe spurious liquor death claims in Madhya Pradesh's Dewas; report in 15 days",
-    "Andhra braces for very severe cyclonic storm; Odisha activates disaster mitigation machinery | LIVE",
-    "News in frames: Kutch\u2019s dwindling camel population",
-    "Feral dogs \u2018a major threat\u2019 to vultures in Thar desert, study finds",
-    "Manipur to form committee representing all 36 communities for unity: Yumnam Khemchand",
-    "Andhra Pradesh braces for very severe cyclonic storm; landfall likely between Bapatla and Vizag on October 28",
-    "Road Ministry seeks forensic audit of its portals after vehicle data leak",
-    "INDIA bloc to hold \u2018public impeachment proceeding\u2019 of CEC Gyanesh Kumar, says K.C. Venugopal",
-    "IMD warns of heavy rainfall over several T.N. districts; red alert for five districts in Keralam | Updates",
-    "How is Kerala planning to prevent child deaths linked to malnutrition and neglect? | Explained"
+    "Political Line | Local, national, and anti-national",
+    "Deep depression intensifies into cyclonic storm 'Arnab'; rains continue in Tamil Nadu | LIVE",
+    "Jamia university orders student union polls within 15 days of constitution approval; two students continue hunger strike",
+    "17 candidates unanimously elected chairpersons of municipalities, nagar panchayats in Andhra Pradesh",
+    "Cyclone Arnab: Over 4,800 fishing vessels return safely to Kakinada coast",
+    "Pramoda Devi expresses \u2018deep disappointment\u2019 over conduct of Dasara 2026; proposes shifting deity\u2019s Ambari procession to Rathotsava day",
+    "Juvenile Justice Board grants bail to teen driver in fatal Cheranalloor car crash in Keralam",
+    "Deep depression intensifies into Cyclonic Storm Arnab",
+    "Tamil Nadu receives heavy rainfall; schools closed in several districts on Oct. 26",
+    "Hindutva reading builds on colonial interpretations of Indian history: Romila Thapar"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
