@@ -1,19 +1,19 @@
 {
-  "date": "28 October 2026",
-  "date_short": "Oct 28",
-  "updated_at": "2026-10-28T11:30:20.062533+05:30",
+  "date": "29 October 2026",
+  "date_short": "Oct 29",
+  "updated_at": "2026-10-29T11:40:18.582786+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Polling underway for phase 2 of Rajasthan Panchayat polls, faulty EVMs delay start at few booths",
-    "EC appoints 11 nodal officers for 2027 Manipur Assembly polls",
-    "CTI writes to Rahul Gandhi again on INDIA bloc's November 1 rally, seeks meeting",
-    "Very severe cyclone Arnab crosses Andhra coast, weakens into severe cyclonic storm: IMD | LIVE",
-    "No consistent improvement in Delhi\u2019s winter air quality over four years: CREA",
-    "Air quality slips to \u2018poor\u2019 category in Delhi, parts of north India",
-    "Remembering Chef Damu: A life dedicated to Tamil Nadu\u2019s culinary heritage",
-    "Cyclone Arnab: 609 Andhra schools turn into relief shelters",
-    "Mudalur, Tamil Nadu\u2019s first Christian settlement, stands tall with its magnificent church tower",
-    "Congress launches Sanghatana Srujana Abhiyan drive to strengthen grassroots network in Yadgir district of Karnataka\u200b"
+    "Postal Department organises awareness rally in Yadgir to promote integrity",
+    "Durga Puja 2026: All set for the beat of the dhak",
+    "Kerala HC quashes cheating case against Nivin Pauly, director Abrid Shine after out-of-court settlement in dispute over film rights",
+    "Study in Keralam sheds light on link between gut bacteria, Parkinson\u2019s disease",
+    "Delhi Police grants Congress rally at Ramlila Maidan with strict conditions, denies mock impeachment request",
+    "Congress rally on November 1: What are the conditions imposed by Delhi Police",
+    "West Bengal police \u2018encounters\u2019: the events and the questions they raise | Explained",
+    "Cyclone Arnab to weaken into depression on October 29, says IMD | LIVE updates",
+    "How brown mussels sustain livelihoods along Thiruvananthapuram\u2019s coast",
+    "Jharkhand youth jailed in UAE, family seeks Government help for his return"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
