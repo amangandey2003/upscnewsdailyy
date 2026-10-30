@@ -1,19 +1,19 @@
 {
-  "date": "29 October 2026",
-  "date_short": "Oct 29",
-  "updated_at": "2026-10-29T11:40:18.582786+05:30",
+  "date": "30 October 2026",
+  "date_short": "Oct 30",
+  "updated_at": "2026-10-30T11:40:13.792313+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Postal Department organises awareness rally in Yadgir to promote integrity",
-    "Durga Puja 2026: All set for the beat of the dhak",
-    "Kerala HC quashes cheating case against Nivin Pauly, director Abrid Shine after out-of-court settlement in dispute over film rights",
-    "Study in Keralam sheds light on link between gut bacteria, Parkinson\u2019s disease",
-    "Delhi Police grants Congress rally at Ramlila Maidan with strict conditions, denies mock impeachment request",
-    "Congress rally on November 1: What are the conditions imposed by Delhi Police",
-    "West Bengal police \u2018encounters\u2019: the events and the questions they raise | Explained",
-    "Cyclone Arnab to weaken into depression on October 29, says IMD | LIVE updates",
-    "How brown mussels sustain livelihoods along Thiruvananthapuram\u2019s coast",
-    "Jharkhand youth jailed in UAE, family seeks Government help for his return"
+    "CTI urges Congress to postpone November 1 rally, says \u20b910,000-12,000 crore trade in Delhi markets at risk",
+    "Telangana sends 2,000 staff, material to A.P. for power supply restoration work",
+    "External Affairs Minister Jaishankar in U.S. for G20 Foreign Ministers\u2019 meet",
+    "Bengaluru woman dies a month after crash as GBA-traffic police coordination comes under scrutiny",
+    "Kaiga Bird Marathon on February 6, 7",
+    "Why is ISRO\u2019s NVS-03 satellite launch crucial? | Explained",
+    "Hubballi to get comprehensive stadium after Cabinet approves proposal under PPP model ",
+    "India says AI, maritime security key priorities for its UNSC candidature for\u00a02028\u201329",
+    "Keralam student comes third in global Arab Reading Challenge held in UAE",
+    "\u2018Unavailable in India\u2019: Why are social media posts being blocked amid protests? | Explained"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
