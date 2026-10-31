@@ -1,19 +1,19 @@
 {
-  "date": "30 October 2026",
-  "date_short": "Oct 30",
-  "updated_at": "2026-10-30T11:40:13.792313+05:30",
+  "date": "31 October 2026",
+  "date_short": "Oct 31",
+  "updated_at": "2026-10-31T11:35:33.902173+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "CTI urges Congress to postpone November 1 rally, says \u20b910,000-12,000 crore trade in Delhi markets at risk",
-    "Telangana sends 2,000 staff, material to A.P. for power supply restoration work",
-    "External Affairs Minister Jaishankar in U.S. for G20 Foreign Ministers\u2019 meet",
-    "Bengaluru woman dies a month after crash as GBA-traffic police coordination comes under scrutiny",
-    "Kaiga Bird Marathon on February 6, 7",
-    "Why is ISRO\u2019s NVS-03 satellite launch crucial? | Explained",
-    "Hubballi to get comprehensive stadium after Cabinet approves proposal under PPP model ",
-    "India says AI, maritime security key priorities for its UNSC candidature for\u00a02028\u201329",
-    "Keralam student comes third in global Arab Reading Challenge held in UAE",
-    "\u2018Unavailable in India\u2019: Why are social media posts being blocked amid protests? | Explained"
+    "Amid accident deaths, Keralam Home Minister Ramesh Chennithala warns of crackdown on intoxicated driving",
+    "Punjab native detained for flying drone illegally in high-sensitive area near synagogue in Keralam",
+    "INDIA bloc to hold \u2018public impeachment\u2019 of CEC Gyanesh Kumar today | LIVE",
+    "Census 2027: What are the new questions, and how are enumerators being trained? | Explained",
+    "West Bengal steps up efforts to bring back tigress that strayed into Assam",
+    "PM Modi offers floral tributes to Sardar Patel at Statue of Unity",
+    "In Kashmir\u2019s traditional rice, clues to a journey from East Asia",
+    "Actor Ajay Devgn moves High Court against FDA notice over Vimal Elaichi ads",
+    "Why are paper ballots used for MLC polls? Explained",
+    "Premium hotel in Kochi booked for unauthorised DJ party, liquor sale beyond permitted hours"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
