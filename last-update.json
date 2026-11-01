@@ -1,19 +1,19 @@
 {
-  "date": "31 October 2026",
-  "date_short": "Oct 31",
-  "updated_at": "2026-10-31T11:35:33.902173+05:30",
+  "date": "01 November 2026",
+  "date_short": "Nov 01",
+  "updated_at": "2026-11-01T12:04:49.341431+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Amid accident deaths, Keralam Home Minister Ramesh Chennithala warns of crackdown on intoxicated driving",
-    "Punjab native detained for flying drone illegally in high-sensitive area near synagogue in Keralam",
-    "INDIA bloc to hold \u2018public impeachment\u2019 of CEC Gyanesh Kumar today | LIVE",
-    "Census 2027: What are the new questions, and how are enumerators being trained? | Explained",
-    "West Bengal steps up efforts to bring back tigress that strayed into Assam",
-    "PM Modi offers floral tributes to Sardar Patel at Statue of Unity",
-    "In Kashmir\u2019s traditional rice, clues to a journey from East Asia",
-    "Actor Ajay Devgn moves High Court against FDA notice over Vimal Elaichi ads",
-    "Why are paper ballots used for MLC polls? Explained",
-    "Premium hotel in Kochi booked for unauthorised DJ party, liquor sale beyond permitted hours"
+    "Woman with disability dies in midnight fire at Korattur apartment",
+    "INDIA bloc holds symbolic \u2018public impeachment\u2019 of CEC Gyanesh Kumar on six charges",
+    "Every squadron, air defence unit, air warrior must be ready to respond at moment\u2019s notice: IAF Chief Dixit",
+    "INDIA bloc\u2019s \u2018Chalo Dilli\u2019 protest: Supporters gather at Ramlila Maidan, across capital",
+    "\u2018Chalo Delhi\u2019 posters dominate as INDIA bloc prepares for mega rally at Ramlila Maidan | LIVE",
+    "Urban local body elections begin in Andhra Pradesh",
+    "How significant is the TVK-led regime\u2019s move to hold Social Justice Survey? | Explained",
+    "PM Modi greets people of six States on foundation day",
+    "Vehicles torched ahead of polls in Pulivendula",
+    "Visakhapatnam reports 3.34% voting in first two hours; Voter participation in core urban areas yet to gather pace"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
