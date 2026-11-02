@@ -1,19 +1,19 @@
 {
-  "date": "01 November 2026",
-  "date_short": "Nov 01",
-  "updated_at": "2026-11-01T12:04:49.341431+05:30",
+  "date": "02 November 2026",
+  "date_short": "Nov 02",
+  "updated_at": "2026-11-02T12:05:04.426372+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Woman with disability dies in midnight fire at Korattur apartment",
-    "INDIA bloc holds symbolic \u2018public impeachment\u2019 of CEC Gyanesh Kumar on six charges",
-    "Every squadron, air defence unit, air warrior must be ready to respond at moment\u2019s notice: IAF Chief Dixit",
-    "INDIA bloc\u2019s \u2018Chalo Dilli\u2019 protest: Supporters gather at Ramlila Maidan, across capital",
-    "\u2018Chalo Delhi\u2019 posters dominate as INDIA bloc prepares for mega rally at Ramlila Maidan | LIVE",
-    "Urban local body elections begin in Andhra Pradesh",
-    "How significant is the TVK-led regime\u2019s move to hold Social Justice Survey? | Explained",
-    "PM Modi greets people of six States on foundation day",
-    "Vehicles torched ahead of polls in Pulivendula",
-    "Visakhapatnam reports 3.34% voting in first two hours; Voter participation in core urban areas yet to gather pace"
+    "Six Indian tourists stranded in Nepal's National Park rescued safely",
+    "Three AAP MLAs join BJP in Punjab",
+    "Cyclone Murasu | Telangana\u2019s Nagarkurnool administration releases do\u2019s and don\u2019ts",
+    "AMU wants women on campus, not at the ballot box",
+    "Cyclone Murasu: List of flights cancelled to and from Chennai",
+    "ED registers money laundering case against Subhash Chandra",
+    "Agitators clash with security forces in Manipur's Kangpokpi after recovery of missing youths' bodies",
+    "Cyclone Murasu LIVE updates: Eleven flights cancelled at Chennai airport amid heavy rain",
+    "\u2018Murasu\u2019 strengthens into Severe Cyclonic Storm",
+    "Why Kashmir\u2019s oldest party National Conference stares at rare upheaval | Explained"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
