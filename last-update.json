@@ -1,19 +1,19 @@
 {
-  "date": "02 November 2026",
-  "date_short": "Nov 02",
-  "updated_at": "2026-11-02T12:05:04.426372+05:30",
+  "date": "03 November 2026",
+  "date_short": "Nov 03",
+  "updated_at": "2026-11-03T12:34:50.702652+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Six Indian tourists stranded in Nepal's National Park rescued safely",
-    "Three AAP MLAs join BJP in Punjab",
-    "Cyclone Murasu | Telangana\u2019s Nagarkurnool administration releases do\u2019s and don\u2019ts",
-    "AMU wants women on campus, not at the ballot box",
-    "Cyclone Murasu: List of flights cancelled to and from Chennai",
-    "ED registers money laundering case against Subhash Chandra",
-    "Agitators clash with security forces in Manipur's Kangpokpi after recovery of missing youths' bodies",
-    "Cyclone Murasu LIVE updates: Eleven flights cancelled at Chennai airport amid heavy rain",
-    "\u2018Murasu\u2019 strengthens into Severe Cyclonic Storm",
-    "Why Kashmir\u2019s oldest party National Conference stares at rare upheaval | Explained"
+    "India, Israel vote against UNGA draft on regional conventional arms control",
+    "First get \u2018hatchet man\u2019 CEC to resign: Congress on Shah's SIR debate dare",
+    "Centre proposes 10 new import gateways for drugs, medical devices",
+    "HYDRAA removes encroachments in Fox Sagar lake FTL; farmhouse\u2019s compound wall demolished",
+    "Maharashtra FDA confiscates Patanjali stock, suspends licences",
+    "Candlelight march in Bandra demands justice for IIT student Sahil Wakode",
+    "IIT-Hyderabad, CEEPL hold valedictory ceremony for inaugural batch of nuclear tech programme",
+    "SRN Mehta School-Kalaburagi student selected for national-level chess championship",
+    "Andhra Pradesh civic polls result LIVE | TDP takes early lead; HC clears Pulivendula count; rain, missing keys delay counting ",
+    "SFI activists begin relay fast at SSUS, demand unconditional withdrawal of students\u2019 suspension"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
