@@ -1,19 +1,19 @@
 {
-  "date": "03 November 2026",
-  "date_short": "Nov 03",
-  "updated_at": "2026-11-03T12:34:50.702652+05:30",
+  "date": "04 November 2026",
+  "date_short": "Nov 04",
+  "updated_at": "2026-11-04T12:19:38.812866+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "India, Israel vote against UNGA draft on regional conventional arms control",
-    "First get \u2018hatchet man\u2019 CEC to resign: Congress on Shah's SIR debate dare",
-    "Centre proposes 10 new import gateways for drugs, medical devices",
-    "HYDRAA removes encroachments in Fox Sagar lake FTL; farmhouse\u2019s compound wall demolished",
-    "Maharashtra FDA confiscates Patanjali stock, suspends licences",
-    "Candlelight march in Bandra demands justice for IIT student Sahil Wakode",
-    "IIT-Hyderabad, CEEPL hold valedictory ceremony for inaugural batch of nuclear tech programme",
-    "SRN Mehta School-Kalaburagi student selected for national-level chess championship",
-    "Andhra Pradesh civic polls result LIVE | TDP takes early lead; HC clears Pulivendula count; rain, missing keys delay counting ",
-    "SFI activists begin relay fast at SSUS, demand unconditional withdrawal of students\u2019 suspension"
+    "Urologists work as casualty medical officers in emergency depts. owing to lack of vacancies across T.N.",
+    "\u20b94,805.24 crore spent under five guarantee schemes in Raichur",
+    "Jammu and Kashmir: History\u2019s lessons and perils of political management",
+    "Supreme Court judgment questions two-child norm with falling fertility rate",
+    "Welfare payments will be based on voter IDs, not Aadhaar, says Panchayati Raj Minister",
+    "Weeks before expiry of Ganga Water Treaty, MEA says \u2018structured mechanism\u2019 remains in place for pact",
+    "JNU to confer \u2018Professor Emeritus\u2019 title on Amitabh Mattoo",
+    " India set to simplify visa forms",
+    "Media consultant at Union Minister H.D. Kumaraswamy\u2019s office appears before Bengaluru CCB in \u2018sting video\u2019 case",
+    "ED raids 11 locations in Keralam, Tamil Nadu over alleged money laundering linked to BLM cooperative society"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
