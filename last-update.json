@@ -1,19 +1,19 @@
 {
-  "date": "05 November 2026",
-  "date_short": "Nov 05",
-  "updated_at": "2026-11-05T12:38:53.763972+05:30",
+  "date": "06 November 2026",
+  "date_short": "Nov 06",
+  "updated_at": "2026-11-06T12:38:30.589722+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "After 100 days of protests, Mundamveli P&T Apartment residents await breakthrough at key Keralam govt meet on rehabilitation",
-    "Keralam Higher Education dept seeks explanation from Calicut University over pro-V-C\u2019s appointment",
-    "Cyclone Murasu impact on Telangana | Extremely heavy rains lash Bhadradri on November 4 ",
-    "24-hour to produce before Magistrate starts from detention, not \u2018formal arrest\u2019: Supreme Court",
-    "Nirmala Lakshman\u2019s book \u2018The Tamils : A Portrait of a Community\u2019 wins Sharjah award",
-    "Who filed 77% of Form 7s in Delhi\u2019s Mustafabad? BJP BLAs named as \u2018objectors\u2019 deny them",
-    "What are the changes in Agniveer scheme, and what prompted government to implement them? | Explained",
-    "Sugarcane farmers stopped from marching towards Belagavi for \u2018Jail Bharo\u2019 protest",
-    "\u2018Vettri Special Vegetables Kit\u2019 with 10 varieties launched in T.N. at \u20b9100",
-    "Hyderabad Water Board urges more citizens to turn water warriors"
+    "Why Manaveeyam Veedhi is at the centre of a political battle between BJP, CPI(M) in Keralam capital",
+    "Hyderabad startup opens India\u2019s first private space debris recovery facility",
+    "The scars of chainsaw attack inside Andhra school lingers on",
+    "Mahabharata, Arthashastra, Rajatarangini manuscripts added to UNESCO memory regional register",
+    "Manuscripts of Bhagavad Gita, Natyashastra inscribed on UNESCO's Memory of the World Register",
+    "India's 'Maratha Military Landscapes' inscribed on UNESCO World Heritage List",
+    "Donors flag online fraud targeting patients in need of blood in Keralam\u2019s Kozhikode",
+    "AAP spent Centre's \u20b91,600 crore flood relief funds for Punjab elsewhere: CM Saini",
+    "Nithya Raman and her journey from Keralam to Los Angeles",
+    "Hyderabad Metro-RTC Bus common mobility card charges dropped from \u20b98,500 to \u20b94,000 for monthly pass"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
