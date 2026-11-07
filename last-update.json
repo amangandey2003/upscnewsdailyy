@@ -1,19 +1,19 @@
 {
-  "date": "06 November 2026",
-  "date_short": "Nov 06",
-  "updated_at": "2026-11-06T12:38:30.589722+05:30",
+  "date": "07 November 2026",
+  "date_short": "Nov 07",
+  "updated_at": "2026-11-07T11:50:33.685931+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Why Manaveeyam Veedhi is at the centre of a political battle between BJP, CPI(M) in Keralam capital",
-    "Hyderabad startup opens India\u2019s first private space debris recovery facility",
-    "The scars of chainsaw attack inside Andhra school lingers on",
-    "Mahabharata, Arthashastra, Rajatarangini manuscripts added to UNESCO memory regional register",
-    "Manuscripts of Bhagavad Gita, Natyashastra inscribed on UNESCO's Memory of the World Register",
-    "India's 'Maratha Military Landscapes' inscribed on UNESCO World Heritage List",
-    "Donors flag online fraud targeting patients in need of blood in Keralam\u2019s Kozhikode",
-    "AAP spent Centre's \u20b91,600 crore flood relief funds for Punjab elsewhere: CM Saini",
-    "Nithya Raman and her journey from Keralam to Los Angeles",
-    "Hyderabad Metro-RTC Bus common mobility card charges dropped from \u20b98,500 to \u20b94,000 for monthly pass"
+    "Delhi air \u2018very poor\u2019 with AQI reading of 364",
+    "West Bengal election is not legally valid:\u00a0Former CEC S.Y. Quraishi",
+    "Andhra Pradesh MPTC, ZPTC election results LIVE: Counting under way across 365 centres amidst high security",
+    "The Siang dam and a threatened homeland",
+    "Library book \u2018scam\u2019: Madras High Court had sounded warning two years ago, called for enquiry",
+    "Lung cancer rising faster among women in Karnataka",
+    "Delhi High Court grants 7-day custody parole to Al Falah University chairman to tend to ailing wife",
+    "Keralam Child Development Centre gets \u20b935-lakh grant to study autism-related parental grief",
+    "Bengaluru IT engineer arrested for threatening Bollywood actors, remanded in police custody till November 10",
+    "Supreme Court terms vehicular emissions major contributor to air pollution in Delhi-NCR"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
