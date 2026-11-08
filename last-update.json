@@ -1,19 +1,19 @@
 {
-  "date": "07 November 2026",
-  "date_short": "Nov 07",
-  "updated_at": "2026-11-07T11:50:33.685931+05:30",
+  "date": "08 November 2026",
+  "date_short": "Nov 08",
+  "updated_at": "2026-11-08T11:57:56.641990+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Delhi air \u2018very poor\u2019 with AQI reading of 364",
-    "West Bengal election is not legally valid:\u00a0Former CEC S.Y. Quraishi",
-    "Andhra Pradesh MPTC, ZPTC election results LIVE: Counting under way across 365 centres amidst high security",
-    "The Siang dam and a threatened homeland",
-    "Library book \u2018scam\u2019: Madras High Court had sounded warning two years ago, called for enquiry",
-    "Lung cancer rising faster among women in Karnataka",
-    "Delhi High Court grants 7-day custody parole to Al Falah University chairman to tend to ailing wife",
-    "Keralam Child Development Centre gets \u20b935-lakh grant to study autism-related parental grief",
-    "Bengaluru IT engineer arrested for threatening Bollywood actors, remanded in police custody till November 10",
-    "Supreme Court terms vehicular emissions major contributor to air pollution in Delhi-NCR"
+    "Kishore Biyani, Future Retail and the \u20b9904-crore bank fraud case: What led to the Group\u2019s collapse?",
+    "Lawrence Bishnoi gang member Hari Boxer detained in U.S., extradition process underway",
+    "Bombay High Court allows BNS Section 75 charge where complainant identifies as woman",
+    "10 years since demonetisation: Cash usage unchanged, fake notes on the rise",
+    "T.N. may be heading towards a water crisis, unless northeast monsoon comes to the rescue",
+    "PM Modi to celebrate Deepavali with forces in Bastar that was once den of Maoists",
+    "Delhi faces new challenge from Samosa caucus",
+    "News in Frames: Many twists in the monsoon\u2019s tale",
+    "Delhi wakes up to toxic haze on Deepavali, close to 'severe' AQI at 383",
+    "Apologise to saints, devotees before visiting Ayodhya: Adityanath ahead of Akhilesh\u2019s visit"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
