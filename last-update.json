@@ -1,19 +1,19 @@
 {
-  "date": "08 November 2026",
-  "date_short": "Nov 08",
-  "updated_at": "2026-11-08T11:57:56.641990+05:30",
+  "date": "09 November 2026",
+  "date_short": "Nov 09",
+  "updated_at": "2026-11-09T12:29:07.660047+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Kishore Biyani, Future Retail and the \u20b9904-crore bank fraud case: What led to the Group\u2019s collapse?",
-    "Lawrence Bishnoi gang member Hari Boxer detained in U.S., extradition process underway",
-    "Bombay High Court allows BNS Section 75 charge where complainant identifies as woman",
-    "10 years since demonetisation: Cash usage unchanged, fake notes on the rise",
-    "T.N. may be heading towards a water crisis, unless northeast monsoon comes to the rescue",
-    "PM Modi to celebrate Deepavali with forces in Bastar that was once den of Maoists",
-    "Delhi faces new challenge from Samosa caucus",
-    "News in Frames: Many twists in the monsoon\u2019s tale",
-    "Delhi wakes up to toxic haze on Deepavali, close to 'severe' AQI at 383",
-    "Apologise to saints, devotees before visiting Ayodhya: Adityanath ahead of Akhilesh\u2019s visit"
+    "Congress slams Modi govt. for being in \u2018denial\u2019 on impact of air pollution on mortality",
+    "BJP slams Kharge for calling Diwali 'Eid of joy', dares Congress to call Eid 'Diwali of joy'",
+    "No major fire incidents reported in Delhi on Deepavali as city sees dip in fire-related calls",
+    "Keralam film chamber opposes CBFC advisory allowing review, modification of movie titles",
+    "Modernist artist Arpita Singh, aged 89,  passes away",
+    "Parliament\u2019s Monsoon session remains unprorogued for record 88 days",
+    "Air of Deepavali celebrations lingers in Hyderabad with AQI remaining at hazardous levels",
+    "Car catches fire after hitting electric pole in U.P.'s Muzaffarnagar, six dead",
+    "Maharashtra relaxes borewell restrictions till December 15 to help farmers save trees amid drought",
+    "Fire at building in Madhya Pradesh\u2019s Katni on Deepavali night; six of family killed"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
