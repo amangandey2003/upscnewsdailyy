@@ -1,19 +1,19 @@
 {
-  "date": "09 November 2026",
-  "date_short": "Nov 09",
-  "updated_at": "2026-11-09T12:29:07.660047+05:30",
+  "date": "10 November 2026",
+  "date_short": "Nov 10",
+  "updated_at": "2026-11-10T13:06:16.724043+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Congress slams Modi govt. for being in \u2018denial\u2019 on impact of air pollution on mortality",
-    "BJP slams Kharge for calling Diwali 'Eid of joy', dares Congress to call Eid 'Diwali of joy'",
-    "No major fire incidents reported in Delhi on Deepavali as city sees dip in fire-related calls",
-    "Keralam film chamber opposes CBFC advisory allowing review, modification of movie titles",
-    "Modernist artist Arpita Singh, aged 89,  passes away",
-    "Parliament\u2019s Monsoon session remains unprorogued for record 88 days",
-    "Air of Deepavali celebrations lingers in Hyderabad with AQI remaining at hazardous levels",
-    "Car catches fire after hitting electric pole in U.P.'s Muzaffarnagar, six dead",
-    "Maharashtra relaxes borewell restrictions till December 15 to help farmers save trees amid drought",
-    "Fire at building in Madhya Pradesh\u2019s Katni on Deepavali night; six of family killed"
+    "J&K court releases two youth after 6 years, says \u2018suspicion, however grave, cannot substitute proof\u2019",
+    "Three members of family killed, four injured as house collapses in MP's Singrauli",
+    "Kerala HC allows hotel Radisson Blu in Kochi to operate till 3 a.m.",
+    "\u2018Where I truly belong\u2019: Sonia Gandhi on her memoir \u2018Belonging: A Journey of Love\u2019",
+    "\u2018Bouma\u2019 trailer: Dileesh Pothan headlines an eerie investigation thriller",
+    "Sonia Gandhi\u2019s memoir: How a love story grew into a deep belonging to India",
+    "South Tamil Nadu to witness intense rainfall till November 12",
+    "Faith meets fitness: The Keralam church where prayers come with pull-ups",
+    "Restored Thammidikunta lake in Madhapur to be inaugurated on November 11",
+    "Mystery of a missing sewage treatment plant tells the tale of the lake in Krishnakanth Park"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
