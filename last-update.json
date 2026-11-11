@@ -1,19 +1,19 @@
 {
-  "date": "10 November 2026",
-  "date_short": "Nov 10",
-  "updated_at": "2026-11-10T13:06:16.724043+05:30",
+  "date": "11 November 2026",
+  "date_short": "Nov 11",
+  "updated_at": "2026-11-11T12:24:25.210784+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "J&K court releases two youth after 6 years, says \u2018suspicion, however grave, cannot substitute proof\u2019",
-    "Three members of family killed, four injured as house collapses in MP's Singrauli",
-    "Kerala HC allows hotel Radisson Blu in Kochi to operate till 3 a.m.",
-    "\u2018Where I truly belong\u2019: Sonia Gandhi on her memoir \u2018Belonging: A Journey of Love\u2019",
-    "\u2018Bouma\u2019 trailer: Dileesh Pothan headlines an eerie investigation thriller",
-    "Sonia Gandhi\u2019s memoir: How a love story grew into a deep belonging to India",
-    "South Tamil Nadu to witness intense rainfall till November 12",
-    "Faith meets fitness: The Keralam church where prayers come with pull-ups",
-    "Restored Thammidikunta lake in Madhapur to be inaugurated on November 11",
-    "Mystery of a missing sewage treatment plant tells the tale of the lake in Krishnakanth Park"
+    "Keralam power purchase row: CM Satheesan plays down issue, dismisses charges that Electricity Minister was kept in the dark",
+    "BJP wins 77 seats of five Tripura civic bodies unopposed; elections for rest on November 27",
+    "Govt. prohibits export of unsorted lithium-ion battery\u00a0waste, scrap",
+    "YSRCP, TDP ask cadres not to comment on Andhra Deputy CM Pawan Kalyan\u2019s separation, respect couple\u2019s privacy",
+    "Fake QR code to divert charity fund: Case filed against trust in Keralam",
+    "Delhi air quality deteriorates, AQI settles at 303",
+    "Only 2% commuters in Cyberabad\u2019s IT Hub take public transport, 82% move in personal vehicles",
+    "When Jayalalithaa sacked Ministers even before they moved into their official bungalows",
+    "Assam train derailment LIVE updates: Six coaches of Sairang-Kolkata Express train derail",
+    "Rahul Gandhi to discuss global student movements at Columbia University; geopolitics at Chicago University"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
