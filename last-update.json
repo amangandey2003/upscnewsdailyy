@@ -1,19 +1,19 @@
 {
-  "date": "11 November 2026",
-  "date_short": "Nov 11",
-  "updated_at": "2026-11-11T12:24:25.210784+05:30",
+  "date": "12 November 2026",
+  "date_short": "Nov 12",
+  "updated_at": "2026-11-12T12:59:43.062556+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Keralam power purchase row: CM Satheesan plays down issue, dismisses charges that Electricity Minister was kept in the dark",
-    "BJP wins 77 seats of five Tripura civic bodies unopposed; elections for rest on November 27",
-    "Govt. prohibits export of unsorted lithium-ion battery\u00a0waste, scrap",
-    "YSRCP, TDP ask cadres not to comment on Andhra Deputy CM Pawan Kalyan\u2019s separation, respect couple\u2019s privacy",
-    "Fake QR code to divert charity fund: Case filed against trust in Keralam",
-    "Delhi air quality deteriorates, AQI settles at 303",
-    "Only 2% commuters in Cyberabad\u2019s IT Hub take public transport, 82% move in personal vehicles",
-    "When Jayalalithaa sacked Ministers even before they moved into their official bungalows",
-    "Assam train derailment LIVE updates: Six coaches of Sairang-Kolkata Express train derail",
-    "Rahul Gandhi to discuss global student movements at Columbia University; geopolitics at Chicago University"
+    "Keralam CM, Ministers Chennithala and Sunny Joseph meet amid \u2018power group\u2019 in UDF row",
+    "Why the Siang Upper Multipurpose Project has been contentious | Explained",
+    "BJP leader Ravi Kumar seeks withdrawal of \u2018army training\u2019 advertisement by Minorities Department of Karnataka",
+    "Keralam ration dealers seek GPS tracking of lorries to prevent foodgrain diversion from NFSA godowns",
+    "Owaisi, Azad likely to announce alliance on November 12 for Uttar Pradesh elections",
+    "Four of family dead in Arunachal town fire, 24 houses gutted",
+    "TGPCB panel calls for action against construction companies over environmental violations",
+    "Vande Bharat crosses Chenab, Anji bridges at 100 kmph as Katra-Banihal train speed limit raised",
+    "Bengaluru-Mangaluru-Goa Vande Bharat Express users may pay nearly \u20b9200 more",
+    "Piyush Goyal, Naidu, Pawan Kalyan tour Andhra Pradesh Pavilion at CII Partnership Summit in Visakhapatnam"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
