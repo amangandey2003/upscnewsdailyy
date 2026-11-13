@@ -1,19 +1,19 @@
 {
-  "date": "12 November 2026",
-  "date_short": "Nov 12",
-  "updated_at": "2026-11-12T12:59:43.062556+05:30",
+  "date": "13 November 2026",
+  "date_short": "Nov 13",
+  "updated_at": "2026-11-13T12:31:34.999246+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Keralam CM, Ministers Chennithala and Sunny Joseph meet amid \u2018power group\u2019 in UDF row",
-    "Why the Siang Upper Multipurpose Project has been contentious | Explained",
-    "BJP leader Ravi Kumar seeks withdrawal of \u2018army training\u2019 advertisement by Minorities Department of Karnataka",
-    "Keralam ration dealers seek GPS tracking of lorries to prevent foodgrain diversion from NFSA godowns",
-    "Owaisi, Azad likely to announce alliance on November 12 for Uttar Pradesh elections",
-    "Four of family dead in Arunachal town fire, 24 houses gutted",
-    "TGPCB panel calls for action against construction companies over environmental violations",
-    "Vande Bharat crosses Chenab, Anji bridges at 100 kmph as Katra-Banihal train speed limit raised",
-    "Bengaluru-Mangaluru-Goa Vande Bharat Express users may pay nearly \u20b9200 more",
-    "Piyush Goyal, Naidu, Pawan Kalyan tour Andhra Pradesh Pavilion at CII Partnership Summit in Visakhapatnam"
+    "India\u2019s ambassador to Oman visits injured Indian seafarer in hospital",
+    "Let him give list of judges with the BJP and who aren't: Calcutta High Court takes exception to Abhishek Banerjee's remarks on judiciary",
+    "Low-pressure area forms over Bay of Bengal, likely to intensify into depression by November 15",
+    "Andhra to bring in Investment Protection Act to ease doing business, says Naidu",
+    "Modi in Bengaluru: PM participates in Prashanti Kutiram celebrations, to inaugurate Namma Metro Pink Line | LIVE",
+    "Maharashtra Minister slams police over security lapses after late-night ruckus outside his Chhatrapati Sambhajinagar home",
+    "Sonia Gandhi\u2019s \u2018Belonging\u2019: From being shelved to the shelves",
+    "Agricultural growth tops 4% for first decade since Independence; Centre absorbed \u20b943 of diesel hike: PM Modi",
+    "Tamil Nadu government issues G.O. effecting salary hike of guest lecturers in colleges",
+    "All you need to know about Jagdeep Dhankhar: 5 key facts about India\u2019s 14th Vice-President"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
