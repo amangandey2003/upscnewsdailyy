@@ -1,19 +1,19 @@
 {
-  "date": "13 November 2026",
-  "date_short": "Nov 13",
-  "updated_at": "2026-11-13T12:31:34.999246+05:30",
+  "date": "14 November 2026",
+  "date_short": "Nov 14",
+  "updated_at": "2026-11-14T12:20:57.052083+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "India\u2019s ambassador to Oman visits injured Indian seafarer in hospital",
-    "Let him give list of judges with the BJP and who aren't: Calcutta High Court takes exception to Abhishek Banerjee's remarks on judiciary",
-    "Low-pressure area forms over Bay of Bengal, likely to intensify into depression by November 15",
-    "Andhra to bring in Investment Protection Act to ease doing business, says Naidu",
-    "Modi in Bengaluru: PM participates in Prashanti Kutiram celebrations, to inaugurate Namma Metro Pink Line | LIVE",
-    "Maharashtra Minister slams police over security lapses after late-night ruckus outside his Chhatrapati Sambhajinagar home",
-    "Sonia Gandhi\u2019s \u2018Belonging\u2019: From being shelved to the shelves",
-    "Agricultural growth tops 4% for first decade since Independence; Centre absorbed \u20b943 of diesel hike: PM Modi",
-    "Tamil Nadu government issues G.O. effecting salary hike of guest lecturers in colleges",
-    "All you need to know about Jagdeep Dhankhar: 5 key facts about India\u2019s 14th Vice-President"
+    "Assam accident: Autopsy of 26 bodies on November 14; CM to visit injured, meet families of deceased",
+    "Kurumba: a language and community fighting for visibility",
+    "No locus standi: Indian envoy hits back at USCIRF for remarks on Sharjeel Imam",
+    "Police fully empowered to curb drugs and substance abuse in the city: Kerala High Court",
+    "Mahadev betting app case: CBI searches in 6 States lead to recovery of digital devices, key documents",
+    "HYDRAA to take up stepwell restorations to help water conservation measures in Hyderabad",
+    "Kerala HC directs Excise Commissioner to disclose steps taken to implement prohibitory measures to curb underage alcohol consumption",
+    "Electors face Form 6 and enumeration form quandary",
+    "PM Modi pays tributes to first Prime Minister Nehru on birth anniversary",
+    "MP adds 8.19 lakh voters since final SIR roll, electorate rises to 5.48 crore"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
