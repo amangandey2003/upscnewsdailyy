@@ -1,19 +1,19 @@
 {
-  "date": "14 November 2026",
-  "date_short": "Nov 14",
-  "updated_at": "2026-11-14T12:20:57.052083+05:30",
+  "date": "15 November 2026",
+  "date_short": "Nov 15",
+  "updated_at": "2026-11-15T12:25:45.901600+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Assam accident: Autopsy of 26 bodies on November 14; CM to visit injured, meet families of deceased",
-    "Kurumba: a language and community fighting for visibility",
-    "No locus standi: Indian envoy hits back at USCIRF for remarks on Sharjeel Imam",
-    "Police fully empowered to curb drugs and substance abuse in the city: Kerala High Court",
-    "Mahadev betting app case: CBI searches in 6 States lead to recovery of digital devices, key documents",
-    "HYDRAA to take up stepwell restorations to help water conservation measures in Hyderabad",
-    "Kerala HC directs Excise Commissioner to disclose steps taken to implement prohibitory measures to curb underage alcohol consumption",
-    "Electors face Form 6 and enumeration form quandary",
-    "PM Modi pays tributes to first Prime Minister Nehru on birth anniversary",
-    "MP adds 8.19 lakh voters since final SIR roll, electorate rises to 5.48 crore"
+    "Woman trampled to death by elephant in Hassan district in Karnataka",
+    "President Murmu, PM Modi greet Jharkhand residents on State\u2019s foundation day",
+    "Two cattle smugglers killed in encounter with police in Haryana",
+    "Congress wants to contest 181 seats in 2027 UP polls, indicates Akhilesh",
+    "No rainfall alerts for Andhra as depression to turn severe cyclonic storm over Bay of Bengal by November 17",
+    "India votes against UNGA resolution calling for global moratorium on death penalty",
+    "Karnataka High Court asks security, police organisations to review mental health policies for armed personnel",
+    "Karnataka mandates gynaecological check-ups for girls, sex education in schools",
+    "India, Egypt look to strengthen trade, investment ties, Piyush Goyal says",
+    "How a Delhi extortion plot led police to Mad Sandhu murder accused who was planning attack on Amitabh Bachchan"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
