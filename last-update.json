@@ -1,19 +1,19 @@
 {
-  "date": "15 November 2026",
-  "date_short": "Nov 15",
-  "updated_at": "2026-11-15T12:25:45.901600+05:30",
+  "date": "16 November 2026",
+  "date_short": "Nov 16",
+  "updated_at": "2026-11-16T12:30:19.036558+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Woman trampled to death by elephant in Hassan district in Karnataka",
-    "President Murmu, PM Modi greet Jharkhand residents on State\u2019s foundation day",
-    "Two cattle smugglers killed in encounter with police in Haryana",
-    "Congress wants to contest 181 seats in 2027 UP polls, indicates Akhilesh",
-    "No rainfall alerts for Andhra as depression to turn severe cyclonic storm over Bay of Bengal by November 17",
-    "India votes against UNGA resolution calling for global moratorium on death penalty",
-    "Karnataka High Court asks security, police organisations to review mental health policies for armed personnel",
-    "Karnataka mandates gynaecological check-ups for girls, sex education in schools",
-    "India, Egypt look to strengthen trade, investment ties, Piyush Goyal says",
-    "How a Delhi extortion plot led police to Mad Sandhu murder accused who was planning attack on Amitabh Bachchan"
+    "Six days of restrictions in Kulgam reminiscent of 1990s, people facing collective hardships: PDP's Sartaj Madani",
+    "Bat, ball and \u2018kulhad\u2019 chai: Prince William and Princess Kate\u2019s regal morning in Mumbai",
+    "Prince and Princess of Wales in Mumbai for Earthshot Prize 2026: All you need to know",
+    "Four months after launch, Kochi\u2019s third Ro-Ro vessel remains idle",
+    "Seminar at MCEME-Secunderabad explores indigenous space capabilities for military applications",
+    "Ram temple donation theft: Congress seeks new SIT reporting exclusively to Supreme Court",
+    "Voting underway for final phase of panchayat polls in Rajasthan",
+    "Tripura poll panel seeks central forces for civic elections",
+    "SIO activists detained in pre-dawn swoop before Israel-T-Hub event in Hyderabad",
+    "India, Egypt discuss steps to boost trade, address non-tariff barriers"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
