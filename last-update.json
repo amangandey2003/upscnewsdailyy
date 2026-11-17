@@ -1,19 +1,19 @@
 {
-  "date": "16 November 2026",
-  "date_short": "Nov 16",
-  "updated_at": "2026-11-16T12:30:19.036558+05:30",
+  "date": "17 November 2026",
+  "date_short": "Nov 17",
+  "updated_at": "2026-11-17T13:46:12.102800+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Six days of restrictions in Kulgam reminiscent of 1990s, people facing collective hardships: PDP's Sartaj Madani",
-    "Bat, ball and \u2018kulhad\u2019 chai: Prince William and Princess Kate\u2019s regal morning in Mumbai",
-    "Prince and Princess of Wales in Mumbai for Earthshot Prize 2026: All you need to know",
-    "Four months after launch, Kochi\u2019s third Ro-Ro vessel remains idle",
-    "Seminar at MCEME-Secunderabad explores indigenous space capabilities for military applications",
-    "Ram temple donation theft: Congress seeks new SIT reporting exclusively to Supreme Court",
-    "Voting underway for final phase of panchayat polls in Rajasthan",
-    "Tripura poll panel seeks central forces for civic elections",
-    "SIO activists detained in pre-dawn swoop before Israel-T-Hub event in Hyderabad",
-    "India, Egypt discuss steps to boost trade, address non-tariff barriers"
+    "ASEAN Summit LIVE updates: PM Modi at ASEAN-India Summit; Quad meeting likely after President Trump arrives",
+    "Call for cancellation of TNMSC\u2019s tenders for repair works at TASMAC warehouses in Tamil Nadu",
+    "Death of woman in Kozhikode\u2019s Perambra: Cases filed against those who protested outside bank branch",
+    "Eight killed, 26 injured as bus plunges into 100-metre gorge in Uttarakhand's Tehri Garhwal",
+    "Keralam CM announces Tirupati-model mega project for Sabarimala pilgrims",
+    "Calcutta High Court issues criminal contempt proceedings against Abhishek Banerjee",
+    "How does India address service outages?",
+    "Modi government favouring corporates at the cost of farmers: Vijoo Krishnan",
+    "IND vs NZ Tests: India faces test of character as WTC hopes hang in balance",
+    "BRS hits back at Congress for speaking lies on Tummidihatti in Delhi"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
