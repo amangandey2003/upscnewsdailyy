@@ -1,19 +1,19 @@
 {
-  "date": "17 November 2026",
-  "date_short": "Nov 17",
-  "updated_at": "2026-11-17T13:46:12.102800+05:30",
+  "date": "18 November 2026",
+  "date_short": "Nov 18",
+  "updated_at": "2026-11-18T13:18:53.284875+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "ASEAN Summit LIVE updates: PM Modi at ASEAN-India Summit; Quad meeting likely after President Trump arrives",
-    "Call for cancellation of TNMSC\u2019s tenders for repair works at TASMAC warehouses in Tamil Nadu",
-    "Death of woman in Kozhikode\u2019s Perambra: Cases filed against those who protested outside bank branch",
-    "Eight killed, 26 injured as bus plunges into 100-metre gorge in Uttarakhand's Tehri Garhwal",
-    "Keralam CM announces Tirupati-model mega project for Sabarimala pilgrims",
-    "Calcutta High Court issues criminal contempt proceedings against Abhishek Banerjee",
-    "How does India address service outages?",
-    "Modi government favouring corporates at the cost of farmers: Vijoo Krishnan",
-    "IND vs NZ Tests: India faces test of character as WTC hopes hang in balance",
-    "BRS hits back at Congress for speaking lies on Tummidihatti in Delhi"
+    "Maharashtra Cabinet approves cash rewards for information on weapons looted by Maoists",
+    "Three Hyderabad shopping streets feature in APAC\u2019s retail rankings, Delhi\u2019s Khan Market tops India\u2019s retail streets with \u20b91,875/sft rental",
+    "When does the 24-hour countdown begin after arrest? Supreme Court answers",
+    "Eight interns of Kolkata Medical College issued show-cause over statements on Chorbagan stampede",
+    "Madurai Tanishq showroom gold heist: Police recover all the burgled gold, diamond jewellery",
+    "Namma Metro Pink Line: Will it ease traffic congestion? | Decode Karnataka",
+    "M.P. police officers caught on CCTV threatening to plant ganja in couple\u2019s bag; inspector faces inquiry",
+    "Scrap the Shillong Peak Ropeway Project, say civil society groups",
+    "LeT\u2019s Lateef Bhat killed in Kulgam encounter",
+    "Andhra keeps 13 NDRF and 11 SDRF teams ready for Cyclone Akvan"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
