@@ -1,19 +1,19 @@
 {
-  "date": "18 November 2026",
-  "date_short": "Nov 18",
-  "updated_at": "2026-11-18T13:18:53.284875+05:30",
+  "date": "19 November 2026",
+  "date_short": "Nov 19",
+  "updated_at": "2026-11-19T13:14:28.757490+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Maharashtra Cabinet approves cash rewards for information on weapons looted by Maoists",
-    "Three Hyderabad shopping streets feature in APAC\u2019s retail rankings, Delhi\u2019s Khan Market tops India\u2019s retail streets with \u20b91,875/sft rental",
-    "When does the 24-hour countdown begin after arrest? Supreme Court answers",
-    "Eight interns of Kolkata Medical College issued show-cause over statements on Chorbagan stampede",
-    "Madurai Tanishq showroom gold heist: Police recover all the burgled gold, diamond jewellery",
-    "Namma Metro Pink Line: Will it ease traffic congestion? | Decode Karnataka",
-    "M.P. police officers caught on CCTV threatening to plant ganja in couple\u2019s bag; inspector faces inquiry",
-    "Scrap the Shillong Peak Ropeway Project, say civil society groups",
-    "LeT\u2019s Lateef Bhat killed in Kulgam encounter",
-    "Andhra keeps 13 NDRF and 11 SDRF teams ready for Cyclone Akvan"
+    "Cyclone Akvan to spare most of Andhra; red alert remains for Srikakulam, Vizianagaram, Parvathipuram",
+    "At least 40 injured as Bengaluru-Hyderabad private bus overturns near Raptadu in Anantapur",
+    "Shiv Sena members tear pages of Sonia Gandhi\u2019s book over Savarkar references, seek ban in Maharashtra",
+    "Free entry to Taj Mahal, Agra Fort on November 19 as Heritage Week begins",
+    "Telangana feels the chill with season\u2019s low of 11\u00b0C on November 18-19 intervening night",
+    "Tamil Nadu Police launch e-CSR facility to enable online filing of complaints",
+    "PM Modi invites suggestions from India Inc on further reforms",
+    "Cyclone 'Akvan' LIVE updates: Odisha evacuates over 80,000 people as severe cyclonic storm likely to cross coast near Gopalpur",
+    "Supreme Court refuses to intervene in interim bail granted to SP leader Azam Khan",
+    "Supreme Court declines status quo against High Court allowing interim bail to Azam Khan"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
