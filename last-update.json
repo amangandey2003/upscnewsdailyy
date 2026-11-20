@@ -1,19 +1,19 @@
 {
-  "date": "19 November 2026",
-  "date_short": "Nov 19",
-  "updated_at": "2026-11-19T13:14:28.757490+05:30",
+  "date": "20 November 2026",
+  "date_short": "Nov 20",
+  "updated_at": "2026-11-20T13:06:28.904716+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Cyclone Akvan to spare most of Andhra; red alert remains for Srikakulam, Vizianagaram, Parvathipuram",
-    "At least 40 injured as Bengaluru-Hyderabad private bus overturns near Raptadu in Anantapur",
-    "Shiv Sena members tear pages of Sonia Gandhi\u2019s book over Savarkar references, seek ban in Maharashtra",
-    "Free entry to Taj Mahal, Agra Fort on November 19 as Heritage Week begins",
-    "Telangana feels the chill with season\u2019s low of 11\u00b0C on November 18-19 intervening night",
-    "Tamil Nadu Police launch e-CSR facility to enable online filing of complaints",
-    "PM Modi invites suggestions from India Inc on further reforms",
-    "Cyclone 'Akvan' LIVE updates: Odisha evacuates over 80,000 people as severe cyclonic storm likely to cross coast near Gopalpur",
-    "Supreme Court refuses to intervene in interim bail granted to SP leader Azam Khan",
-    "Supreme Court declines status quo against High Court allowing interim bail to Azam Khan"
+    "1.6 lakh candidates expected to take preliminary written test for Telangana SI and equivalent posts on November 29",
+    "Man involved in exploitation of 14 women deported from UAE: CBI",
+    "CEC report may complicate Keralam\u2019s plan to resume river sand mining",
+    "Enforcement Directorate summons RS MP Sandhu",
+    "Cauvery dispute: SC dismisses TN plea on Karnataka not making good shortfall in water share",
+    "Nepal PM Balendra Shah to visit India on November 22\u201323",
+    "Rare \u2018bridal veil\u2019 bamboo mushroom spotted near Ranganathittu Bird Sanctuary",
+    "ED conducts searches at multiple locations in Keralam as part of probe into suspected FEMA violations, hawala deals",
+    "What brews for Indian Coffee House?",
+    "Former Indian athlete Padmini Thomas quits BJP, seeks return to Congress in Keralam"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
