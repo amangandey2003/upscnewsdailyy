@@ -1,19 +1,19 @@
 {
-  "date": "20 November 2026",
-  "date_short": "Nov 20",
-  "updated_at": "2026-11-20T13:06:28.904716+05:30",
+  "date": "21 November 2026",
+  "date_short": "Nov 21",
+  "updated_at": "2026-11-21T13:01:59.445846+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "1.6 lakh candidates expected to take preliminary written test for Telangana SI and equivalent posts on November 29",
-    "Man involved in exploitation of 14 women deported from UAE: CBI",
-    "CEC report may complicate Keralam\u2019s plan to resume river sand mining",
-    "Enforcement Directorate summons RS MP Sandhu",
-    "Cauvery dispute: SC dismisses TN plea on Karnataka not making good shortfall in water share",
-    "Nepal PM Balendra Shah to visit India on November 22\u201323",
-    "Rare \u2018bridal veil\u2019 bamboo mushroom spotted near Ranganathittu Bird Sanctuary",
-    "ED conducts searches at multiple locations in Keralam as part of probe into suspected FEMA violations, hawala deals",
-    "What brews for Indian Coffee House?",
-    "Former Indian athlete Padmini Thomas quits BJP, seeks return to Congress in Keralam"
+    "VCK chief terms Supreme Court\u2019s interim verdict in Thirupparankundram case \u2018shocking\u2019",
+    "PM Modi says India has shown it can break limits, unlock possibilities",
+    "Amritpal Singh flown to Amritsar for grandmother's cremation",
+    "This 2D rhythm platformer video game is an ode to India\u2019s multiplicities",
+    "CCMB team identifies genes that spur nerve repair, raise possibility of paralysis treatment",
+    "U.P. signs three-year pact with WorldFish to help increase aquaculture productivity",
+    "Over 1 crore HPV vaccines given to 14-year-old girls in nine months: Health Ministry",
+    "After strong El Ni\u00f1o, La Ni\u00f1a may boost India\u2019s 2027 monsoon, says INCOIS forecast",
+    "PM, HM still searching for \u2018supertainted\u2019 two-thirds majority for delimitation bill, says Congress",
+    "Three years after opening, medical students at Telangana\u2019s GMC Karimnagar still await basic infrastructure"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
