@@ -1,19 +1,19 @@
 {
-  "date": "21 November 2026",
-  "date_short": "Nov 21",
-  "updated_at": "2026-11-21T13:01:59.445846+05:30",
+  "date": "22 November 2026",
+  "date_short": "Nov 22",
+  "updated_at": "2026-11-22T12:43:21.132709+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "VCK chief terms Supreme Court\u2019s interim verdict in Thirupparankundram case \u2018shocking\u2019",
-    "PM Modi says India has shown it can break limits, unlock possibilities",
-    "Amritpal Singh flown to Amritsar for grandmother's cremation",
-    "This 2D rhythm platformer video game is an ode to India\u2019s multiplicities",
-    "CCMB team identifies genes that spur nerve repair, raise possibility of paralysis treatment",
-    "U.P. signs three-year pact with WorldFish to help increase aquaculture productivity",
-    "Over 1 crore HPV vaccines given to 14-year-old girls in nine months: Health Ministry",
-    "After strong El Ni\u00f1o, La Ni\u00f1a may boost India\u2019s 2027 monsoon, says INCOIS forecast",
-    "PM, HM still searching for \u2018supertainted\u2019 two-thirds majority for delimitation bill, says Congress",
-    "Three years after opening, medical students at Telangana\u2019s GMC Karimnagar still await basic infrastructure"
+    "Teenager killed in bus-bike collision as alleged over-speeding claims another life in Kochi",
+    "Police focus on 1,500 panchayats in Chittoor, Annamayya, Sri Sathya Sai districts ahead of polls",
+    "Fake MCD parking slips used to dupe motorists in Old Delhi; two rackets busted in 24 hours",
+    "Hemant Soren writes to CJI to urgently appoint Jharkhand HC Chief Justice successor",
+    "NDA will win all panchayats in upcoming polls, says TDP leader Divakar Reddy in Tirupati",
+    "PANI project to connect Andaman's eight islands through undersea cable network",
+    "Union Minister Rajiv Ranjan Singh reviews indigenous cattle research at SVVU in Tirupati",
+    "Police complaint against WB LoP, police officers for fabrication of affidavits before ECI",
+    "Minor girls abducted, raped in Bhadohi, UP, rescued; one girl remains missing",
+    "Over 100 children, 12 adults hospitalised after eating \u2018chowmein\u2019 at village fair in Madhya Pradesh"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
