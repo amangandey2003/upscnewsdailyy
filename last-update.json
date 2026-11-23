@@ -1,19 +1,19 @@
 {
-  "date": "22 November 2026",
-  "date_short": "Nov 22",
-  "updated_at": "2026-11-22T12:43:21.132709+05:30",
+  "date": "23 November 2026",
+  "date_short": "Nov 23",
+  "updated_at": "2026-11-23T13:28:12.461765+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Teenager killed in bus-bike collision as alleged over-speeding claims another life in Kochi",
-    "Police focus on 1,500 panchayats in Chittoor, Annamayya, Sri Sathya Sai districts ahead of polls",
-    "Fake MCD parking slips used to dupe motorists in Old Delhi; two rackets busted in 24 hours",
-    "Hemant Soren writes to CJI to urgently appoint Jharkhand HC Chief Justice successor",
-    "NDA will win all panchayats in upcoming polls, says TDP leader Divakar Reddy in Tirupati",
-    "PANI project to connect Andaman's eight islands through undersea cable network",
-    "Union Minister Rajiv Ranjan Singh reviews indigenous cattle research at SVVU in Tirupati",
-    "Police complaint against WB LoP, police officers for fabrication of affidavits before ECI",
-    "Minor girls abducted, raped in Bhadohi, UP, rescued; one girl remains missing",
-    "Over 100 children, 12 adults hospitalised after eating \u2018chowmein\u2019 at village fair in Madhya Pradesh"
+    "Earthmover at Amarnath Yatra stopover Sheshnag lake draws outrage from parties and locals",
+    "TMC MLA Sabina Yeasmin appears before NIA in connection with \u2018attacks\u2019 on judicial officers",
+    "Rahul Gandhi\u2019s Gaza remarks expose old fault lines between Congress and Left",
+    "Nepal PM India visit LIVE: Balen Shah begins bilateral visit; energy, connectivity on agenda",
+    "Supreme Court says, right to seek correction of electoral roll entry is personal, can't be pursued in PIL",
+    "Medicos warn against craze for fairness after 17-year-old Keralam girl diagnosed with kidney disorder",
+    "Adityanath hails Ayodhya-Janakpur rail link as new chapter in India-Nepal cultural ties",
+    "CJI Surya Kant recuses himself from hearing plea related to Supertech projects",
+    "Two youths killed as bike crashes into footpath in Kochi",
+    "17.21 lakh children receive polio drops in Telangana\u2019s five district; house-to-house drive in GHMC from November 23 to 25"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
