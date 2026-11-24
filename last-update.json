@@ -1,19 +1,19 @@
 {
-  "date": "23 November 2026",
-  "date_short": "Nov 23",
-  "updated_at": "2026-11-23T13:28:12.461765+05:30",
+  "date": "24 November 2026",
+  "date_short": "Nov 24",
+  "updated_at": "2026-11-24T15:42:50.488497+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Earthmover at Amarnath Yatra stopover Sheshnag lake draws outrage from parties and locals",
-    "TMC MLA Sabina Yeasmin appears before NIA in connection with \u2018attacks\u2019 on judicial officers",
-    "Rahul Gandhi\u2019s Gaza remarks expose old fault lines between Congress and Left",
-    "Nepal PM India visit LIVE: Balen Shah begins bilateral visit; energy, connectivity on agenda",
-    "Supreme Court says, right to seek correction of electoral roll entry is personal, can't be pursued in PIL",
-    "Medicos warn against craze for fairness after 17-year-old Keralam girl diagnosed with kidney disorder",
-    "Adityanath hails Ayodhya-Janakpur rail link as new chapter in India-Nepal cultural ties",
-    "CJI Surya Kant recuses himself from hearing plea related to Supertech projects",
-    "Two youths killed as bike crashes into footpath in Kochi",
-    "17.21 lakh children receive polio drops in Telangana\u2019s five district; house-to-house drive in GHMC from November 23 to 25"
+    "Telangana\u2019s agriculture sector NPAs pegged at \u20b97,304 crore",
+    "Thirupparankundram 'deepathoon' row LIVE: Tamil Nadu BJP chief arrested, tight security in hillock on Karthigai Deepam day",
+    "Why BJP is keen on renaming West Bengal \u2018Paschim Banga\u2019? | Explained",
+    "Punjab Assembly polls: BJP-SAD reunite, announce seat-sharing alliance",
+    "Telangana HC orders \u20b92 lakh compensation to woman, 24 years after husband\u2019s death in \u2018police encounter\u2019",
+    "Fake video of BJP president Nitin Nabin: Delhi Police registers case",
+    "Bomb threat email targets Diljit Dosanjh\u2019s Bengaluru concert; North Cybercrime Police register FIR",
+    "Security tightened in Madurai for Thirupparankundram Karthigai Deepam festival",
+    "Chennai Regional Passport Office notice led to CJP\u2019s Saurav Das being stopped at Delhi airport",
+    "Tirunelveli POCSO Court magistrate suspended over misconduct allegations"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
