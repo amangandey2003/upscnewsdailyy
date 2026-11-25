@@ -1,19 +1,19 @@
 {
-  "date": "24 November 2026",
-  "date_short": "Nov 24",
-  "updated_at": "2026-11-24T15:42:50.488497+05:30",
+  "date": "25 November 2026",
+  "date_short": "Nov 25",
+  "updated_at": "2026-11-25T14:27:13.023576+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Telangana\u2019s agriculture sector NPAs pegged at \u20b97,304 crore",
-    "Thirupparankundram 'deepathoon' row LIVE: Tamil Nadu BJP chief arrested, tight security in hillock on Karthigai Deepam day",
-    "Why BJP is keen on renaming West Bengal \u2018Paschim Banga\u2019? | Explained",
-    "Punjab Assembly polls: BJP-SAD reunite, announce seat-sharing alliance",
-    "Telangana HC orders \u20b92 lakh compensation to woman, 24 years after husband\u2019s death in \u2018police encounter\u2019",
-    "Fake video of BJP president Nitin Nabin: Delhi Police registers case",
-    "Bomb threat email targets Diljit Dosanjh\u2019s Bengaluru concert; North Cybercrime Police register FIR",
-    "Security tightened in Madurai for Thirupparankundram Karthigai Deepam festival",
-    "Chennai Regional Passport Office notice led to CJP\u2019s Saurav Das being stopped at Delhi airport",
-    "Tirunelveli POCSO Court magistrate suspended over misconduct allegations"
+    "\u2018Saam, daam, dand, bhed\u2019: Congress\u2019 swipe at Modi Govt over delimitation issue",
+    "Space for pedestrians, other road users in Hyderabad by 2050, promises HUMTA",
+    "Thirupparankundram row: Madurai District Collector says Devasthanam did not authorise lamp-lighting team",
+    "Tamil Nadu government set to ink 70 MoUs for investments to the tune of over \u20b950,000 crore",
+    "Keralam CM Satheesan says he too is target of online attacks, alleges \u2018important individual\u2019 behind fake news campaign",
+    "Thirupparankundram row LIVE: Madurai District Collector says Devasthanam did not authorise lamp-lighting team",
+    "Where is the accountability: Kharge slams Modi govt on anaemia report",
+    "Calcutta High Court restrains KMC polls until challenge on delimitation decided",
+    "Seven Andhra fishermen safe; search for six missing off Odisha reaches Bangladesh, Myanmar waters",
+    "Search intensified for six missing Andhra Pradesh fishermen off Odisha coast"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
