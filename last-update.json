@@ -1,19 +1,19 @@
 {
-  "date": "25 November 2026",
-  "date_short": "Nov 25",
-  "updated_at": "2026-11-25T14:27:13.023576+05:30",
+  "date": "26 November 2026",
+  "date_short": "Nov 26",
+  "updated_at": "2026-11-26T14:13:28.500161+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "\u2018Saam, daam, dand, bhed\u2019: Congress\u2019 swipe at Modi Govt over delimitation issue",
-    "Space for pedestrians, other road users in Hyderabad by 2050, promises HUMTA",
-    "Thirupparankundram row: Madurai District Collector says Devasthanam did not authorise lamp-lighting team",
-    "Tamil Nadu government set to ink 70 MoUs for investments to the tune of over \u20b950,000 crore",
-    "Keralam CM Satheesan says he too is target of online attacks, alleges \u2018important individual\u2019 behind fake news campaign",
-    "Thirupparankundram row LIVE: Madurai District Collector says Devasthanam did not authorise lamp-lighting team",
-    "Where is the accountability: Kharge slams Modi govt on anaemia report",
-    "Calcutta High Court restrains KMC polls until challenge on delimitation decided",
-    "Seven Andhra fishermen safe; search for six missing off Odisha reaches Bangladesh, Myanmar waters",
-    "Search intensified for six missing Andhra Pradesh fishermen off Odisha coast"
+    "CM Vijay inaugurates 148 houses for Sri Lankan Tamils in Krishnagiri rehabilitation camp",
+    "Amid rising costs, Keralam\u2019s aided primary school headteachers seek higher fund allocation for noon meal scheme",
+    "Supreme Court to hear contempt pleas in Thirupparankundram lamp-lighting row on Nov. 27",
+    "Sharad Pawar admitted to hospital in south Mumbai",
+    "21-cr travelator bridge to link Nampally Railway Station, Hyderabad Metro Station; 10 of 20 foundations completed",
+    "No Muslim, irrespective of political affiliation, can be prevented from offering Namaz in mosques: Madras High Court",
+    "Keralam UDF govt forms sub-committee to finalise liquor policy",
+    "Why viral video of an earthmover near Kashmir\u2019s Sheshnag Lake has sparked protests | Explained",
+    "Keralam CM launches Christmas-New Year Bumper Lottery with \u20b925-crore first prize",
+    "Polling under way in 23 urban local bodies and 3,240 gram panchayats in Andhra Pradesh | LIVE"
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
