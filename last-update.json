@@ -1,19 +1,19 @@
 {
-  "date": "27 November 2026",
-  "date_short": "Nov 27",
-  "updated_at": "2026-11-27T14:24:54.006184+05:30",
+  "date": "28 November 2026",
+  "date_short": "Nov 28",
+  "updated_at": "2026-11-28T13:45:38.117722+05:30",
   "hindu_stories_count": 14,
   "top_titles": [
-    "Polavaram evacuees boycott panchayat polls in Eluru district, demand separate panchayat",
-    "DMK sets conditions to support Delimitation Bill",
-    "For the second time this year, Guindy Children\u2019s Park closed as birds die of suspected flu",
-    "Coffee planter killed in wild elephant attack in Kodagu",
-    "Thirupparankundram 'deepathoon' row LIVE: Supreme Court to pass interim orders over failure to light Karthigai Deepam lamp",
-    "Atchannaidu orders Statewide inspection of fishing boats, warns officials of action over lapses",
-    "Telangana Waqf Board set to convene meeting after two years; discussion on properties likely",
-    "CM Vijay honours former Ministers V.V. Swaminathan, H.V. Hande on their centenaries",
-    "IORA nations must enhance collaboration: EAM Jaishankar",
-    "Parliament's special sitting not for women\u2019s quota but delimitation, will be resisted with all might: Congress"
+    "Delimitation Bill LIVE: INDIA bloc meets ahead of special Parliament session; DMK announces support for Centre's proposal",
+    "\u20b97.86 crore fund fraud puts SC/ST welfare spending in Keralam\u2019s Palakkad district under scanner",
+    "Thirupparankundram row: 'Deepathoon' lamp lighting likely at 5:00 p.m.; access restricted to select witnesses",
+    "FSSAI finds coliform bacteria in second Bisleri water sample; company seeks review of \u2018conflicting\u2019 test results",
+    "Polling for 30 wards in Patiala, 15 in Baghapurana and seven in Dharamkot underway in Punjab",
+    "President Murmu says maritime domain increasingly important in interconnected world",
+    "Bhupen Hazarika: The voice that gave philosophy a song",
+    "Lok Sabha seat freeze is no longer linked to population stabilisation",
+    "DMK MPs\u2019 meeting demands fair delimitation based on 1971 census",
+    "Karnataka to launch \u2018Delhi Chalo\u2019 protest if Centre fails to release drought relief: Karnataka CM D.K. Shivakumar "
   ],
   "status": "auto-update workflow ran",
   "next_step": "Arena agent should run web_search for The Hindu + PIB and rebuild index.html newsData array"
